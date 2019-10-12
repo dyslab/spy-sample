@@ -2,9 +2,11 @@
 
 Scrapy Learning.
 
-App venv:
 
-```
+
+Python version (venv):  Python 3.7.3
+
+```powershell
 $ . bin/activate
 ```
 
