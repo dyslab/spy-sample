@@ -8,7 +8,16 @@
 import scrapy
 
 
-class SpytestItem(scrapy.Item):
+class TrackingInfoItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    parcelno = scrapy.Field()
+    state = scrapy.Field()
+    dest = scrapy.Field()
+    details = scrapy.Field()
+    
+    def printItems(self):
+        print('Parcel No: %s' % self['parcelno'])
+        print('State: %s' % self['state'])
+        print('Destination: %s' % self['dest'])
+        print('Details: %s' % self['details'])
+    
