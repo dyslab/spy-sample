@@ -2,17 +2,11 @@
 
 Scrapy Learning.
 
-
-<hr>
-
-
 ## Python version (venv):  Python 3.7.3
-
 
 ```powershell
 $ . bin/activate
 ```
-
 
 ## Spiders 🕷🕷🕷:
 
@@ -25,7 +19,4 @@ $ . bin/activate
 🕷 sitemapsample   (Usage: scrapy crawl sitemapsample -o sitemapsample.csv)
 
 
-<hr>
-
-
-12 October 2019
+*12 October 2019*
