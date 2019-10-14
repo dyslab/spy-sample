@@ -39,3 +39,9 @@ class CSVSampleItem(scrapy.Item):
     code = scrapy.Field()
     cityCode = scrapy.Field()
     provinceCode = scrapy.Field()
+
+
+class SitemapSampleItem(scrapy.Item):
+    # define the fields for your item here like:
+    title = scrapy.Field()
+    url = scrapy.Field()
