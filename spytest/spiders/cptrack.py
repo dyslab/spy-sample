@@ -1,13 +1,15 @@
 '''
     Spider name: cptrack
 
-    Crawl tracking information from colisprive.com by tracking number.
+    Crawl tracking information from www.colisprive.com by tracking number.
 
     Arguments:
         num: Tracking Number.
 
     Usage:
-        scrapy crawl --nolog cptrack -a num=FX000090696630220
+        $ scrapy crawl --nolog cptrack -a num=FX000090696630220
+        $ scrapy crawl cptrack -o trackinfo.csv -a num=FX000090696630220   # Output csv file.
+        $ scrapy crawl cptrack -o trackinfo.json -s FEED_EXPORT_ENCODING=utf-8 -a num=FX000090696630220   # Output json file and encoding as utf-8.
 '''
 # -*- coding: utf-8 -*-
 import scrapy
@@ -29,10 +31,11 @@ class CPTrackSpider(scrapy.Spider):
         # print(response.css('div.divStatut div.tdText::text').get())
         # print(response.css('div.divDesti div.tdText::text').get())
         titem = TrackingInfoItem()
+        titem['tracknum'] = self.num
         titem['parcelno'] = response.css('div.divColis div.tdText::text').get()
-        titem['state'] = response.css('div.divStatut div.tdText::text').get()
+        titem['status'] = response.css('div.divStatut div.tdText::text').get()
         titem['dest'] = response.css('div.divDesti div.tdText::text').get()
         titem['details'] = response.css('tr.bandeauText td.tdText::text').getall()
         titem.printItems()
 
-        return titem
+        yield titem
