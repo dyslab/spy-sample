@@ -1,0 +1,14 @@
+------------ header part ------------	
+Server: nginx	
+Date: Mon, 21 Oct 2019 12:53:05 GMT	
+Content-Type: application/json; charset=UTF-8	
+Cache-Control: private	
+Vary: Accept-Encoding,Accept-Encoding	
+Verify-Passed: False	
+17Server: App	
+Access-Control-Allow-Credentials: true	
+Access-Control-Max-Age: 86400	
+Access-Control-Allow-Headers: Last-Event-ID	
+	
+------------- body part -------------	
+{"ret":-8,"msg":"abN","dat":[]}
