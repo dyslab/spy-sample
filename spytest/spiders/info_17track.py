@@ -42,9 +42,9 @@ class Test17TrackSpider(scrapy.Spider):
         )]
 
     def after_post(self, response):
-        #item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
-        #item['name'] = response.xpath('//div[@id="name"]').get()
-        #item['description'] = response.xpath('//div[@id="description"]').get()
+        # item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
+        # item['name'] = response.xpath('//div[@id="name"]').get()
+        # item['description'] = response.xpath('//div[@id="description"]').get()
         print('********************** after_post. BEGIN')
         print(response.url)
         print(response.headers)

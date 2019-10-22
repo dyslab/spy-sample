@@ -41,11 +41,17 @@ class LPTrackSpider(scrapy.Spider):
         )
 
     def after_get(self, response):
-        #item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
-        #item['name'] = response.xpath('//div[@id="name"]').get()
-        #item['description'] = response.xpath('//div[@id="description"]').get()
+        # item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
+        # item['name'] = response.xpath('//div[@id="name"]').get()
+        # item['description'] = response.xpath('//div[@id="description"]').get()
         print('********************** after_post. BEGIN')
         print(response.url)
         print(response.headers)
         print(bytes.decode(response.body))
         print('********************** after_post. END')
+
+        ###############################################
+        # Invoke scrapy shell to test response.
+        ###############################################
+        # from scrapy.shell import inspect_response
+        # inspect_response(response, self)
