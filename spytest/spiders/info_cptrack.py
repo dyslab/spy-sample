@@ -7,9 +7,9 @@
         num: Tracking Number.
 
     Usage:
-        $ scrapy crawl --nolog cptrack -a num=FX000090696630220
-        $ scrapy crawl cptrack -o trackinfo.csv -a num=FX000090696630220   # Output csv file.
-        $ scrapy crawl cptrack -o trackinfo.json -s FEED_EXPORT_ENCODING=utf-8 -a num=FX000090696630220   # Output json file and encoding as utf-8.
+        $ scrapy crawl --nolog cptrack -a num=FX000110077668320
+        $ scrapy crawl cptrack -o cptrack.csv -a num=FX000090696630220   # Output csv file.
+        $ scrapy crawl cptrack -o cptrack.json -s FEED_EXPORT_ENCODING=utf-8 -a num=FX000113628526320   # Output json file and encoding as utf-8.
 '''
 # -*- coding: utf-8 -*-
 import scrapy

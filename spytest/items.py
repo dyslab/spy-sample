@@ -6,11 +6,19 @@
 # https://docs.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+from scrapy.loader.processors import Join, MapCompose
+# from w3lib.html import remove_tags
+
+def remove_space_and_add_tag(text):
+    return 'No.' + str(text).strip()
 
 
 class TrackingInfoItem(scrapy.Item):
     # define the fields for your item here like:
-    tracknum = scrapy.Field()
+    tracknum = scrapy.Field(
+        input_processor = MapCompose(remove_space_and_add_tag),
+        output_processor = Join()
+    )
     parcelno = scrapy.Field()
     status = scrapy.Field()
     dest = scrapy.Field()
