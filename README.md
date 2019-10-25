@@ -3,12 +3,19 @@
 Scrapy Learning Program.
 
 
-## Python version (venv mode):  Python 3.7.3
+## Python version:  Python 3.7 or above
+
+Install virtual enviroment:
 
 ```shell
-$ . bin/activate
+$ python3 -m venv venv
 ```
 
+Activate venv:
+
+```shell
+$ . venv/bin/activate
+```
 
 ## Spiders:
 
@@ -28,8 +35,11 @@ $ . bin/activate
 ---
 
 
+Packages list: See [pip_list.txt](pip_list.txt)
+
+
 Document information:
 
-- *Last Modified on 23 October 2019*
+- *Last Modified on 26 October 2019*
 
 - *Created on 12 October 2019*
