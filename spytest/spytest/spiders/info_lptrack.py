@@ -6,10 +6,11 @@
     Crawl tracking information from www.laposte.fr by tracking number.
 
     Arguments:
-        num: Tracking Number.
+        ! num: Tracking Number.
 
     Usage:
-        scrapy crawl lptrack -a num=LO091851994CN -o lptrack.json
+        scrapy crawl lptrack -a num=LO091851994CN
+        ! scrapy crawl lptrack -a num=LO091851994CN -o lptrack.json
 '''
 # -*- coding: utf-8 -*-
 import scrapy

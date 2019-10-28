@@ -14,6 +14,7 @@
 '''
 # -*- coding: utf-8 -*-
 import scrapy
+import json
 from scrapy.http import JSONRequest
 
 
@@ -42,13 +43,15 @@ class Test17TrackSpider(scrapy.Spider):
         )]
 
     def after_post(self, response):
-        # item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
-        # item['name'] = response.xpath('//div[@id="name"]').get()
-        # item['description'] = response.xpath('//div[@id="description"]').get()
         print('********************** after_post. BEGIN')
         print(response.url)
         print(response.headers)
-        print(bytes.decode(response.body))
+        # print(bytes.decode(response.body))  #  as same as the line below
+        print(response.text)
+        res = json.loads(response.text, encoding = 'utf-8')
+        print('ret: {}, msg: {}'.format(res['ret'], res['msg']))
+
+        # Write to a json file by binary mode.
         with open('17track.json', 'wb') as fbjson:
             fbjson.write(b'------------ header part ------------\t\n')
             for item in dict(response.headers):
@@ -61,4 +64,5 @@ class Test17TrackSpider(scrapy.Spider):
             fbjson.write(b'\t\n------------- body part -------------\t\n')
             fbjson.write(response.body)
             fbjson.close()
+        
         print('********************** after_post. END')

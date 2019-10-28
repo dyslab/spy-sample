@@ -8,7 +8,7 @@
 
     Usage:
         $ scrapy crawl --nolog xmlsample -o xmlsample.csv   # Output csv file.
-        $ scrapy crawl xmlsample -o xmlsample.json -s FEED_EXPORT_ENCODING=utf-8    # Output json file and encoding as utf-8.
+        $ scrapy crawl xmlsample -o xmlsample.json -s FEED_EXPORT_ENCODING=utf-8 -s FEED_EXPORT_INDENT=4   # Output json file and encoding as utf-8.
 
     RSS/XML Feed Sample Sites:
         - http://www.36kr.com/feed/

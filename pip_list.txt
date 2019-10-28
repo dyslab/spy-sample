@@ -2,6 +2,7 @@ Package          Version
 ---------------- -------
 attrs            19.3.0 
 Automat          0.8.0  
+autopep8         1.4.4  
 cffi             1.13.1 
 constantly       15.1.0 
 cryptography     2.8    
@@ -15,6 +16,7 @@ pip              18.1
 pkg-resources    0.0.0  
 pyasn1           0.4.7  
 pyasn1-modules   0.2.7  
+pycodestyle      2.5.0  
 pycparser        2.19   
 PyDispatcher     2.0.5  
 PyHamcrest       1.9.0  
