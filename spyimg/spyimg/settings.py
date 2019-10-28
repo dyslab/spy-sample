@@ -19,7 +19,7 @@ NEWSPIDER_MODULE = 'spyimg.spiders'
 #USER_AGENT = 'spyimg (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -88,3 +88,12 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+# Download Setting
+DOWNLOAD_DELAY = 1
+DOWNLOAD_TIMEOUT = 30
+RANDOMIZE_DOWNLOAD_DELAY = True
+
+# Feed exports setting
+FEED_EXPORT_ENCODING = 'utf-8'
+FEED_EXPORT_INDENT = 4

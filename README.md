@@ -39,6 +39,8 @@ $ scrapy [command ...]
 
 - **spyimg**
 
+    - 🕷 fetchimgs   (Usage: scrapy crawl --nolog fetchimgs -a url=http://img.mtrtsy.com/170216/co1F216024225-[n].jpg -a startno=0)
+
 
 ---
 
@@ -48,6 +50,6 @@ Packages list: See [pip_list.txt](pip_list.txt)
 
 Document information:
 
-- *Last Modified on 26 October 2019*
+- *Last Modified on 29 October 2019*
 
 - *Created on 12 October 2019*
