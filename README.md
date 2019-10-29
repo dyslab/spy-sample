@@ -65,14 +65,14 @@ $ scrapy [command ...]
 
     - 🕷 fetchimgs
 
-        ```
+        ```shell
         $ scrapy crawl --nolog fetchimgs -a url=http://img.mtrtsy.com/170216/co1F216024225-[n].jpg -a startno=0
         ```
 
     - 🕷 feimgs_kkrtys
 
-        ```
-        $ scrapy crawl --nolog fetchimgs -a url=scrapy crawl --nolog feimgs_kkrtys -a url=http://kkrtys.com/guomo/2018/0523/381.html
+        ```shell
+        $ scrapy crawl --nolog feimgs_kkrtys -a url=http://kkrtys.com/guomo/2018/0523/381.html
         ```
 
 
