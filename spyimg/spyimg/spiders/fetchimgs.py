@@ -8,13 +8,15 @@
             http://img.mtrtsy.com/161213/co161213145323-0.jpg
             http://img.mtrtsy.com/170216/co1F216024225-0.jpg
             http://img.mtrtsy.com/161217/co16121F02546-0.jpg
+            http://img.mtrtsy.com/170216/co1F216023328-0.jpg
+            http://img.mtrtsy.com/170907/co1FZF23R5-0.jpg
 
     Arguments:
         url: Target url. ('[n]' means the variable of sequence no)
         startno: Start number. (default = 0)
 
     Usage:
-        $ scrapy crawl --nolog fetchimgs -a url=http://img.mtrtsy.com/170216/co1F216024225-[n].jpg -a startno=0
+        $ scrapy crawl --nolog fetchimgs -a url=http://img.mtrtsy.com/170907/co1FZF23R5-[n].jpg -a startno=0
 '''  
 # -*- coding: utf-8 -*-
 import scrapy
@@ -27,7 +29,7 @@ class FetchimgsSpider(scrapy.Spider):
     # start_urls = ['http://img.mtrtsy.com/161213/co161213145323-0.jpg']
 
     def start_requests(self):
-        print('>>> Spider Started.')
+        print('>>> Spider [%s] Started.' % self.name)
         # Get argument 'startno'
         if self.startno is not None:
             sno = int(self.startno)
@@ -37,7 +39,7 @@ class FetchimgsSpider(scrapy.Spider):
         if self.url is not None and self.url != '':
             a = self.url.split('/')
             spath = 'imgs_' + a[-2]
-            # Create Folder
+            # Create folder
             try:
                 os.mkdir(spath)
             except FileExistsError as e:
@@ -48,9 +50,9 @@ class FetchimgsSpider(scrapy.Spider):
             a = None
         # Send request if url is available.
         if a is not None:
-            return [scrapy.Request(self.url.replace('[n]', str(sno)), callback=self.fetchimage, cb_kwargs={'path': spath, 'url': self.url, 'next_no': sno + 1})]
+            return [scrapy.Request(self.url.replace('[n]', str(sno)), callback=self.fetch_image, cb_kwargs={'path': spath, 'url': self.url, 'next_no': sno + 1})]
 
-    def fetchimage(self, response, path, url, next_no):
+    def fetch_image(self, response, path, url, next_no):
         print('>>> Fetched file [%s]' % response.url)
         a = response.url.split('/')
         if len(response.body) > 0:
@@ -65,4 +67,4 @@ class FetchimgsSpider(scrapy.Spider):
                 print('>>> File [{}/{}] Save OK!'.format(path, a[-1]))
         # Send next request if url has a sub string '[n]'.
         if url.find('[n]') > 0:
-            yield scrapy.Request(url.replace('[n]', str(next_no)), callback=self.fetchimage, cb_kwargs={'path': path, 'url': url, 'next_no': next_no + 1})
+            yield scrapy.Request(url.replace('[n]', str(next_no)), callback=self.fetch_image, cb_kwargs={'path': path, 'url': url, 'next_no': next_no + 1})
