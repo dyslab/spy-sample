@@ -41,7 +41,13 @@ class XMLSampleItem(scrapy.Item):
     description = scrapy.Field()
 
 
-class CSVSampleItem(scrapy.Item):
+class CSVSampleCountryItem(scrapy.Item):
+    # define the fields for your item here like:
+    name = scrapy.Field()
+    code = scrapy.Field()
+
+
+class CSVSampleProvinceCityItem(scrapy.Item):
     # define the fields for your item here like:
     name = scrapy.Field()
     code = scrapy.Field()
