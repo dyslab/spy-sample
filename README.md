@@ -75,6 +75,12 @@ $ scrapy [command ...]
         $ scrapy crawl --nolog feimgs_kkrtys -a url=http://kkrtys.com/guomo/2018/0523/381.html
         ```
 
+    - 🕷 feimgs_ojbk
+
+        ```shell
+        $ scrapy crawl --nolog feimgs_ojbk -a url=http://www.ojbk.cc/metcn/6904.html
+        ```
+
 
 ---
 
@@ -84,6 +90,6 @@ Packages list: See [pip_list.txt](pip_list.txt)
 
 Document information:
 
-- *Last Modified on 30 October 2019*
+- *Last Modified on 31 October 2019*
 
 - *Created on 12 October 2019*

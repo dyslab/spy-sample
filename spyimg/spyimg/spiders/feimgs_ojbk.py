@@ -1,30 +1,31 @@
 '''
-    Spider name: feimgs_kkrtys
+    Spider name: feimgs_ojbk
 
-   Fetch images by pages from website 'kkrtys.com'.
+   Fetch images by pages from website 'ojbk.cc'.
 
     Target site link examples:
-        http://kkrtys.com/guomo/
-            http://kkrtys.com/guomo/2018/0523/382.html
-            http://kkrtys.com/guomo/2018/0523/381.html
-            http://kkrtys.com/guomo/2018/0523/380.html
-            http://kkrtys.com/guomo/2018/0523/379.html
+        http://www.ojbk.cc/metcn/
+            http://www.ojbk.cc/metcn/6902.html
+            http://www.ojbk.cc/metcn/6900.html
+            http://www.ojbk.cc/metcn/6904.html
+            http://www.ojbk.cc/metcn/6906.html
+            http://www.ojbk.cc/metcn/6898.html
 
     Arguments:
         url: Target url. 
 
     Usage:
-        $ scrapy crawl --nolog feimgs_kkrtys -a url=http://kkrtys.com/guomo/2018/0523/379.html
+        $ scrapy crawl --nolog feimgs_ojbk -a url=http://www.ojbk.cc/metcn/6890.html
 '''
 # -*- coding: utf-8 -*-
 import scrapy
 import os
 
 
-class FeimgsKkrtysSpider(scrapy.Spider):
-    name = 'feimgs_kkrtys'
-    allowed_domains = ['kkrtys.com']
-    # start_urls = ['http://kkrtys.com/guomo/2018/0523/382.html']
+class FeimgsOjbkSpider(scrapy.Spider):
+    name = 'feimgs_ojbk'
+    # allowed_domains = ['ojbk.cc']
+    # start_urls = ['http://www.ojbk.cc/metcn/6902.html']
 
     # Custom variable
     page_links = []
@@ -33,11 +34,9 @@ class FeimgsKkrtysSpider(scrapy.Spider):
         print('>>> Spider [%s] Started.' % self.name)
         # Parse argument 'url'
         if self.url is not None and self.url != '':
-            a = self.url.split('/')
-            self.page_links.append(a[-1])
-            del a[0:3]
-            del a[-1]
-            spath = '_'.join(a)
+            p, a = os.path.split(self.url)
+            self.page_links.append(a)
+            spath = 'imgs_' + os.path.splitext(a)[0]
             # Create folder
             try:
                 os.mkdir(spath)
@@ -47,41 +46,40 @@ class FeimgsKkrtysSpider(scrapy.Spider):
                 print('>>> Folder [%s] created.' % spath)
             return [scrapy.Request(self.url, callback=self.parse_page, cb_kwargs={'path': spath})]
 
+    # Check whether page link is in same series or not.
+    def is_same_series(self, pagelink):
+        if len(self.page_links) > 0:
+            s = self.page_links[0].split('.')[0].split('_')[0]
+            if pagelink.find(s) == 0:
+                return True
+        return False
+
     def parse_page(self, response, path):
         # Get image urls
-        for imgurl in response.xpath('//img[@border=0]/@src').getall():
+        for imgurl in response.xpath('//img[@id="bigimg"]/@src').getall():
             print('>>> Get image url [%s]' % imgurl)
             yield scrapy.Request(imgurl, callback=self.fetch_image, cb_kwargs={'path': path})
         # Get other page links
-        for pagelink in response.css('div.page').xpath('.//li/a/@href').getall():
+        for pagelink in response.css('div.content-page').xpath('a/@href').getall():
             if pagelink.lower().find('.htm') > 0:
                 if (pagelink not in self.page_links) and self.is_same_series(pagelink):
                     self.page_links.append(pagelink)
                     # Reconstruct page link
-                    p = response.url.split('/')
-                    p.pop()
-                    plink = '/'.join(p) + '/' + pagelink
+                    p = os.path.split(response.url)[0]
+                    plink = p + '/' + pagelink
                     print('>>> Get page link [%s]' % plink)
                     yield scrapy.Request(plink, callback=self.parse_page, cb_kwargs={'path': path})
 
-    # Check whether page link is in same series or not.
-    def is_same_series(self, pagelink):
-        if len(self.page_links) > 0:
-            s = self.page_links[0].split('.')
-            if pagelink.find(s[0]) == 0:
-                return True
-        return False
-
     def fetch_image(self, response, path):
         print('>>> Fetched file [%s]' % response.url)
-        a = response.url.split('/')
+        p, a = os.path.split(response.url)
         if len(response.body) > 0:
             # Save image file to dest path.
             try:
-                with open('{}/{}'.format(path,a[-1]), 'wb') as fimg:
+                with open('{}/{}'.format(path,a), 'wb') as fimg:
                     fimg.write(response.body)
                     fimg.close()
             except OSError as e:
-                print('>>> Warning: File [{}/{}] Save FAILED!' .format(path, a[-1]))
+                print('>>> Warning: File [{}/{}] Save FAILED!' .format(path, a))
             else:
-                print('>>> File [{}/{}] Save OK!'.format(path, a[-1]))
+                print('>>> File [{}/{}] Save OK!'.format(path, a))
