@@ -25,7 +25,7 @@ import os
 
 class FetchimgsSpider(scrapy.Spider):
     name = 'fetchimgs'
-    # allowed_domains = ['.jpg', '.jpeg', '.png', '.gif']
+    # allowed_domains = ['mtrtsy.com']
     # start_urls = ['http://img.mtrtsy.com/161213/co161213145323-0.jpg']
 
     def start_requests(self):

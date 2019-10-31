@@ -7,13 +7,13 @@ Scrapy Learning Program.
 
 Install virtual enviroment:
 
-```shell
+```bash
 $ python3 -m venv venv
 ```
 
 Activate venv:
 
-```shell
+```bash
 $ . venv/bin/activate
 $ cd [project_dir]
 $ scrapy [command ...]
@@ -26,37 +26,37 @@ $ scrapy [command ...]
 
     - 🕷 cptrack
 
-        ```shell
+        ```bash
         $ scrapy crawl --nolog cptrack -a num=FX000090696630220
         ```
 
     - 🕷 tttrack
 
-        ```shell
+        ```bash
         $ scrapy crawl --nolog tttrack -a num=MHE827061910013817 -o tttrack.csv
         ```
 
     - 🕷 uspstrack
 
-        ```shell
+        ```bash
         $ scrapy crawl uspstrack --nolog -o uspstrack.csv -a num=9274890983116178146826
         ```
 
     - 🕷 xmlsample
 
-        ```shell
+        ```bash
         $ scrapy crawl --nolog xmlsample -o xmlsample.csv
         ```
 
     - 🕷 csvsample
 
-        ```shell
+        ```bash
         $ scrapy crawl csvsample -o csvsample.json -s FEED_EXPORT_ENCODING=utf-8 -s FEED_EXPORT_INDENT=4
         ```
 
     - 🕷 sitemapsample
 
-        ```shell
+        ```bash
         $ scrapy crawl sitemapsample -o sitemapsample.csv
         ```
 
@@ -65,19 +65,19 @@ $ scrapy [command ...]
 
     - 🕷 fetchimgs
 
-        ```shell
+        ```bash
         $ scrapy crawl --nolog fetchimgs -a url=http://img.mtrtsy.com/170216/co1F216024225-[n].jpg -a startno=0
         ```
 
     - 🕷 feimgs_kkrtys
 
-        ```shell
+        ```bash
         $ scrapy crawl --nolog feimgs_kkrtys -a url=http://kkrtys.com/guomo/2018/0523/381.html
         ```
 
     - 🕷 feimgs_ojbk
 
-        ```shell
+        ```bash
         $ scrapy crawl --nolog feimgs_ojbk -a url=http://www.ojbk.cc/metcn/6904.html
         ```
 
