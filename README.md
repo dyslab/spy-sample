@@ -81,6 +81,12 @@ $ scrapy [command ...]
         $ scrapy crawl --nolog feimgs_ojbk -a url=http://www.ojbk.cc/metcn/6904.html
         ```
 
+    - 🕷 feimgs_imagefap
+
+        ```bash
+        $ scrapy crawl --nolog feimgs_imagefap -a url=https://www.imagefap.com/pictures/8392290/Shaved-Nao-Shiraishi3
+        ```
+
 
 ---
 
@@ -90,6 +96,6 @@ Packages list: See [pip_list.txt](pip_list.txt)
 
 Document information:
 
-- *Last Modified on 31 October 2019*
+- *Last Modified on 11 November 2019*
 
 - *Created on 12 October 2019*
