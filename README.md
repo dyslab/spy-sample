@@ -91,11 +91,20 @@ $ scrapy [command ...]
 ---
 
 
-Packages list: See [pip_list.txt](pip_list.txt)
+Installed Modules via **pip**:
+
+    - Scrapy
+
+    - IPython
+
+    - AutoPEP8
+
+
+All Packages list: See [pip_list.txt](pip_list.txt)
 
 
 Document information:
 
-- *Last Modified on 11 November 2019*
+    - *Last Modified on 12 November 2019*
 
-- *Created on 12 October 2019*
+    - *Created on 12 October 2019*
