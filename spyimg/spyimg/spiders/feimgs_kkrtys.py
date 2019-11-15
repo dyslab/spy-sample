@@ -18,7 +18,7 @@
 '''
 # -*- coding: utf-8 -*-
 import scrapy
-import os
+import os, re
 
 
 class FeimgsKkrtysSpider(scrapy.Spider):
@@ -28,16 +28,15 @@ class FeimgsKkrtysSpider(scrapy.Spider):
 
     # Custom variable
     page_links = []
+    download_file_count = 0
 
     def start_requests(self):
         print('>>> Spider [%s] Started.' % self.name)
         # Parse argument 'url'
         if self.url is not None and self.url != '':
-            a = self.url.split('/')
-            self.page_links.append(a[-1])
-            del a[0:3]
-            del a[-1]
-            spath = '_'.join(a)
+            self.page_links.append(os.path.split(self.url)[1])
+            a = re.match('.*/([0-9]+/+[0-9]+).*', self.url)
+            spath = a.group(1).replace('/', '_')
             # Create folder
             try:
                 os.mkdir(spath)
@@ -58,9 +57,7 @@ class FeimgsKkrtysSpider(scrapy.Spider):
                 if (pagelink not in self.page_links) and self.is_same_series(pagelink):
                     self.page_links.append(pagelink)
                     # Reconstruct page link
-                    p = response.url.split('/')
-                    p.pop()
-                    plink = '/'.join(p) + '/' + pagelink
+                    plink = os.path.join(os.path.split(self.url)[0], pagelink)
                     print('>>> Get page link [%s]' % plink)
                     yield scrapy.Request(plink, callback=self.parse_page, cb_kwargs={'path': path})
 
@@ -84,4 +81,5 @@ class FeimgsKkrtysSpider(scrapy.Spider):
             except OSError as e:
                 print('>>> Warning: File [{}/{}] Save FAILED!' .format(path, a[-1]))
             else:
-                print('>>> File [{}/{}] Save OK!'.format(path, a[-1]))
+                self.download_file_count += 1
+                print('>>> #{} File [{}/{}] Save OK!'.format(self.download_file_count, path, a[-1]))
