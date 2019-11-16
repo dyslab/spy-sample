@@ -29,6 +29,7 @@ class FeimgsOjbkSpider(scrapy.Spider):
 
     # Custom variable
     page_links = []
+    download_file_count = 0
 
     def start_requests(self):
         print('>>> Spider [%s] Started.' % self.name)
@@ -36,7 +37,7 @@ class FeimgsOjbkSpider(scrapy.Spider):
         if self.url is not None and self.url != '':
             p, a = os.path.split(self.url)
             self.page_links.append(a)
-            spath = 'imgs_' + os.path.splitext(a)[0]
+            spath = os.path.splitext(a)[0]
             # Create folder
             try:
                 os.mkdir(spath)
@@ -82,4 +83,5 @@ class FeimgsOjbkSpider(scrapy.Spider):
             except OSError as e:
                 print('>>> Warning: File [{}/{}] Save FAILED!' .format(path, a))
             else:
-                print('>>> File [{}/{}] Save OK!'.format(path, a))
+                self.download_file_count += 1
+                print('>>> #{} File [{}/{}] Save OK!'.format(self.download_file_count, path, a))

@@ -1,5 +1,5 @@
 '''
-    Spider name: fetchimgs
+    Spider name: feimgs_mtrtsy
 
    Fetch serialized images by automated sequence no from specific image website.
 
@@ -9,24 +9,26 @@
             http://img.mtrtsy.com/170216/co1F216024225-0.jpg
             http://img.mtrtsy.com/161217/co16121F02546-0.jpg
             http://img.mtrtsy.com/170216/co1F216023328-0.jpg
-            http://img.mtrtsy.com/170907/co1FZF23R5-0.jpg
 
     Arguments:
         url: Target url. ('[n]' means the variable of sequence no)
         startno: Start number. (default = 0)
 
     Usage:
-        $ scrapy crawl --nolog fetchimgs -a url=http://img.mtrtsy.com/170907/co1FZF23R5-[n].jpg -a startno=0
+        $ scrapy crawl --nolog feimgs_mtrtsy -a url=http://img.mtrtsy.com/170907/co1FZF23R5-[n].jpg -a startno=0
 '''  
 # -*- coding: utf-8 -*-
 import scrapy
-import os
+import os, re
 
 
-class FetchimgsSpider(scrapy.Spider):
-    name = 'fetchimgs'
+class FeimgsMtrtsySpider(scrapy.Spider):
+    name = 'feimgs_mtrtsy'
     # allowed_domains = ['mtrtsy.com']
     # start_urls = ['http://img.mtrtsy.com/161213/co161213145323-0.jpg']
+
+    # Custom variable
+    download_file_count = 0
 
     def start_requests(self):
         print('>>> Spider [%s] Started.' % self.name)
@@ -37,8 +39,8 @@ class FetchimgsSpider(scrapy.Spider):
             sno = 0
         # Parse argument 'url'
         if self.url is not None and self.url != '':
-            a = self.url.split('/')
-            spath = 'imgs_' + a[-2]
+            a = re.match('.+/(.+)\[n\]', self.url)
+            spath = a.group(1)
             # Create folder
             try:
                 os.mkdir(spath)
@@ -64,7 +66,8 @@ class FetchimgsSpider(scrapy.Spider):
             except OSError as e:
                 print('>>> Warning: File [{}/{}] Save FAILED!' .format(path, a[-1]))
             else:
-                print('>>> File [{}/{}] Save OK!'.format(path, a[-1]))
+                self.download_file_count += 1
+                print('>>> #{} File [{}/{}] Save OK!'.format(self.download_file_count, path, a[-1]))
         # Send next request if url has a sub string '[n]'.
         if url.find('[n]') > 0:
             yield scrapy.Request(url.replace('[n]', str(next_no)), callback=self.fetch_image, cb_kwargs={'path': path, 'url': url, 'next_no': next_no + 1})

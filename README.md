@@ -63,10 +63,10 @@ $ scrapy [command ...]
 
 - **spyimg**
 
-    - 🕷 fetchimgs
+    - 🕷 feimgs_mtrtsy
 
         ```bash
-        $ scrapy crawl --nolog fetchimgs -a url=http://img.mtrtsy.com/170216/co1F216024225-[n].jpg -a startno=0
+        $ scrapy crawl --nolog feimgs_mtrtsy -a url=http://img.mtrtsy.com/161212/co161212005211-[n].jpg -a startno=0
         ```
 
     - 🕷 feimgs_kkrtys
@@ -95,9 +95,9 @@ $ scrapy [command ...]
 
     - Scrapy
 
-    - IPython
+    - IPython *(Optional)*
 
-    - AutoPEP8
+    - AutoPEP8 *(Optional)*
 
 
 - All Packages list: See [pip_list.txt](pip_list.txt)
@@ -105,6 +105,6 @@ $ scrapy [command ...]
 
 - Document information:
 
-    - *Last Modified on 12 November 2019*
+    - *Last Modified on 17 November 2019*
 
     - *Created on 12 October 2019*
