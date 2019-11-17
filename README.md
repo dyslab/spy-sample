@@ -66,7 +66,7 @@ $ scrapy [command ...]
     - 🕷 feimgs_mtrtsy
 
         ```bash
-        $ scrapy crawl --nolog feimgs_mtrtsy -a url=http://img.mtrtsy.com/161212/co161212005211-[n].jpg -a startno=0
+        $ scrapy crawl --nolog feimgs_mtrtsy -a threads=5 -a url=http://img.mtrtsy.com/161212/co161212013142-[n].jpg -a startno=0
         ```
 
     - 🕷 feimgs_kkrtys

@@ -13,9 +13,10 @@
     Arguments:
         url: Target url. ('[n]' means the variable of sequence no)
         startno: Start number. (default = 0)
+        threads: Amount threads, equal to amount quantity of fetched images at each time. (default = 1)
 
     Usage:
-        $ scrapy crawl --nolog feimgs_mtrtsy -a url=http://img.mtrtsy.com/170907/co1FZF23R5-[n].jpg -a startno=0
+        $ scrapy crawl --nolog feimgs_mtrtsy -a threads=5 -a url=http://img.mtrtsy.com/170907/co1FZF23R5-[n].jpg -a startno=0
 '''  
 # -*- coding: utf-8 -*-
 import scrapy
@@ -29,6 +30,7 @@ class FeimgsMtrtsySpider(scrapy.Spider):
 
     # Custom variable
     download_file_count = 0
+    threads_count = 1
 
     def start_requests(self):
         print('>>> Spider [%s] Started.' % self.name)
@@ -37,6 +39,9 @@ class FeimgsMtrtsySpider(scrapy.Spider):
             sno = int(self.startno)
         else:
             sno = 0
+        # Get argument 'threads'
+        if self.threads is not None:
+            self.threads_count = int(self.threads)
         # Parse argument 'url'
         if self.url is not None and self.url != '':
             a = re.match('.+/(.+)\[n\]', self.url)
@@ -70,4 +75,13 @@ class FeimgsMtrtsySpider(scrapy.Spider):
                 print('>>> #{} File [{}/{}] Save OK!'.format(self.download_file_count, path, a[-1]))
         # Send next request if url has a sub string '[n]'.
         if url.find('[n]') > 0:
-            yield scrapy.Request(url.replace('[n]', str(next_no)), callback=self.fetch_image, cb_kwargs={'path': path, 'url': url, 'next_no': next_no + 1})
+            for id in range(self.threads_count):
+                yield scrapy.Request(
+                    url.replace('[n]', str(next_no + id)),
+                    callback=self.fetch_image, 
+                    cb_kwargs = {
+                        'path': path,
+                        'url': url,
+                        'next_no': next_no + self.threads_count + id
+                    }
+                )
