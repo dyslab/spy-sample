@@ -15,7 +15,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import json
-from scrapy.http import JSONRequest
+from scrapy.http import JsonRequest
 
 
 class Test17TrackSpider(scrapy.Spider):
@@ -34,7 +34,7 @@ class Test17TrackSpider(scrapy.Spider):
 
     def start_requests(self):
         print('>>> post request.')
-        return [JSONRequest(
+        return [JsonRequest(
             url = "https://t.17track.net/restapi/track",
             method='POST',
             headers = self.custom_headers,

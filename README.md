@@ -97,14 +97,12 @@ $ scrapy [command ...]
 
     - IPython *(Optional)*
 
-    - AutoPEP8 *(Optional)*
-
 
 - All Packages list: See [pip_list.txt](pip_list.txt)
 
 
 - Document information:
 
-    - *Last Modified on 17 November 2019*
+    - *Last Modified on 18 November 2019*
 
     - *Created on 12 October 2019*
