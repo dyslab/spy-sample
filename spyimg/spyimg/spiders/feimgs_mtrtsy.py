@@ -13,7 +13,7 @@
     Arguments:
         url: Target url. ('[n]' means the variable of sequence no)
         startno: Start number. (default = 0)
-        threads: Amount threads, equal to amount quantity of fetched images at each time. (default = 1)
+        threads: Amount threads, equal to amount quantity of fetched images at each time. (default = 5)
 
     Usage:
         $ scrapy crawl --nolog feimgs_mtrtsy -a threads=5 -a url=http://img.mtrtsy.com/170907/co1FZF23R5-[n].jpg -a startno=0
@@ -30,7 +30,7 @@ class FeimgsMtrtsySpider(scrapy.Spider):
 
     # Custom variable
     download_file_count = 0
-    threads_count = 1
+    threads_count = 5
 
     def start_requests(self):
         print('>>> Spider [%s] Started.' % self.name)
