@@ -34,7 +34,7 @@ class FeimgsOjbkSpider(scrapy.Spider):
     def start_requests(self):
         print('>>> Spider [%s] Started.' % self.name)
         # Parse argument 'url'
-        if self.url is not None and self.url != '':
+        try:
             p, a = os.path.split(self.url)
             self.page_links.append(a)
             spath = os.path.splitext(a)[0]
@@ -46,6 +46,9 @@ class FeimgsOjbkSpider(scrapy.Spider):
             else:
                 print('>>> Folder [%s] created.' % spath)
             return [scrapy.Request(self.url, callback=self.parse_page, cb_kwargs={'path': spath})]
+        except:
+            print('Argument "url" not found or not correct.')
+            return []
 
     # Check whether page link is in same series or not.
     def is_same_series(self, pagelink):

@@ -35,15 +35,18 @@ class FeimgsMtrtsySpider(scrapy.Spider):
     def start_requests(self):
         print('>>> Spider [%s] Started.' % self.name)
         # Get argument 'startno'
-        if self.startno is not None:
+        try:
             sno = int(self.startno)
-        else:
+        except:
             sno = 0
+            print('Argument "startno" not found. default = {}.'.format(sno))
         # Get argument 'threads'
-        if self.threads is not None:
+        try:
             self.threads_count = int(self.threads)
+        except:
+            print('Argument "threads" not found. default = {}.'.format(self.threads_count))
         # Parse argument 'url'
-        if self.url is not None and self.url != '':
+        try:
             a = re.match('.+/(.+)\[n\]', self.url)
             spath = a.group(1)
             # Create folder
@@ -53,11 +56,10 @@ class FeimgsMtrtsySpider(scrapy.Spider):
                 print('>>> Folder [%s] existed.' % spath)
             else:
                 print('>>> Folder [%s] created.' % spath)
-        else:
-            a = None
-        # Send request if url is available.
-        if a is not None:
             return [scrapy.Request(self.url.replace('[n]', str(sno)), callback=self.fetch_image, cb_kwargs={'path': spath, 'url': self.url, 'next_no': sno + 1})]
+        except:
+            print('Argument "url" not found or not correct.')
+            return []
 
     def fetch_image(self, response, path, url, next_no):
         print('>>> Fetched file [%s]' % response.url)

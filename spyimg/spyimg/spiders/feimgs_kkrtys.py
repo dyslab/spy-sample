@@ -33,7 +33,7 @@ class FeimgsKkrtysSpider(scrapy.Spider):
     def start_requests(self):
         print('>>> Spider [%s] Started.' % self.name)
         # Parse argument 'url'
-        if self.url is not None and self.url != '':
+        try:
             self.page_links.append(os.path.split(self.url)[1])
             a = re.match('.*/([0-9]+/+[0-9]+).*', self.url)
             spath = a.group(1).replace('/', '_')
@@ -45,6 +45,9 @@ class FeimgsKkrtysSpider(scrapy.Spider):
             else:
                 print('>>> Folder [%s] created.' % spath)
             return [scrapy.Request(self.url, callback=self.parse_page, cb_kwargs={'path': spath})]
+        except:
+            print('Argument "url" not found or not correct.')
+            return []
 
     def parse_page(self, response, path):
         # Get image urls

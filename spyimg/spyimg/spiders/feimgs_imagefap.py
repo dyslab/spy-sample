@@ -37,7 +37,7 @@ class FeimgsImagefapSpider(scrapy.Spider):
     def start_requests(self):
         print('>>> Spider [%s] Started.' % self.name)
         # Parse argument 'url'
-        if self.url is not None and self.url != '':
+        try:
             self.saved_image_path=os.path.split(self.url)[-1]
             # Create folder
             try:
@@ -47,6 +47,10 @@ class FeimgsImagefapSpider(scrapy.Spider):
             else:
                 print('>>> Folder [%s] created.' % self.saved_image_path)
             return [scrapy.Request(self.url, callback=self.parse_firstpage)]
+        except:
+            print('Argument "url" not found or not correct.')
+            return []
+            
 
     # Parse first page
     def parse_firstpage(self, response):
