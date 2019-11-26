@@ -50,7 +50,6 @@ class FeimgsImagefapSpider(scrapy.Spider):
         except:
             print('Argument "url" not found or not correct.')
             return []
-            
 
     # Parse first page
     def parse_firstpage(self, response):
