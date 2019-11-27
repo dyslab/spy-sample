@@ -91,18 +91,20 @@ $ scrapy [command ...]
 ---
 
 
-- Installed Modules via **pip**:
+- Installed Modules by **pip**:
 
     - Scrapy
 
     - IPython *(Optional)*
 
 
-- All Packages list: See [pip_list.txt](pip_list.txt)
+- All Packages list: See [requirements.txt](requirements.txt). 
+    
+    Then, you were able to install the prerequisite packages by the CLI `pip install -U -r requirements.txt` in your virtual environment. (PS: export the requirements.txt by the CLI `pip freeze > requirements.txt` in venv mode)
 
 
 - Document information:
 
-    - *Last Modified on 18 November 2019*
+    - *Last Modified on 27 November 2019*
 
     - *Created on 12 October 2019*
