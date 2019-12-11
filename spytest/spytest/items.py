@@ -23,6 +23,7 @@ class TrackingInfoItem(scrapy.Item):
     status = scrapy.Field()
     dest = scrapy.Field()
     details = scrapy.Field()
+    date = scrapy.Field()
     
     def printItems(self):
         print('Tracking Number: %s' % self['tracknum'])
@@ -30,6 +31,7 @@ class TrackingInfoItem(scrapy.Item):
         print('Status: %s' % self['status'])
         print('Destination: %s' % self['dest'])
         print('Details: %s' % self['details'])
+        print('Date: %s' % self['date'])
 
 
 class XMLSampleItem(scrapy.Item):

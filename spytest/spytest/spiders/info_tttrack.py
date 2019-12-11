@@ -4,34 +4,42 @@
     Crawl tracking information from http://www.ttsucha.com/ by tracking number.
 
     Arguments:
-        num: Tracking Number.
+        num: Tracking Number. eg. MHE827061910013817, MHE827061911021187
 
     Usage:
-        scrapy crawl --nolog tttrack -a num=MHE827061910013817 -o tttrack.csv
+        scrapy crawl --nolog tttrack -a num=MHE827061911021187 -o tttrack.csv
 '''
 # -*- coding: utf-8 -*-
 import scrapy
-from scrapy.http import FormRequest
+from scrapy.http import JsonRequest
 from spytest.items import TrackingInfoItem
+import json
 
 
+##########################################################################
+#
+#   WORKFLOW NOTE:
+#       
+#   Update on 2019/12/12, Obtain tracking info via the following steps:
+#   
+#       1. Get tokenvalue form http://www.ttsucha.com/   
+#
+#       2. Get parameter 'd_id' from json data via:
+#           http://www.ttsucha.com/api/ttscapi/noTosearch
+#
+#       3. Get details info from json data via:
+#           http://www.ttsucha.com/api/ttscapi/tomaindetail
+#           http://www.ttsucha.com/api/ttscapi/todetail
+#
+#       4. Print and save items.
+#   
+##########################################################################
 class TTTrackSpider(scrapy.Spider):
     name = 'tttrack'
     allowed_domains = ['ttsucha.com']
     start_urls = ['http://www.ttsucha.com/']
-    ##########################################################################
-    #
-    #   NOTE: Following status '__XXX' fields are hidden fields that
-    #         Encrypted by client-side javascript and passed to the 
-    #         webpage (http://www.ttsucha.com/) again.
-    #
-    #   Sample data:
-    #       '__VIEWSTATE': '/wEPDwULLTE4ODQwNzE0NjQPZBYCAgEPZBYEAgEPFgIeCWlubmVyaHRtbAUSTUhFODI3MDYxOTEwMDEzODE3ZAIFDxYCHwAFlg88ZGl2IGNsYXNzPSJiZWxsb3dzX19pdGVtIj48ZGl2IGNsYXNzPSJiZWxsb3dzX19oZWFkZXIiPjx1bD48bGk+MTwvbGk+PGxpPjwvbGk+PGxpPjxzcGFuPk1IRSoqKioqMTkxMDAxMzgxNzwvc3Bhbj48YnI+5o+Q6LSn5pe26Ze077yaMjAxOS8xMC8xNyAxNDo0MTowMzwvbGk+PGxpPjxpbWcgc3JjPSJ0dHNjL2ltYWdlcy9qZHQucG5nIj7ovazov5DkuK08L2xpPjxsaT48c3BhbiBjbGFzcz0ndXBkYXRlZGF5cyc+MTwvc3Bhbj7lpKk8L2xpPjxsaT48YSBocmVmPSIjIj48c3Bhbj7or6bnu4bkv6Hmga88aW1nIHNyYz0idHRzYy9pbWFnZXMvYXNjLnBuZyIgd2lkdGg9IjE2IiBoZWlnaHQ9IjIwIj48L3NwYW4+PC9hPjwvbGk+PC91bD48L2Rpdj48ZGl2IGNsYXNzPSJiZWxsb3dzX19jb250ZW50Ij48dWw+PGxpPiZuYnNwOzwvbGk+PGxpPiZuYnNwOzwvbGk+PGxpPiZuYnNwOzwvbGk+PGxpPjIwMTktMTAtMTcgMTQ6NDI8L2xpPjxsaT5HVUFOR1pIT1UtQ0hJTkEv5bm/5beeLeS4reWbvQk8L2xpPjxsaT7lv6vku7blt7LliLDlub/lt57ku5PlupMgVGhlIGdvb2RzIGhhdmUgYmVlbiBhcnJpdmFsIEd1YW5nemhvdSB3aG91c2U8L2xpPjwvdWw+PHVsPjxsaT4mbmJzcDs8L2xpPjxsaT4mbmJzcDs8L2xpPjxsaT4mbmJzcDs8L2xpPjxsaT4yMDE5LTEwLTE4IDAwOjU1OjQzPC9saT48bGk+R1VBTkdaSE9VLUNISU5BL+W5v+W3ni3kuK3lm708L2xpPjxsaT7lv6vku7blt7Loo4Xmn5ws5bCG5a6J5o6S5oql5YWzIFRoZSBnb29kcyBoYXZlIGJlZW4gbG9hZGluZyBhbmQgcmVhZHkgdG8gY3VzdG9tcyBkZWNsYXJlLjwvbGk+PC91bD48dWw+PGxpPiZuYnNwOzwvbGk+PGxpPiZuYnNwOzwvbGk+PGxpPiZuYnNwOzwvbGk+PGxpPjIwMTktMTAtMTggMjM6NTY6MzQ8L2xpPjxsaT5TSEVOWkhFTi1DSElOQS/mt7HlnLMt5Lit5Zu9PC9saT48bGk+5rW35YWz54q25oCB5pu05pawIEN1c3RvbXMgc3RhdHVzIHVwZGF0ZWQuPC9saT48L3VsPjx1bD48bGk+Jm5ic3A7PC9saT48bGk+Jm5ic3A7PC9saT48bGk+Jm5ic3A7PC9saT48bGk+MjAxOS0xMC0xOSAwMDo1NjozNDwvbGk+PGxpPlNIRU5aSEVOLUNISU5BL+a3seWcsy3kuK3lm708L2xpPjxsaT7lv6vku7blt7LlrozmiJDmiqXlhbPmiYvnu63lubbku47mtbflhbPmlL7ooYwuIENsZWFyYW5jZSBwcm9jZXNzaW5nIGNvbXBsZXRlZC48L2xpPjwvdWw+PHVsPjxsaT4mbmJzcDs8L2xpPjxsaT4mbmJzcDs8L2xpPjxsaT4mbmJzcDs8L2xpPjxsaT4yMDE5LTEwLTE5IDA5OjU3PC9saT48bGk+U0hFTlpIRU4tQ0hJTkEv5rex5ZyzLeS4reWbvTwvbGk+PGxpPuiIueWQjeiIquasoSBFVkVSIFNVUEVSQiAxMTExLTA3OUUuPC9saT48L3VsPjx1bD48bGk+Jm5ic3A7PC9saT48bGk+Jm5ic3A7PC9saT48bGk+Jm5ic3A7PC9saT48bGk+MjAxOS0xMC0xOSAxMDo1ODwvbGk+PGxpPlNIRU5aSEVOLUNISU5BL+a3seWcsy3kuK3lm708L2xpPjxsaT7lv6vku7blsIbkuo4xMOaciDIw5pel5byA6Ii5VGhlIGV4cHJlc3Mgd2lsbCBsZWF2ZSBvbiAxMC4yMDwvbGk+PC91bD48dWw+PGxpPiZuYnNwOzwvbGk+PGxpPiZuYnNwOzwvbGk+PGxpPiZuYnNwOzwvbGk+PGxpPjIwMTktMTAtMjAgMjI6Mzc6MjI8L2xpPjxsaT5TSEVOWkhFTi1DSElOQS/mt7HlnLMt5Lit5Zu9PC9saT48bGk+5b+r5Lu256a75byA5riv5Y+jLkRlcGFydGVkIFBvcnQgaW4gU0hFTlpIRU4tQ0hJTkEsIFBFT1BMRVMgUkVQVUJMSUMuPC9saT48L3VsPjx1bD48bGk+Jm5ic3A7PC9saT48bGk+Jm5ic3A7PC9saT48bGk+Jm5ic3A7PC9saT48bGk+MjAxOS0xMC0yMSAwOTozNzoyMjwvbGk+PGxpPlNIRU5aSEVOLUNISU5BL+a3seWcsy3kuK3lm708L2xpPjxsaT7lv6vku7bpooTorqExMeaciDPml6XmirXovr7muK/lj6NFeHByZXNzIGlzIGV4cGVjdGVkIHRvIGFycml2ZSBhdCBwb3J0IDExLjM8L2xpPjwvdWw+PC9kaXY+PC9kaXY+ZGS1R/J9kjEG7Y6cOWqexjAk8zCX2exe87EdZoZTq2F7GQ==',
-    #       '__VIEWSTATEGENERATOR': '6A15E89B',
-    #       '__EVENTVALIDATION': '/wEdAAN/+cWHwHuF6+tha+Pjgzko6QLmfmzsA3xixpakJO1yl0j93FC3MjAsSJrDkFJF8PP8epjBacooIVh4XrsYamdFPlZ6wo+p2+QsBtKD26lTnQ==',
-    #       'TrackingNo': 'MHE827061910013817'
-    #
-    ##########################################################################
+
+    # Custom variables
     custom_headers = {
         'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0',
         'Host': 'ttsucha.com',
@@ -40,37 +48,56 @@ class TTTrackSpider(scrapy.Spider):
         'Accept': 'application/json',
         'Accept-Language': 'zh-CN,en-US;q=0.7,en;q=0.3'
     }
+    trackno = ''
+    token = ''
 
     def parse(self, response):
-        print('>>> repost request via \'form1\'.')
-        return [FormRequest.from_response(
-            response,
+        print('\n>>> Get html from URL: %s' % response.url)
+        # print(response.text)
+        self.token = response.xpath('//input[@id="tokenvalue"]/@value').get()
+        print('token: %s' % self.token)
+        return [JsonRequest(
+            url='http://www.ttsucha.com/api/ttscapi/noTosearch',
             method = 'POST',
-            formid = 'form1',
             headers = self.custom_headers,
-            formdata = { 'TrackingNo': self.num },
+            data = { 'trackingNo': self.num, 'token': self.token },
             callback = self.parse_trackinginfo
         )]
 
     def parse_trackinginfo(self, response):
-        print('********************** After repost. BEGIN')
-        print(response.url)
-        print(bytes.decode(response.body))
-        # print(response.xpath('//input[@id="__VIEWSTATE"]/@value').get())
-        # print(response.xpath('//input[@id="__VIEWSTATEGENERATOR"]/@value').get())
-        # print(response.xpath('//input[@id="__EVENTVALIDATION"]/@value').get())
+        print('\n>>> Get json data from URL: %s' % response.url)
+        # print(response.text)
+        returnJsonString = json.loads(response.text)
+        returnJsonData= json.loads(returnJsonString)
+        print(returnJsonData)
+        for item in returnJsonData['items']:
+            print('did: %s' % item['d_id'])
+            print('token: %s' % self.token)
+            # get d_id from json data
+            # redirect to: ../../Home/detail.html?did=${d_id}&snum=87675
+            yield JsonRequest(
+                url='http://www.ttsucha.com/api/ttscapi/tomaindetail', # '/todetail',
+                method = 'POST',
+                headers = self.custom_headers,
+                data = { 'did': item['d_id'], 'token': self.token },
+                callback = self.parse_trackingdetails
+            )
 
-        for item in response.css('div.bellows__content').xpath('.//ul').getall():
-            sel = scrapy.selector.Selector(text=item)
-            print('{} , {}, {}'.format(
-                sel.xpath('//li[4]/text()').get(),
-                sel.xpath('//li[5]/text()').get(),
-                sel.xpath('//li[6]/text()').get()
-            ))
+    def parse_trackingdetails(self, response):
+        print('\n>>> Get json data from URL: %s' % response.url)
+        returnJsonString = json.loads(response.text)
+        returnJsonData= json.loads(returnJsonString)
+        print(returnJsonData)
+        print('\n>>> Parsing json data and Save to items...')
+        print('>>> Tracking number is: %s' % self.num)
+        for item in returnJsonData['newinfo']:
+            print('>>> Parsing item: %s' % item['date'])
             titem = TrackingInfoItem()
-            titem['status'] = sel.xpath('//li[4]/text()').get()
-            titem['dest'] = sel.xpath('//li[5]/text()').get()
-            titem['details'] = sel.xpath('//li[6]/text()').get()
+            titem['tracknum'] = self.num
+            titem['parcelno'] = ''
+            titem['status'] = item['status']
+            titem['dest'] = item['place']
+            titem['details'] = item['info']
+            titem['date'] = item['date']
             yield titem
-
-        print('********************** After repost. END')
+        print('\n>>> Items saved OK!')

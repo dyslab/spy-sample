@@ -1,9 +1,34 @@
-dest,details,parcelno,status,tracknum
-GUANGZHOU-CHINA/广州-中国	,快件已到广州仓库 The goods have been arrival Guangzhou whouse,,2019-10-17 14:42,
-GUANGZHOU-CHINA/广州-中国,"快件已装柜,将安排报关 The goods have been loading and ready to customs declare.",,2019-10-18 00:55:43,
-SHENZHEN-CHINA/深圳-中国,海关状态更新 Customs status updated.,,2019-10-18 23:56:34,
-SHENZHEN-CHINA/深圳-中国,快件已完成报关手续并从海关放行. Clearance processing completed.,,2019-10-19 00:56:34,
-SHENZHEN-CHINA/深圳-中国,船名航次 EVER SUPERB 1111-079E.,,2019-10-19 09:57,
-SHENZHEN-CHINA/深圳-中国,快件将于10月20日开船The express will leave on 10.20,,2019-10-19 10:58,
-SHENZHEN-CHINA/深圳-中国,"快件离开港口.Departed Port in SHENZHEN-CHINA, PEOPLES REPUBLIC.",,2019-10-20 22:37:22,
-SHENZHEN-CHINA/深圳-中国,快件预计11月3日抵达港口Express is expected to arrive at port 11.3,,2019-10-21 09:37:22,
+parcelno,date,details,tracknum,status,dest
+,2019-12-10 13:02:43,快件正在分拣  The goods are sorting.,MHE827061911021187,转运中,洛杉矶转运中心/Log Angeles-USA
+,2019-12-10 12:45:16,快件到达中转中心  Arrived at Sort Facility.,MHE827061911021187,转运中,洛杉矶转运中心/Log Angeles-USA
+,2019-12-09 07:43:36,快件到达洛杉矶港口.Arrived at Port of LOS ANGELES,MHE827061911021187,转运中,Los angeles-USA/洛杉矶-美国
+,2019-12-04 18:06,快件已完成报关手续并从海关放行. Clearance processing completed.,MHE827061911021187,转运中,Los angeles-USA/洛杉矶-美国
+,2019-11-27 09:35:53,快件预计12月8日抵达港口Express is expected to arrive at port 12.8,MHE827061911021187,转运中,NINGBO-CHINA/宁波-中国
+,2019-11-26 22:35:53,"快件离开港口.Departed Port in NINGBO-CHINA, PEOPLES REPUBLIC.",MHE827061911021187,转运中,NINGBO-CHINA/宁波-中国
+,2019-11-24 19:33,快件将于11月26日开船The express will leave on 11.26,MHE827061911021187,转运中,NINGBO-CHINA/宁波-中国
+,2019-11-24 18:50,船名航次：美速达-海运IP，PZ19110088,MHE827061911021187,转运中,NINGBO-CHINA/宁波-中国
+,2019-11-24 15:30:57,快件已完成报关手续并从海关放行. Clearance processing completed.,MHE827061911021187,转运中,NINGBO-CHINA/宁波-中国
+,2019-11-24 14:30:57,海关状态更新 Customs status updated.,MHE827061911021187,转运中,NINGBO-CHINA/宁波-中国
+,2019-11-23 23:29,快件已抵达宁波 The express has arrived in NINGBO.,MHE827061911021187,转运中,NINGBO-CHINA/宁波-中国
+,2019-11-22 21:27:37,快件已装柜并离开广州仓库 The express has been loaded and left Guangzhou warehouse.,MHE827061911021187,转运中,GUANGZHOU-CHINA/广州-中国
+,2019-11-22 14:32,快件已到广州仓库 The goods have been arrival Guangzhou whouse,MHE827061911021187,已提取,GUANGZHOU-CHINA/广州-中国 
+details,dest,date,parcelno,tracknum,status
+Delivered,"COPPELL,TX,US",2019-11-11 10:24,,MHE827061910013817,已签收
+Out For Delivery,"Ft Worth,TX,US",2019-11-11 04:46,,MHE827061910013817,转运中
+Arrival Scan,"Ft Worth,TX,US",2019-11-11 04:01,,MHE827061910013817,转运中
+Departure Scan,"Dallas,TX,US",2019-11-11 03:24,,MHE827061910013817,转运中
+Arrival Scan,"Dallas,TX,US",2019-11-09 18:03,,MHE827061910013817,转运中
+Departure Scan,"Baldwin Park,CA,US",2019-11-06 22:32,,MHE827061910013817,转运中
+Origin Scan,"Baldwin Park,CA,US",2019-11-06 18:35,,MHE827061910013817,转运中
+快件正在分拣 The goods are sorting.,Los angeles-USA/洛杉矶-美国,2019-11-06 11:59:40,,MHE827061910013817,转运中
+快件到达中转中心Arrived at Sort Facility.,Los angeles-USA/洛杉矶-美国,2019-11-06 10:59:40,,MHE827061910013817,转运中
+快件到达洛杉矶港口.Arrived at Port of LOS ANGELES,Los angeles-USA/洛杉矶-美国,2019-11-03 09:44:39,,MHE827061910013817,转运中
+快件已完成报关手续并从海关放行. Clearance processing completed.,Los angeles-USA/洛杉矶-美国,2019-10-31 11:01,,MHE827061910013817,转运中
+快件预计11月3日抵达港口Express is expected to arrive at port 11.3,SHENZHEN-CHINA/深圳-中国,2019-10-21 09:37:22,,MHE827061910013817,转运中
+"快件离开港口.Departed Port in SHENZHEN-CHINA, PEOPLES REPUBLIC.",SHENZHEN-CHINA/深圳-中国,2019-10-20 22:37:22,,MHE827061910013817,转运中
+快件将于10月20日开船The express will leave on 10.20,SHENZHEN-CHINA/深圳-中国,2019-10-19 10:58,,MHE827061910013817,转运中
+船名航次 EVER SUPERB 1111-079E.,SHENZHEN-CHINA/深圳-中国,2019-10-19 09:57,,MHE827061910013817,转运中
+快件已完成报关手续并从海关放行. Clearance processing completed.,SHENZHEN-CHINA/深圳-中国,2019-10-19 00:56:34,,MHE827061910013817,转运中
+海关状态更新 Customs status updated.,SHENZHEN-CHINA/深圳-中国,2019-10-18 23:56:34,,MHE827061910013817,转运中
+"快件已装柜,将安排报关 The goods have been loading and ready to customs declare.",GUANGZHOU-CHINA/广州-中国,2019-10-18 00:55:43,,MHE827061910013817,转运中
+快件已到广州仓库 The goods have been arrival Guangzhou whouse,GUANGZHOU-CHINA/广州-中国 ,2019-10-17 14:42,,MHE827061910013817,已提取
