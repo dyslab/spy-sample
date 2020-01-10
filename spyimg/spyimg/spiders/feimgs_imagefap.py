@@ -89,19 +89,25 @@ class FeimgsImagefapSpider(scrapy.Spider):
     # Fetched and save image
     def parse_image(self, response):
         print('>>> Fetched file [%s]' % response.url)
-        a = os.path.split(response.url)[-1]
+        # Get picture file name
+        fn = os.path.split(response.url)[-1]
+        questionMarkPos = fn.find('?')
+        if questionMarkPos > 0:
+            saveFileName = fn[0:questionMarkPos]
+        else:
+            saveFileName = fn
         if len(response.body) > 0:
             # Save image file to dest path
             try:
                 self.saved_image_count += 1
-                with open('{}/{}'.format(self.saved_image_path, a), 'wb') as fimg:
+                with open('{}/{}'.format(self.saved_image_path, saveFileName), 'wb') as fimg:
                     fimg.write(response.body)
                     fimg.close()
             except OSError:
                 print(
-                    '>>> Warning: File #{} [{}/{}] Save FAILED!'.format(self.saved_image_count, self.saved_image_path, a)
+                    '>>> Warning: File #{} [{}/{}] Save FAILED!'.format(self.saved_image_count, self.saved_image_path, saveFileName)
                 )
             else:
                 print(
-                    '>>> File #{} [{}/{}] Save OK!'.format(self.saved_image_count, self.saved_image_path, a)
+                    '>>> File #{} [{}/{}] Save OK!'.format(self.saved_image_count, self.saved_image_path, saveFileName)
                 )
