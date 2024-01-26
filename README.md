@@ -84,31 +84,33 @@ scrapy list
 
 - **spyimg**
 
-    - 🕷 feimgs_svgrepo (See demos on _[./spyimg/feimgs_svgrepo_demos/README.md](./spyimg/feimgs_svgrepo_demos/README.md)_ )
+    - 🕷 [feimgs_svgrepo](./spyimg/spyimg/spiders/feimgs_svgrepo.py) (See demos on _[./spyimg/feimgs_svgrepo_demos/README.md](./spyimg/feimgs_svgrepo_demos/README.md)_ )
 
     ```bash
     scrapy crawl --nolog feimgs_svgrepo -a cat=wechat
     ```
 
-    - 🕷 feimgs_pornpics
+    - 🕷 [feimgs_pornpics](./spyimg/spyimg/spiders/feimgs_pornpics.py)
 
     ```bash
     scrapy crawl --nolog feimgs_pornpics -a url=https://www.pornpics.com/galleries/met-art-diana-a-nika-b-35320148/
     ```
 
-    - 🕷 feimgs_imagefap (Fit for the gallery which contains less than 10-page photos)
+    - 🕷 [feimgs_imagefap](./spyimg/spyimg/spiders/feimgs_imagefap.py) (Fit for the gallery which contains less than 10-page photos)
 
     ```bash
     scrapy crawl --nolog feimgs_imagefap -a url=https://www.imagefap.com/pictures/11922724/les1506
     ```
 
-    - 🕷 feimgs_imagefap2 (Fit for all galleries)
+    - 🕷 [feimgs_imagefap2](./spyimg/spyimg/spiders/feimgs_imagefap2.py) (Fit for all galleries)
 
     ```bash
     scrapy crawl --nolog feimgs_imagefap2 -a url=https://www.imagefap.com/gallery/11922185
     ```
 
     - _Deprecated spiders 🕷: ~~feimgs_mtrtsy, feimgs_kkrtys, feimgs_ojbk~~_
+
+<br>
 
 ---
 
