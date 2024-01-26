@@ -1,20 +1,23 @@
 '''
+    [!!! DEPRECATED !!!]
+
     Spider name: feimgs_kkrtys
 
-   Fetch images by pages from website 'kkrtys.com'.
+    Fetch images by pages from website 'kkrtys.com'.
 
     Target site link examples:
         http://kkrtys.com/guomo/
             http://kkrtys.com/guomo/2018/0523/382.html
             http://kkrtys.com/guomo/2018/0523/381.html
             http://kkrtys.com/guomo/2018/0523/380.html
-            http://kkrtys.com/guomo/2018/0523/379.html
 
     Arguments:
         url: Target url. 
 
     Usage:
         $ scrapy crawl --nolog feimgs_kkrtys -a url=http://kkrtys.com/guomo/2018/0523/379.html
+
+    Last verified date: 27 Nov, 2019
 '''
 # -*- coding: utf-8 -*-
 import scrapy

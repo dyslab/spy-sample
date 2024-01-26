@@ -1,7 +1,9 @@
 '''
+    [!!! DEPRECATED !!!]
+    
     Spider name: cptrack
 
-    Crawl tracking information from www.colisprive.com by tracking number.
+    Crawl tracking information from http://www.colisprive.com by tracking number.
 
     Arguments:
         num: Tracking Number.
@@ -10,6 +12,8 @@
         $ scrapy crawl --nolog cptrack -a num=FX000110077668320
         $ scrapy crawl cptrack -o cptrack.csv -a num=FX000090696630220   # Output csv file.
         $ scrapy crawl cptrack -o cptrack.json -s FEED_EXPORT_ENCODING=utf-8 -a num=FX000113628526320   # Output json file and encoding as utf-8.
+
+    Last verified date: 27 Nov, 2019
 '''
 # -*- coding: utf-8 -*-
 import scrapy

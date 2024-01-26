@@ -13,6 +13,12 @@ def remove_space_and_add_tag(text):
     return 'No.' + str(text).strip()
 
 
+'''''''''''''''''''''
+#
+#   Classes below used in spiders/info_cptrack.py
+#
+'''''''''''''''''''''
+
 class TrackingInfoItem(scrapy.Item):
     # define the fields for your item here like:
     tracknum = scrapy.Field(
@@ -34,14 +40,63 @@ class TrackingInfoItem(scrapy.Item):
         print('Date: %s' % self['date'])
 
 
-class XMLSampleItem(scrapy.Item):
+'''''''''''''''''''''
+#
+#   Classes below used in spiders/xmlsample.py
+#
+'''''''''''''''''''''
+
+class XMLSampleItemGeneric(scrapy.Item):
     # define the fields for your item here like:
-    author = scrapy.Field()
     title = scrapy.Field()
-    category = scrapy.Field()
     link = scrapy.Field()
+    pubDate = scrapy.Field()
     description = scrapy.Field()
 
+
+class XMLSampleItemForTechnode(scrapy.Item):
+    # define the fields for your item here like:
+    title = scrapy.Field()
+    link = scrapy.Field()
+    dc_creator = scrapy.Field()
+    pubDate = scrapy.Field()
+    category = scrapy.Field()
+    guid = scrapy.Field()
+    description = scrapy.Field()
+    content_encoded = scrapy.Field()
+
+
+class XMLSampleItemForWilliamLong(scrapy.Item):
+    # define the fields for your item here like:
+    title = scrapy.Field()
+    author = scrapy.Field()
+    link = scrapy.Field()
+    pubDate = scrapy.Field()
+    guid = scrapy.Field()
+    description = scrapy.Field()
+    category = scrapy.Field()
+    comments = scrapy.Field()
+    wfw_commentRss = scrapy.Field()
+
+
+class XMLSampleItemForFeng(scrapy.Item):
+    # define the fields for your item here like:
+    id = scrapy.Field()
+    title = scrapy.Field()
+    link = scrapy.Field()
+    category = scrapy.Field()
+    description = scrapy.Field()
+    source = scrapy.Field()
+    pubDate = scrapy.Field()
+    author = scrapy.Field()
+    isOrigin = scrapy.Field()
+
+
+'''''''''''''''''''''
+#
+#   Classes below used in spiders/csvsample.py
+#
+'''''''''''''''''''''
 
 class CSVSampleCountryItem(scrapy.Item):
     # define the fields for your item here like:
@@ -57,7 +112,14 @@ class CSVSampleProvinceCityItem(scrapy.Item):
     provinceCode = scrapy.Field()
 
 
+'''''''''''''''''''''
+#
+#   Classes below used in spiders/sitemapsample.py
+#
+'''''''''''''''''''''
+
 class SitemapSampleItem(scrapy.Item):
     # define the fields for your item here like:
     title = scrapy.Field()
     url = scrapy.Field()
+    content = scrapy.Field()

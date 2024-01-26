@@ -1,14 +1,15 @@
 '''
+    [!!! DEPRECATED !!!]
+
     Spider name: feimgs_mtrtsy
 
-   Fetch serialized images by automated sequence no from specific image website.
+    Fetch serialized images by automated sequence no from specific image website.
 
     Target site link examples:
         http://mtrtsy.com/
             http://img.mtrtsy.com/161213/co161213145323-0.jpg
             http://img.mtrtsy.com/170216/co1F216024225-0.jpg
             http://img.mtrtsy.com/161217/co16121F02546-0.jpg
-            http://img.mtrtsy.com/170216/co1F216023328-0.jpg
 
     Arguments:
         url: Target url. ('[n]' means the variable of sequence no)
@@ -17,6 +18,8 @@
 
     Usage:
         $ scrapy crawl --nolog feimgs_mtrtsy -a threads=5 -a url=http://img.mtrtsy.com/170907/co1FZF23R5-[n].jpg -a startno=0
+
+    Last verified date: 27 Nov, 2019
 '''  
 # -*- coding: utf-8 -*-
 import scrapy

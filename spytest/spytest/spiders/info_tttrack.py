@@ -1,4 +1,6 @@
 '''
+    [!!! DEPRECATED !!!]
+    
     Spider name: tttrack
 
     Crawl tracking information from http://www.ttsucha.com/ by tracking number.
@@ -8,6 +10,8 @@
 
     Usage:
         scrapy crawl --nolog tttrack -a num=MHE827061911021187 -o tttrack.csv
+
+    Last verified date: 27 Nov, 2019
 '''
 # -*- coding: utf-8 -*-
 import scrapy

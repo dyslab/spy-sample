@@ -1,0 +1,15 @@
+------------ header part ------------	
+Date: Mon, 22 Jan 2024 11:54:34 GMT	
+Content-Type: application/json; charset=UTF-8	
+Server: nginx	
+Vary: Accept-Encoding	
+Cache-Control: private	
+Verify-Passed: False	
+X-Powered-By: ASP.NET	
+17Server: App	
+Access-Control-Allow-Credentials: true	
+Access-Control-Max-Age: 86400	
+Access-Control-Allow-Headers: Last-Event-ID,extrefer	
+	
+------------- body part -------------	
+{"ret":-8,"msg":"abN","id":0,"dat":[]}

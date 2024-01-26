@@ -1,0 +1,5363 @@
+content,title,url
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html lang=""zh-HK"" xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"">
+<head>
+    <title>sitemaps.org - 首頁</title>
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">
+    <meta name=""description"" content=""The Sitemaps protocol enables webmasters to information earch engine about pages on their site that are available for crawling."" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"">
+<script type=""text/javascript"" src=""/lang.js""></script>
+    <style type=""text/css"">
+.style1
+        {
+            color: #FF0000;
+        }
+        </style>
+</head>
+<body>
+    <div id=""container"">
+        <div id=""intro"">
+            <div id=""pageHeader"">
+                <h1>
+                    sitemaps.org</h1>
+            </div>
+            <div id=""selectionbar"">
+                <ul>
+                    <li><a href=""faq.html"">常見問題</a></li>
+                    <li><a href=""protocol.html"">通訊協定</a></li>
+                    <li><a href=""index.html"">首頁</a></li>
+                </ul>
+            </div>
+            <!-- end selectionbar -->
+        </div>
+        <!-- end intro -->
+        <div id=""mainContent"">
+            <h1>
+                服務條款</h1>
+            <p>
+                這是您和 Sitemaps.org 各贊助商之間的契約：Google, Inc.、Yahoo, Inc. 和 Microsoft Corporation (在此合約中統稱為「贊助商」或「我們」)。使用
+                Sitemaps.org 網站 (「網站」) 即代表您同意接受下列條款及細則 (《服務條款》)。</p>
+            <h2>
+                服務條款的範圍；授權</h2>
+            <p>
+                這些《服務條款》規範您對「網站」的使用。「贊助商」對於 Sitemap 通訊協定規格 (由「網站」發佈，即為「規格」) 的版權，是根據 Creative Commons
+                Attribution-ShareAlike License (2.5 版) 授權給您。除了「贊助商」對此「規格」的版權之外，將不授予任何類型的智慧財產權，也不經由《服務條款》或您對
+                Sitemaps 的使用而提供智慧財產權 (無論明示、暗示或其他)。</p>
+            <h2>
+                網站和條款及細則的變更；規格的變更</h2>
+            <p>
+                我們可基於任何原因修改或終止「網站」，不另行通知。我們也有權隨時修改這些《服務條款》，不另行通知，而當這些修改發佈於「網站」上時，您亦同意受到其約束。儘管有上述規定，「贊助商」仍同意，我們對《服務條款》所進行的任何變更，對於「規格」在變更之發佈日期前所發生的使用或實作，將不會終止或修改上述段落
+                1 的授權。請定期檢閱這些《服務條款》，以了解任何變更。</p>
+            <p>
+                無論通知您與否，「贊助商」有權隨時對 Sitemap 通訊協定和 / 或「規格」進行變更，包含 (但不限於) 將造成您現有 Sitemaps 檔案與修訂之通訊協定不相容的變更。&nbsp;「贊助商」不需因此類的變更而對您負責。各「贊助商」都有權在其產品或服務上使用
+                (或不使用) Sitemap 通訊協定的全部或部分，而「贊助商」沒有義務索引、讀取或使用您發佈的任何 Sitemap。不限於前述條件的普遍性，各「贊助商」都有權隨時在其產品或服務上停用
+                Sitemap 通訊協定。</p>
+            <h2>
+                無保證條款</h2>
+            <p>
+                「贊助商」聲明不對「網站」中的資訊或資料之正確性、內容、完整性、合法性或可用性負任何責任。「贊助商」也聲明，「規格」的使用或者透過「網站」自網際網路下載或使用的資訊或資料若造成任何傷害，將不負任何責任。</p>
+            <p>
+                「網站」、「規格」和「網站」所包含的所有資料、資訊和服務皆以「現有」版本提供而無進一步的保證。「贊助商」和其授權者表示在法律允許的範圍內不作出任何明示、暗示及法定的保證，包括
+                (但不限於) 適售性、作某特殊用途之合適性及未侵犯任何專屬權利之保證。「贊助商」和其授權者不對以下各項提供保證：「網站」的安全性、可靠性、時效性及效能。「贊助商」和其授權者不對以下各項提供保證：透過「網站」所提供之連結所取得的資訊或建議。</p>
+            <p>
+                您同意並瞭解您是自願下載或使用網站來取得資料，並承擔所有因下載此類資料所造成的電腦系統傷害或資料遺失的風險。</p>
+            <h2>
+                責任限制</h2>
+            <p>
+                在任何情況下，「贊助商」和其授權者皆不需對使用、不當使用或倚賴「網站」或「規格」的使用者在任何與此合約或內容相關的索賠中擔負任何責任。此責任限制適用於任何直接、間接、必然、特例、懲戒和處罰性的傷害賠償，不論此等索賠是根據保證書、合約、民事侵權法
+                (包括疏忽) 或其他規定 (即使贊助商和授權者已被告知可能的傷害賠償)。此責任限制適用於因使用或不當使用或倚賴「網站」，或「網站」的中斷、暫停使用或終止使用「網站」而產生之傷害
+                (包含第三方導致的傷害賠償)。此限制也適用於 (但不限於) 購買替代產品或服務的成本、損失的收益或資料。「網站」的相關效能或非效能，以及「網站」所顯示、連結或關聯的任何資訊，也都適用此項限制。即使有限補救措施之基本目的未受遵循，此項限制在法律允許的範圍內仍然適用。</p>
+            <h2>
+                隱私權</h2>
+            <p>
+                我們不會嘗試識別「網站」的個別使用者。我們不會基於任何原因而從「網站」收集身分資料或對第三方透露此資料。我們所收集與網站相關聯的非身分資料，只會用於「網站」的伺服器管理和一般作業。對於傳送給「網站」所列之聯絡人電子郵件地址的電子郵件，上述規定並不適用；這些郵件可能含有個人識別資訊，而我們將只在必要時使用該資訊來針對該郵件做出回應。</p>
+            <p>
+                我們會記錄對「網站」的 HTTP 要求，因此就可以知道想要求網站 URL 之電腦的起始 IP 位址為何。我們不會記錄訪客的特定身分。我們會分析所擁有的記錄檔，以判斷「網站」的使用情形。記錄資訊將無限期地保留，做為管理和研究之用，但不會對「贊助商」之外的人員透露。這些記錄所產生的累計和非識別的統計資料，可能做為研究之用。</p>
+            <h2>
+                其他條款</h2>
+            <p>
+                上述《服務條款》乃依循加州州法，凡抵觸您居住的州或國家之法律部分將屬無效。如果任何法庭裁定部分《服務條款》無效，其他部分仍將有法律效應。</p>
+            <p>
+                此《服務條款》代表您與「贊助商」之間所有關於上述要點之協議，並取代之前任何書面或口頭的共識或協議。任何有關這些《服務條款》內容的豁免條文，都必須取得所有「贊助商」的書面簽名同意，始可生效。</p>
+            <p class=""date"">
+                上次更新日期：2008 年 3 月 21 日
+            </p>
+        </div>
+        <!-- end maincontent -->
+    </div>
+    <!-- closes #container -->
+</body>
+</html>
+",sitemaps.org - 首頁,https://www.sitemaps.org/zh_HK/terms.html
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html lang=""en-GB"" xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"">
+<head>
+    <title>sitemaps.org - Home</title>
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">
+    <meta name=""description"" content=""The Sitemaps protocol enables webmasters to information earch engine about pages on their site that are available for crawling."" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"">
+<script type=""text/javascript"" src=""/lang.js""></script>
+    <style type=""text/css"">
+.style1
+        {
+            color: #FF0000;
+        }
+        </style>
+</head>
+<body>
+    <div id=""container"">
+        <div id=""intro"">
+            <div id=""pageHeader"">
+                <h1>
+                    sitemaps.org</h1>
+            </div>
+            <div id=""selectionbar"">
+                <ul>
+                    <li><a href=""faq.html"">FAQ</a></li>
+                    <li><a href=""protocol.html"">Protocol</a></li>
+                    <li><a href=""index.html"">Home</a></li>
+                </ul>
+            </div>
+            <!-- end selectionbar -->
+        </div>
+        <!-- end intro -->
+        <div id=""mainContent"">
+            <h1>
+                Terms of service</h1>
+            <p>
+                This is a contract between you and each of the sponsors of Sitemaps.org: Google,
+                Inc., Yahoo, Inc. and Microsoft Corporation (referred to collectively in this agreement
+                as the “Sponsors”, “we” or “us”). By using the Sitemaps.org website (the “Website”)
+                you agree to be bound by the following terms and conditions (the &quot;Terms of
+                Service&quot;).</p>
+            <h2>
+                Scope of Terms of Services; License</h2>
+            <p>
+                These Terms of Service govern your use of the Website. The Sponsors’ copyrights
+                in the sitemaps protocol specification, as published on the Website (the “Specification”),
+                are licensed to you under the Creative Commons Attribution-ShareAlike License (version
+                2.5). Other than the Sponsors’ copyrights in this Specification, no intellectual
+                property rights of any kind are granted or may arise under these Terms of Service
+                or via your use of Sitemaps, whether express, implied or otherwise.</p>
+            <h2>
+                Changes in Website and Terms and Conditions; Change in Specification</h2>
+            <p>
+                We may modify or terminate the Website, for any reason, and without notice. We also
+                reserve the right to modify these Terms of Service from time to time without notice
+                and you expressly agree to be bound by such modifications when posted on the Website.
+                Notwithstanding the foregoing, the Sponsors agree that no change that we make to
+                these Terms of Service will terminate or modify the license granted under paragraph
+                1 above with respect to any use or implementation of the Specification occurring
+                prior to the date that the change is published. Please review these Terms of Service
+                from time to time so that you will be apprised of any changes.</p>
+            <p>
+                The Sponsors reserve the right, at any time, with or without notice to you, to make
+                changes to the Sitemaps protocol and/or the Specification, including, without limitation,
+                to make changes that result in your existing sitemaps files becoming non-compliant
+                with the revised protocol.&nbsp; The Sponsors will have no liability to you for
+                any such changes. Each of the Sponsors reserves the right to use, or not use, the
+                Sitemaps protocol in whole or in part, on any or all its products or services, and
+                no Sponsor shall obligated to index, read or otherwise make use of any sitemap published
+                by you. Without limiting the generality of the foregoing, each Sponsor reserves
+                the right at any time to discontinue use of the Sitemaps protocol on any or all
+                its products or services.</p>
+            <h2>
+                Disclaimer of Warranties</h2>
+            <p>
+                The Sponsors disclaim any and all responsibility or liability for the accuracy,
+                content, completeness, reliability, or operability or availability of information
+                or material displayed on the Website. The Sponsors also disclaim any responsibility
+                for any harm resulting from use of the Specification or downloading or accessing
+                any information or material on the Internet through the Website.</p>
+            <p>
+                THE WEBSITE, THE SPECIFICATION AND ALL MATERIALS, INFORMATION AND SERVICES INCLUDED
+                IN THE WEBSITE ARE PROVIDED &quot;AS IS&quot;, WITH NO WARRANTIES WHATSOEVER. THE
+                SPONSORS AND THEIR LICENSORS EXPRESSLY DISCLAIM TO THE FULLEST EXTENT PERMITTED
+                BY LAW ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES, INCLUDING, WITHOUT LIMITATION,
+                THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT
+                OF PROPRIETARY RIGHTS. THE SPONSORS AND THEIR LICENSORS DISCLAIM ANY WARRANTIES
+                REGARDING THE SECURITY, RELIABILITY, TIMELINESS, AND PERFORMANCE OF THE WEBSITE.
+                THE SPONSORS AND THEIR LICENSORS DISCLAIM ANY WARRANTIES FOR ANY INFORMATION OR
+                ADVICE RECEIVED THROUGH ANY LINKS PROVIDED IN THE WEBSITE.</p>
+            <p>
+                YOU UNDERSTAND AND AGREE THAT YOU DOWNLOAD OR OTHERWISE OBTAIN MATERIAL OR DATA
+                THROUGH THE USE OF THE WEBSITE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL
+                BE SOLELY RESPONSIBLE FOR ANY DAMAGES TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT
+                RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL OR DATA.</p>
+            <h2>
+                Limitation of Liability</h2>
+            <p>
+                UNDER NO CIRCUMSTANCES SHALL THE SPONSORS OR THEIR LICENSORS BE LIABLE TO ANY USER
+                ON ACCOUNT OF THAT USER'S USE OR MISUSE OF OR RELIANCE ON THE WEBSITE OR THE SPECIFICATION
+                ARISING FROM ANY CLAIM RELATING TO THIS AGREEMENT OR THE SUBJECT MATTER HEREOF.
+                SUCH LIMITATION OF LIABILITY SHALL APPLY TO PREVENT RECOVERY OF DIRECT, INDIRECT,
+                INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, AND PUNITIVE DAMAGES WHETHER SUCH
+                CLAIM IS BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE,
+                (EVEN IF THE SPONSORS OR THEIR LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF
+                SUCH DAMAGES). SUCH LIMITATION OF LIABILITY SHALL APPLY WHETHER THE DAMAGES ARISE
+                FROM USE OR MISUSE OF AND RELIANCE ON THE WEBSITE, FROM INABILITY TO USE THE WEBSITE,
+                OR FROM THE INTERRUPTION, SUSPENSION, OR TERMINATION OF THE WEBSITE (INCLUDING SUCH
+                DAMAGES INCURRED BY THIRD PARTIES). THIS LIMITATION SHALL ALSO APPLY, WITHOUT LIMITATION,
+                TO THE COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOST PROFITS, OR LOST
+                DATA. SUCH LIMITATION SHALL FURTHER APPLY WITH RESPECT TO THE PERFORMANCE OR NON-PERFORMANCE
+                OF THE WEBSITE OR ANY INFORMATION THAT APPEARS ON, OR IS LINKED OR RELATED IN ANY
+                WAY TO, THE WEBSITE. SUCH LIMITATION SHALL APPLY NOTWITHSTANDING ANY FAILURE OF
+                ESSENTIAL PURPOSE OF ANY LIMITED REMEDY AND TO THE FULLEST EXTENT PERMITTED BY LAW.</p>
+            <h2>
+                Privacy</h2>
+            <p>
+                We make no effort to personally identify users of the Website. No identifying data
+                is collected from the Website or disclosed to any third party for any purpose. Non-identifying
+                data that we collect in connection with the Website is used only for server administration
+                and the general operation of the Website. The foregoing does not apply to email
+                sent to contact email addresses listed on the Website, which may contain personally
+                identifiable information and which we will use solely as necessary to respond to
+                the applicable email.</p>
+            <p>
+                We log http requests to the Website. As a result, we are aware of the originating
+                IP address of a machine requesting a Website URL. We do not log the specific identity
+                of visitors. We may analyse our log files to determine how the Website is being
+                used. Logged information is kept indefinitely as administrative and research material,
+                but it is not disclosed other than to the Sponsors’ personnel. Aggregate, non-identifiable
+                statistics generated from our logs may be used for research purposes.</p>
+            <h2>
+                Miscellaneous Provisions</h2>
+            <p>
+                These Terms of Service will be governed by and construed in accordance with the
+                laws of the State of California, without giving effect to their conflict of laws
+                provisions or those of your actual state or country of residence. If for any reason
+                a court of competent jurisdiction finds any provision or portion of the Terms of
+                Service to be unenforceable, the remainder of the Terms of Service will continue
+                in full force and effect.</p>
+            <p>
+                These Terms of Service constitute the entire agreement between you and Sponsors
+                with respect to the subject matter hereof and supersede and replace all prior or
+                contemporaneous understandings or agreements, written or oral, regarding such subject
+                matter. Any waiver of any provision of the Terms of Service will be effective only
+                if in writing and signed by all the Sponsors.</p>
+            <p class=""date"">
+                Last Updated: 27 February 2008</p>
+        </div>
+        <!-- end maincontent -->
+    </div>
+    <!-- closes #container -->
+</body>
+</html>
+",sitemaps.org - Home,https://www.sitemaps.org/en_GB/terms.html
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html lang=""en-GB"" xmlns=""http://www.w3.org/1999/xhtml"" id=""sitemaps_org"" xml:lang=""en"">
+<head>
+    <title>sitemaps.org - FAQ</title>
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">
+    <meta name=""robots"" content=""all"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"">
+<script type=""text/javascript"" src=""/lang.js""></script>
+    <style type=""text/css"">
+.style2
+        {
+            font-family: ""Courier New"" , Courier, mono;
+        }
+        </style>
+</head>
+<body class=""faq"">
+    <a name=""top"" id=""top""></a>
+    <div id=""container"">
+        <div id=""intro"">
+            <div id=""pageHeader"">
+                <h1>
+                    <a href=""http://www.sitemaps.org/"">sitemaps.org</a></h1>
+            </div>
+            <div id=""selectionbar"">
+                <ul>
+                    <li class=""activelink""><a href=""#"">FAQ</a></li>
+                    <li><a href=""protocol.html"">Protocol</a></li>
+                    <li><a href=""index.html"">Home</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id=""mainContent"">
+            <h1>
+                Frequently asked questions</h1>
+            <p>
+                <a href=""#faq_xml_encoding"">How do I represent URLs in the Sitemap?</a></p>
+            <p>
+                <a href=""#faq_output_encoding"">Does it matter which character encoding method I use
+                    to generate my Sitemap files?</a></p>
+            <p>
+                <a href=""#faq_specifying_time"">How do I specify time?</a></p>
+            <p>
+                <a href=""#faq_computing_lastmod"">How do I compute lastmod date?</a></p>
+            <p>
+                <a href=""#faq_sitemap_location"">Where do I place my Sitemap?</a></p>
+            <p>
+                <a href=""#faq_sitemap_size"">How big can my Sitemap be?</a></p>
+            <p>
+                <a href=""#faq_submitting_changes"">My site has tens of millions of URLs; can I somehow
+                    submit only those that have changed recently?</a></p>
+            <p>
+                <a href=""#faq_after_submission"">What do I do after I create my Sitemap?</a></p>
+            <p>
+                <a href=""#faq_url_format"">Do URLs in the Sitemap need to be completely specified?</a></p>
+            <p>
+                <a href=""#faq_http_vs_https"">My site has both ""http"" and ""https"" versions of URLs. Do
+                    I need to list both?</a></p>
+            <p>
+                <a href=""#faq_url_encoding"">URLs on my site have session IDs in them. Do I need to remove
+                    them?</a></p>
+            <p>
+                <a href=""#faq_url_position"">Does position of a URL in a Sitemap influence its use?</a></p>
+            <p>
+                <a href=""#faq_frames"">Some of the pages on my site use frames. Should I include the
+                    frameset URLs or the URLs of the frame contents?</a></p>
+            <p>
+                <a href=""#faq_compression"">Can I zip my Sitemaps or do they have to be gzipped?</a></p>
+            <p>
+                <a href=""#faq_priority_and_page_rank"">Will the ""priority"" hint in the XML Sitemap change
+                    the ranking of my pages in search results?</a></p>
+            <p>
+                <a href=""#faq_xml_schema"">Is there an XML schema that I can validate my XML Sitemap
+                    against?</a></p>
+            <p>
+                <a href=""#more"">What if I have another question about using the protocol or submitting
+                    a Sitemap?</a></p>
+            <hr />
+            <p class=""question"">
+                Q: <a name=""faq_xml_encoding"" id=""faq_xml_encoding""></a>How do I represent URLs
+                in the Sitemap?</p>
+            <p>
+                As with all XML files, any data values (including URLs) must use <a href=""#escaped"">
+                    entity escape codes</a> for the following characters: ampersand (&amp;), single
+                quote ('), double quote (""), less than (&lt;) and greater than (&gt;). You should
+                also make sure that all URLs follow the <a href=""http://www.ietf.org/rfc/rfc3986.txt"">
+                    RFC-3986</a> standard for URIs, the <a href=""http://www.ietf.org/rfc/rfc3987.txt"">RFC-3987</a>
+                standard for IRIs and the <a href=""http://www.w3.org/TR/REC-xml/"">XML standard</a>.
+                If you are using a script to generate your URLs, you can generally URL escape them
+                as part of that script. You will still need to entity escape them. For instance,
+                the following python script entity escapes http://www.example.com/view?widget=3&amp;count&gt;2</p>
+            <pre>
+$ python
+Python 2.2.2 (#1, Feb 24 2003, 19:13:11)  
+&gt;&gt;&gt; import xml.sax.saxutils
+&gt;&gt;&gt; xml.sax.saxutils.escape(""http://www.example.com/view?widget=3&amp;count&gt;2"")
+</pre>
+            <p>
+                The resulting URL from the example above is:</p>
+            <pre>
+http://www.example.com/view?widget=3&amp;amp;count&amp;gt;2
+</pre>
+            <p class=""question"">
+                Q: <a name=""faq_output_encoding"" id=""faq_output_encoding""></a>Does it matter which
+                character encoding method I use to generate my Sitemap files?</p>
+            <p>
+                Yes. Your Sitemap files must use UTF-8 encoding.</p>
+            <p class=""question"">
+                Q: <a name=""faq_specifying_time"" id=""faq_specifying_time""></a>How do I specify time?</p>
+            <p>
+                Use <a href=""http://www.w3.org/TR/NOTE-datetime"">W3C Datetime encoding</a> for the
+                lastmod timestamps and all other dates and times in this protocol. For example,
+                2004-09-22T14:12:14+00:00.</p>
+            <p>
+                This encoding allows you to omit the time portion of the ISO8601 format; for example,
+                2004-09-22 is also valid. However, if your site changes frequently, you are encouraged
+                to include the time portion so crawlers have more complete information about your
+                site.</p>
+            <p class=""question"">
+                Q: <a name=""faq_computing_lastmod"" id=""faq_computing_lastmod""></a>How do I compute
+                lastmod date?</p>
+            <p>
+                For static files, this is the actual file update date. You can use the UNIX date
+                command to get this date:</p>
+            <pre>
+$ date --iso-8601=seconds -u -r /home/foo/www/bar.html
+&gt;&gt; 2004-10-26T08:56:39+00:00
+</pre>
+            <p>
+                For many dynamic URLs, you may be able to easily compute a lastmod date based on
+                when the underlying data was changed or by using some approximation based on periodic
+                updates (if applicable). Using even an approximate date or timestamp can help crawlers
+                avoid crawling URLs that have not changed. This will reduce the bandwidth and CPU
+                requirements for your web servers.</p>
+            <p class=""question"">
+                Q: <a name=""faq_sitemap_location"" id=""faq_sitemap_location""></a>Where do I place
+                my Sitemap?</p>
+            <p>
+                It is strongly recommended that you place your Sitemap at the root directory of
+                your HTML server; that is, place it at http://example.com/sitemap.xml.</p>
+            <p>
+                In some situations, you may want to produce different Sitemaps for different paths
+                on your site &mdash; e.g., if security permissions in your organisation compartmentalise
+                write access to different directories.</p>
+            <p>
+                We assume that if you have the permission to upload http://example.com/path/sitemap.xml,
+                you also have permission to report metadata under http://example.com/path/.</p>
+            <p>
+                All URLs listed in the Sitemap must reside on the same host as the Sitemap. For
+                instance, if the Sitemap is located at http://www.example.com/sitemap.xml, it cannot
+                include URLs from http://subdomain.example.com. If the Sitemap is located at http://www.example.com/myfolder/sitemap.xml,
+                it cannot include URLs from http://www.example.com.</p>
+            <p class=""backtotop"">
+                <a href=""#top"">Back to top</a></p>
+            <p class=""question"">
+                Q: <a name=""faq_sitemap_size"" id=""faq_sitemap_size""></a>How big can my Sitemap be?</p>
+            <p>
+                Sitemaps should be no larger than 50MB (52,428,800 bytes) and can contain a maximum
+                of 50,000 URLs. These limits help to ensure that your web server does not get bogged
+                down serving very large files. This means that if your site contains more than 50,000
+                URLs or your Sitemap is bigger than 50MB, you must create multiple Sitemap files
+                and use a <a href=""protocol.html#index"">Sitemap index file</a>. You should use a
+                Sitemap index file even if you have a small site but plan on growing beyond 50,000
+                URLs or a file size of 50MB. A Sitemap index file can include up to 50,000 Sitemaps
+                and must not exceed 50MB (52,428,800 bytes). You can also use gzip to compress your
+                Sitemaps.</p>
+            <p class=""question"">
+                Q: <a name=""faq_submitting_changes"" id=""faq_submitting_changes""></a>My site has
+                tens of millions of URLs; can I somehow submit only those that have changed recently?</p>
+            <p>
+                You can list the URLs that change frequently in a small number of Sitemaps and then
+                use the <a href=""protocol.html#lastmoddef"">lastmod</a> tag in your <a href=""protocol.html#index"">
+                    Sitemap index file</a> to identify those Sitemap files. Search engines can then
+                incrementally crawl only the changed Sitemaps.</p>
+            <p class=""question"">
+                Q: <a name=""faq_after_submission"" id=""faq_after_submission""></a>What do I do after
+                I create my Sitemap?</p>
+            <p>
+                Once you have created your Sitemap, <a href=""http://www.sitemaps.org/protocol.html#informing"">
+                    let search engines know</a> about it by submitting directly to them, pinging
+                them, or adding the Sitemap location to your robots.txt file.</p>
+            <p class=""question"">
+                Q: <a name=""faq_url_format"" id=""faq_url_format""></a>Do URLs in the Sitemap need
+                to be completely specified?</p>
+            <p>
+                Yes. You need to include the protocol (for instance, http) in your URL. You also
+                need to include a trailing slash in your URL if your web server requires one. For
+                example, http://www.example.com/ is a valid URL for a Sitemap, whereas www.example.com
+                is not.</p>
+            <p class=""question"">
+                Q: <a name=""faq_http_vs_https"" id=""faq_http_vs_https""></a>My site has both ""http""
+                and ""https"" versions of URLs. Do I need to list both?</p>
+            <p class=""answers"">
+                No. Please list only one version of a URL in your Sitemaps. Including multiple versions
+                of URLs may result in incomplete crawling of your site.</p>
+            <p class=""question"">
+                Q: <a name=""faq_url_encoding"" id=""faq_url_encoding""></a>URLs on my site have session
+                IDs in them. Do I need to remove them?</p>
+            <p>
+                Yes. Including session IDs in URLs may result in incomplete and redundant crawling
+                of your site.</p>
+            <p class=""question"">
+                Q: <a name=""faq_url_position"" id=""faq_url_position""></a>Does position of a URL in
+                a Sitemap influence its use?</p>
+            <p>
+                No. The position of a URL in the Sitemap is not likely to impact on how it is used
+                or regarded by search engines.</p>
+            <p class=""question"">
+                Q: <a name=""faq_frames"" id=""faq_frames""></a>Some of the pages on my site use frames.
+                Should I include the frameset URLs or the URLs of the frame contents?</p>
+            <p>
+                Please include both URLs.</p>
+            <p class=""question"">
+                Q: <a name=""faq_compression"" id=""faq_compression""></a>Can I zip my Sitemaps or do
+                they have to be gzipped?</p>
+            <p>
+                Please use gzip to compress your Sitemaps. Remember, your Sitemap must not be larger
+                than 50MB (52,428,800 bytes), whether compressed or not.</p>
+            <p class=""question"">
+                Q: <a name=""faq_priority_and_page_rank"" id=""faq_priority_and_page_rank""></a>Will
+                the ""priority"" hint in the XML Sitemap change the ranking of my pages in search
+                results?</p>
+            <p>
+                The ""priority"" hint in your Sitemap only indicates the importance of a particular
+                URL relative to other URLs <i>on your own site</i> and does not imply any effect
+                on the ranking of your pages in search results.</p>
+            <p class=""question"">
+                Q: <a name=""faq_xml_schema"" id=""faq_xml_schema""></a>Is there an XML schema that
+                I can validate my XML Sitemap against?</p>
+            <p>
+                Yes. An XML schema is available for Sitemap files at <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"">
+                    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd</a> and a schema for
+                Sitemap index files is available at <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"">
+                    http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd</a>. You can also
+                read more about <a href=""protocol.html#validating"">validating your Sitemap</a>.</p>
+            <p class=""question"">
+                Q: <a name=""more"" id=""more""></a>What if I have another question about using the
+                protocol or submitting a Sitemap?</p>
+            <p>
+                See the documentation available from each search engine for more details about submission
+                and usage of Sitemaps.</p>
+            <p class=""backtotop"">
+                <a href=""#top"">Back to top</a></p>
+            <p class=""date"">
+                Last Updated: 21 November 2016
+            </p>
+        </div>
+        <!-- closes #maincontent -->
+    </div>
+    <!-- closes #container -->
+    <div id=""footer"">
+        <p>
+            <a href=""terms.html"">Terms and conditions</a></p>
+    </div>
+</body>
+</html>
+",sitemaps.org - FAQ,https://www.sitemaps.org/en_GB/faq.html
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"">
+
+<head>
+
+    <title>sitemaps.org - Protocol</title>
+
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+
+    <meta name=""robots"" content=""all"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"" />
+
+</head>
+
+<body>
+
+    <a name=""top"" id=""top""></a>
+
+    <div id=""container"">
+
+        <div id=""intro"">
+
+            <div id=""pageHeader"">
+
+                <h1>
+
+                    <a href=""http://www.sitemaps.org/"">sitemaps.org</a></h1>
+
+            </div>
+
+            <div id=""selectionbar"">
+
+                <ul>
+
+                    <li><a href=""faq.html"">FAQ</a></li>
+
+                    <li class=""activelink""><a href=""#"">Protocol</a></li>
+
+                    <li><a href=""index.html"">Home</a></li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div id=""mainContent"">
+
+            <h1>
+
+                <a name=""sitemaps_protocol"" id=""sitemaps_protocol""></a>Sitemaps XML format
+
+            </h1>
+
+            <blockquote>
+
+                <b>Jump to:</b><br />
+
+                <a href=""#xmlTagDefinitions"">XML tag definitions</a>
+
+                <br />
+
+                <a href=""#escaping"">Entity escaping</a><br />
+
+                <a href=""#index"">Using Sitemap index files</a><br />
+
+				<a href=""#otherformats"">Other Sitemap formats</a><br />
+
+                <a href=""#location"">Sitemap file location</a><br />
+
+                <a href=""#validating"">Validating your Sitemap</a><br />
+
+                <a href=""#extending"">Extending the Sitemaps protocol</a><br />
+
+                <a href=""#informing"">Informing search engine crawlers</a>
+
+            </blockquote>
+
+            <p>
+
+                This document describes the XML schema for the Sitemap protocol.</p>
+
+            <p>
+
+                The Sitemap protocol format consists of XML tags. All data values in a Sitemap must
+
+                be <a href=""#escaping"">entity-escaped</a>. The file itself must be UTF-8 encoded.</p>
+
+            <p>
+
+                The Sitemap must:</p>
+
+            <ul>
+
+                <li>Begin with an opening <code>&lt;<a href=""#urlsetdef"">urlset</a>&gt;</code> tag and
+
+                    end with a closing <code>&lt;/urlset&gt;</code> tag.</li>
+
+                <li>Specify the namespace (protocol standard) within the <code>&lt;urlset&gt;</code>
+
+                    tag. </li>
+
+                <li>Include a <code>&lt;<a href=""#urldef"">url</a>&gt;</code> entry for each URL, as
+
+                    a parent XML tag.</li>
+
+                <li>Include a <code>&lt;<a href=""#locdef"">loc</a>&gt;</code> child entry for each <code>
+
+                    &lt;url&gt;</code> parent tag.</li>
+
+            </ul>
+
+            <p>
+
+                All other tags are optional. Support for these optional tags may vary among search
+
+                engines. Refer to each search engine's documentation for details.</p>
+
+            <p>
+
+                Also, all URLs in a Sitemap must be from a single host, such as www.example.com
+
+                or store.example.com. For further details, refer the <a href=""#location"">Sitemap file
+
+                    location</a></p>
+
+            <h3>
+
+                Sample XML Sitemap</h3>
+
+            <p>
+
+                The following example shows a Sitemap that contains just one URL and uses all optional
+
+                tags. The optional tags are in italics.</p>
+
+            <pre>
+
+&lt;?xml version=""1.0"" encoding=""UTF-8""?&gt;
+
+&lt;<a href=""#urlsetdef"">urlset</a> xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2005-01-01&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;monthly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#prioritydef"">priority</a>&gt;0.8&lt;/priority&gt;</em>
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt; 
+
+</pre>
+
+            <p>
+
+                Also see our example with <a href=""#sitemapXMLExample"">multiple URLs</a>.</p>
+
+            <h2>
+
+                <a name=""xmlTagDefinitions"" id=""xmlTagDefinitions""></a>XML tag definitions</h2>
+
+            <p>
+
+                The available XML tags are described below.</p>
+
+            <table width=""80%"">
+
+                <th>
+
+                    Attribute
+
+                </th>
+
+                <th>
+
+                </th>
+
+                <th>
+
+                    Description
+
+                </th>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""urlsetdef"" id=""urlsetdef""></a><code>&lt;urlset&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        required
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            Encapsulates the file and references the current protocol standard.</p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""urldef"" id=""urldef""></a><code>&lt;url&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        required
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            Parent tag for each URL entry. The remaining tags are children of this tag.</p>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""locdef"" id=""locdef""></a><code>&lt;loc&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        required
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            URL of the page. This URL must begin with the protocol (such as http) and end with
+
+                            a trailing slash, if your web server requires it. This value must be less than 2,048
+
+                            characters.</p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""lastmoddef"" id=""lastmoddef""></a><code>&lt;lastmod&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        optional
+
+                    </td>
+
+                    <td>
+                        
+                        <p>
+                            The date of last modification of the page. This date should be in 
+                            <a href=""http://www.w3.org/TR/NOTE-datetime"">W3C Datetime</a> format. 
+                            This format allows you to omit the time portion, if desired, and use YYYY-MM-DD.
+                        </p>
+                        <p>
+                            Note that the date must be set to the date the linked page was last modified, not when the sitemap is generated.
+                        </p>
+                        
+                        <p>
+                            Note that this tag is separate from the If-Modified-Since (304) header the server can return, and search engines may use the information from both sources differently.
+                        </p>
+                        
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""changefreqdef"" id=""changefreqdef""></a><code>&lt;changefreq&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        optional
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            How frequently the page is likely to change. This value provides general information
+
+                            to search engines and may not correlate exactly to how often they crawl the page.
+
+                            Valid values are:</p>
+
+                        <ul>
+
+                            <li>always</li>
+
+                            <li>hourly</li>
+
+                            <li>daily</li>
+
+                            <li>weekly</li>
+
+                            <li>monthly</li>
+
+                            <li>yearly</li>
+
+                            <li>never</li>
+
+                        </ul>
+
+                        <p>
+
+                            The value ""always"" should be used to describe documents that change each time they
+
+                            are accessed. The value ""never"" should be used to describe archived URLs.</p>
+
+                        <p>
+
+                            Please note that the value of this tag is considered a <i>hint</i> and not a command.
+
+                            Even though search engine crawlers may consider this information when making decisions,
+
+                            they may crawl pages marked ""hourly"" less frequently than that, and they may crawl
+
+                            pages marked ""yearly"" more frequently than that. Crawlers may periodically crawl
+
+                            pages marked ""never"" so that they can handle unexpected changes to those pages.</p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""prioritydef"" id=""prioritydef""></a><code>&lt;priority&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        optional
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            The priority of this URL relative to other URLs on your site. Valid values range
+
+                            from 0.0 to 1.0. This value does not affect how your pages are compared to pages
+
+                            on other sites&mdash;it only lets the search engines know which pages you deem most
+
+                            important for the crawlers.</p>
+
+                        <p>
+
+                            The default priority of a page is 0.5.</p>
+
+                        <p>
+
+                            Please note that the priority you assign to a page is not likely to influence the
+
+                            position of your URLs in a search engine's result pages. Search engines may use
+
+                            this information when selecting between URLs on the same site, so you can use this
+
+                            tag to increase the likelihood that your most important pages are present in a search
+
+                            index.</p>
+
+                        <p>
+
+                            Also, please note that assigning a high priority to all of the URLs on your site
+
+                            is not likely to help you. Since the priority is relative, it is only used to select
+
+                            between URLs on your site.</p>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">Back to top</a></p>
+
+            <h2>
+
+                <a name=""escaping"" id=""escaping""></a>Entity escaping</h2>
+
+            <p>
+
+                Your Sitemap file must be UTF-8 encoded (you can generally do this when you save
+
+                the file). As with all XML files, any data values (including URLs) must use entity
+
+                escape codes for the characters listed in the table below.</p>
+
+            <table>
+
+                <th colspan=""2"">
+
+                    Character
+
+                </th>
+
+                <th>
+
+                    Escape Code
+
+                </th>
+
+                <tr>
+
+                    <td>
+
+                        Ampersand
+
+                    </td>
+
+                    <td>
+
+                        &amp;
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;amp;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        Single Quote
+
+                    </td>
+
+                    <td>
+
+                        '
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;apos;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        Double Quote
+
+                    </td>
+
+                    <td>
+
+                        ""
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;quot;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        Greater Than
+
+                    </td>
+
+                    <td>
+
+                        &gt;
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;gt;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        Less Than
+
+                    </td>
+
+                    <td>
+
+                        &lt;
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;lt;</code>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+            <p>
+
+                In addition, all URLs (including the URL of your Sitemap) must be URL-escaped and
+
+                encoded for readability by the web server on which they are located. However, if
+
+                you are using any sort of script, tool, or log file to generate your URLs (anything
+
+                except typing them in by hand), this is usually already done for you. Please check
+
+                to make sure that your URLs follow the <a href=""http://www.ietf.org/rfc/rfc3986.txt"">
+
+                    RFC-3986</a> standard for URIs, the <a href=""http://www.ietf.org/rfc/rfc3987.txt"">RFC-3987</a>
+
+                standard for IRIs, and the <a href=""http://www.w3.org/TR/REC-xml/"">XML standard</a>.</p>
+
+            <p>
+
+                Below is an example of a URL that uses a non-ASCII character (<code>&uuml;</code>),
+
+                as well as a character that requires entity escaping (<code>&amp;</code>):</p>
+
+            <pre>http://www.example.com/&uuml;mlat.html&amp;q=name</pre>
+
+            <p>
+
+                Below is that same URL, ISO-8859-1 encoded (for hosting on a server that uses that
+
+                encoding) and URL escaped:</p>
+
+            <pre>http://www.example.com/%FCmlat.html&amp;q=name</pre>
+
+            <p>
+
+                Below is that same URL, UTF-8 encoded (for hosting on a server that uses that encoding)
+
+                and URL escaped:</p>
+
+            <pre>http://www.example.com/%C3%BCmlat.html&amp;q=name</pre>
+
+            <p>
+
+                Below is that same URL, but also entity escaped:</p>
+
+            <pre>http://www.example.com/%C3%BCmlat.html&amp;amp;q=name</pre>
+
+            <h3>
+
+                <a name=""sitemapXMLExample"" id=""sitemapXMLExample""></a>Sample XML Sitemap</h3>
+
+            <p>
+
+                The following example shows a Sitemap in XML format. The Sitemap in the example
+
+                contains a small number of URLs, each using a different set of optional parameters.</p>
+
+            <pre>
+
+&lt;?xml version=""1.0"" encoding=""UTF-8""?&gt;
+
+&lt;<a href=""#urlsetdef"">urlset</a> xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2005-01-01&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;monthly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#prioritydef"">priority</a>&gt;0.8&lt;/priority&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=12&amp;amp;desc=vacation_hawaii&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;weekly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=73&amp;amp;desc=vacation_new_zealand&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2004-12-23&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;weekly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=74&amp;amp;desc=vacation_newfoundland&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2004-12-23T18:00:15+00:00&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#prioritydef"">priority</a>&gt;0.3&lt;/priority&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=83&amp;amp;desc=vacation_usa&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2004-11-23&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt;
+
+</pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">Back to top</a></p>
+
+            <h2>
+
+                <a name=""index"" id=""index""></a>Using Sitemap index files (to group multiple sitemap
+
+                files)</h2>
+
+            <p>
+
+                You can provide multiple Sitemap files, but each Sitemap file that you provide must
+
+                have no more than 50,000 URLs and must be no larger than 50MB (52,428,800 bytes).
+
+                If you would like, you may compress your Sitemap files using gzip to reduce your
+
+                bandwidth requirement; however the sitemap file once uncompressed must be no larger
+
+                than 50MB. If you want to list more than 50,000 URLs, you must create multiple Sitemap
+
+                files.</p>
+
+            <p>
+
+                If you do provide multiple Sitemaps, you should then list each Sitemap file in a
+
+                Sitemap index file. Sitemap index files may not list more than 50,000 Sitemaps and
+
+                must be no larger than 50MB (52,428,800 bytes) and can be compressed. You can have
+
+                more than one Sitemap index file. The XML format of a Sitemap index file is very
+
+                similar to the XML format of a Sitemap file.</p>
+
+            <p>
+
+                The Sitemap index file must:</p>
+
+            <ul>
+
+                <li>Begin with an opening <code>&lt;<a href=""#sitemapIndex_sitemapindex"">sitemapindex</a>&gt;</code>
+
+                    tag and end with a closing <code>&lt;/sitemapindex&gt;</code> tag.</li>
+
+                <li>Include a <code>&lt;<a href=""#sitemapIndex_sitemap"">sitemap</a>&gt;</code> entry
+
+                    for each Sitemap as a parent XML tag.</li>
+
+                <li>Include a <code>&lt;<a href=""#sitemapIndex_loc"">loc</a>&gt;</code> child entry for
+
+                    each <code>&lt;sitemap&gt;</code> parent tag.</li>
+
+            </ul>
+
+            <p>
+
+                The optional <code>&lt;<a href=""#sitemapIndex_lastmod"">lastmod</a>&gt;</code> tag
+
+                is also available for Sitemap index files.</p>
+
+            <p>
+
+                <strong>Note:</strong> A Sitemap index file can only specify Sitemaps that are found
+
+                on the same site as the Sitemap index file. For example, http://www.yoursite.com/sitemap_index.xml
+
+                can include Sitemaps on http://www.yoursite.com but not on http://www.example.com
+
+                or http://yourhost.yoursite.com. As with Sitemaps, your Sitemap index file must
+
+                be UTF-8 encoded.</p>
+
+            <h3>
+
+                <a name=""sitemapIndexXMLExample"" id=""sitemapIndexXMLExample""></a>Sample XML Sitemap
+
+                Index</h3>
+
+            <p>
+
+                The following example shows a Sitemap index that lists two Sitemaps:</p>
+
+            <pre>
+
+&lt;?xml version=""1.0"" encoding=""UTF-8""?&gt;
+
+&lt;<a href=""#sitemapIndex_sitemapindex"">sitemapindex</a> xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_sitemap"">sitemap</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_loc"">loc</a>&gt;http://www.example.com/sitemap1.xml.gz&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_lastmod"">lastmod</a>&gt;2004-10-01T18:23:17+00:00&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/sitemap&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_sitemap"">sitemap</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_loc"">loc</a>&gt;http://www.example.com/sitemap2.xml.gz&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_lastmod"">lastmod</a>&gt;2005-01-01&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/sitemap&gt;
+
+&lt;/sitemapindex&gt;
+
+</pre>
+
+            <p>
+
+                <strong>Note:</strong> Sitemap URLs, like all values in your XML files, must be
+
+                <a href=""#escaping"">entity escaped</a>.</p>
+
+            <h3>
+
+                <a name=""sitemapIndexTagDefinitions"" id=""sitemapIndexTagDefinitions""></a>Sitemap
+
+                Index XML Tag Definitions</h3>
+
+            <table width=""80%"">
+
+                <tr>
+
+                    <th>
+
+                        Attribute
+
+                    </th>
+
+                    <th>
+
+                    </th>
+
+                    <th>
+
+                        Description
+
+                    </th>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""sitemapIndex_sitemapindex"" id=""sitemapIndex_sitemapindex""></a><code>&lt;sitemapindex&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        required
+
+                    </td>
+
+                    <td>
+
+                        Encapsulates information about all of the Sitemaps in the file.
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""sitemapIndex_sitemap"" id=""sitemapIndex_sitemap""></a><code>&lt;sitemap&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        required
+
+                    </td>
+
+                    <td>
+
+                        Encapsulates information about an individual Sitemap.
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""sitemapIndex_loc"" id=""sitemapIndex_loc""></a><code>&lt;loc&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        required
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            Identifies the location of the Sitemap.</p>
+
+                        <p>
+
+                            This location can be a Sitemap, an Atom file, RSS file or a simple text file.</p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""sitemapIndex_lastmod"" id=""sitemapIndex_lastmod""></a><code>&lt;lastmod&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        optional
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            Identifies the time that the corresponding Sitemap file was modified. It does not
+
+                            correspond to the time that any of the pages listed in that Sitemap were changed.
+
+                            The value for the lastmod tag should be in <a href=""http://www.w3.org/TR/NOTE-datetime"">
+
+                                W3C Datetime</a> format.</p>
+
+                        <p>
+
+                            By providing the last modification timestamp, you enable search engine crawlers
+
+                            to retrieve only a subset of the Sitemaps in the index i.e. a crawler may only retrieve
+
+                            Sitemaps that were modified since a certain date. This incremental Sitemap fetching
+
+                            mechanism allows for the rapid discovery of new URLs on very large sites.</p>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">Back to top</a></p>
+
+            <h2>
+
+                <a name=""otherformats"" id=""otherformats""></a>Other Sitemap formats</h2>
+
+            <p>
+
+                The Sitemap protocol enables you to provide details about your pages to search engines,
+
+                and we encourage its use since you can provide additional information about site
+
+                pages beyond just the URLs. However, in addition to the XML protocol, we support
+
+                RSS feeds and text files, which provide more limited information.</p>
+
+            <h3>
+
+                Syndication feed</h3>
+
+            <p>
+
+                You can provide an RSS (Real Simple Syndication) 2.0 or Atom 0.3 or 1.0 feed. Generally,
+
+                you would use this format only if your site already has a syndication feed. Note
+
+                that this method may not let search engines know about all the URLs in your site,
+
+                since the feed may only provide information on recent URLs, although search engines
+
+                can still use that information to find out about other pages on your site during
+
+                their normal crawling processes by following links inside pages in the feed. Make
+
+                sure that the feed is located in the highest-level directory you want search engines
+
+                to crawl. Search engines extract the information from the feed as follows:</p>
+
+            <ul>
+
+                <li><strong>&lt;link&gt; field</strong> - indicates the URL</li>
+
+                <li><strong>modified date field (the &lt;pubDate&gt; field for RSS feeds and the &lt;updated&gt;
+
+                    date for Atom feeds)</strong> - indicates when each URL was last modified. Use of
+
+                    the modified date field is optional. </li>
+
+            </ul>
+
+            <h3>
+
+                Text file</h3>
+
+            <p>
+
+                You can provide a simple text file that contains one URL per line. The text file
+
+                must follow these guidelines:</p>
+
+            <ul>
+
+                <li>The text file must have one URL per line. The URLs cannot contain embedded new lines.</li>
+
+                <li>You must fully specify URLs, including the http.</li>
+
+                <li>Each text file can contain a maximum of 50,000 URLs and must be no larger than 50MB
+
+                    (52,428,800 bytes). If you site includes more than 50,000 URLs, you can separate
+
+                    the list into multiple text files and add each one separately.</li>
+
+                <li>The text file must use UTF-8 encoding. You can specify this when you save the file
+
+                    (for instance, in Notepad, this is listed in the Encoding menu of the Save As dialog
+
+                    box).</li>
+
+                <li>The text file should contain no information other than the list of URLs.</li>
+
+                <li>The text file should contain no header or footer information.</li>
+
+                <li>If you would like, you may compress your Sitemap text file using gzip to reduce
+
+                    your bandwidth requirement.</li>
+
+                <li>You can name the text file anything you wish. Please check to make sure that your
+
+                    URLs follow the <a href=""http://www.ietf.org/rfc/rfc3986.txt"">RFC-3986</a> standard
+
+                    for URIs, the <a href=""http://www.ietf.org/rfc/rfc3987.txt"">RFC-3987</a> standard
+
+                    for IRIs</li>
+
+                <li>You should upload the text file to the highest-level directory you want search engines
+
+                    to crawl and make sure that you don't list URLs in the text file that are located
+
+                    in a higher-level directory. </li>
+
+            </ul>
+
+            <p>
+
+                Sample text file entries are shown below.</p>
+
+            <pre>http://www.example.com/catalog?item=1
+
+<br />http://www.example.com/catalog?item=11
+
+<br /></pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">Back to top</a></p>
+
+            <h2>
+
+                <a name=""location"" id=""location""></a>Sitemap file location</h2>
+
+            <p>
+
+                The location of a Sitemap file determines the set of URLs that can be included in
+
+                that Sitemap. A Sitemap file located at http://example.com/catalog/sitemap.xml can
+
+                include any URLs starting with http://example.com/catalog/ but can not include URLs
+
+                starting with http://example.com/images/.</p>
+
+            <p>
+
+                If you have the permission to change http://example.org/path/sitemap.xml, it is
+
+                assumed that you also have permission to provide information for URLs with the prefix
+
+                http://example.org/path/. Examples of URLs considered valid in http://example.com/catalog/sitemap.xml
+
+                include:</p>
+
+            <pre>
+
+http://example.com/catalog/show?item=23
+
+http://example.com/catalog/show?item=233&amp;user=3453
+
+</pre>
+
+            <p>
+
+                URLs not considered valid in http://example.com/catalog/sitemap.xml include:</p>
+
+            <pre>
+
+http://example.com/image/show?item=23
+
+http://example.com/image/show?item=233&amp;user=3453
+
+https://example.com/catalog/page1.html
+
+</pre>
+
+            <p>
+
+                Note that this means that all URLs listed in the Sitemap must use the same protocol
+
+                (http, in this example) and reside on the same host as the Sitemap. For instance,
+
+                if the Sitemap is located at http://www.example.com/sitemap.xml, it can't include
+
+                URLs from http://subdomain.example.com.</p>
+
+            <p>
+
+                URLs that are not considered valid are dropped from further consideration. It is
+
+                strongly recommended that you place your Sitemap at the root directory of your web
+
+                server. For example, if your web server is at example.com, then your Sitemap index
+
+                file would be at http://example.com/sitemap.xml. In certain cases, you may need
+
+                to produce different Sitemaps for different paths (e.g., if security permissions
+
+                in your organization compartmentalize write access to different directories).</p>
+
+            <p>
+
+                If you submit a Sitemap using a path with a port number, you must include that port
+
+                number as part of the path in each URL listed in the Sitemap file. For instance,
+
+                if your Sitemap is located at http://www.example.com:100/sitemap.xml, then each
+
+                URL listed in the Sitemap must begin with http://www.example.com:100.</p>
+
+            <h3>
+
+                <a name=""sitemaps_cross_submits"" id=""sitemaps_cross_submits""></a>Sitemaps & Cross
+
+                Submits</h3>
+
+            <p>
+
+                To submit Sitemaps for multiple hosts from a single host, you need to ""prove"" ownership
+
+                of the host(s) for which URLs are being submitted in a Sitemap. Here's an example.
+
+                Let's say that you want to submit Sitemaps for 3 hosts:
+
+                <pre>
+
+www.host1.com with Sitemap file sitemap-host1.xml
+
+www.host2.com with Sitemap file sitemap-host2.xml
+
+www.host3.com with Sitemap file sitemap-host3.xml
+
+</pre>
+
+            </p>
+
+            <p>
+
+                Moreover, you want to place all three Sitemaps on a single host: www.sitemaphost.com.
+
+                So the Sitemap URLs will be:
+
+                <pre>
+
+http://www.sitemaphost.com/sitemap-host1.xml
+
+http://www.sitemaphost.com/sitemap-host2.xml
+
+http://www.sitemaphost.com/sitemap-host3.xml
+
+</pre>
+
+            </p>
+
+            <p>
+
+                By default, this will result in a ""cross submission"" error since you are trying
+
+                to submit URLs for www.host1.com through a Sitemap that is hosted on www.sitemaphost.com
+
+                (and same for the other two hosts). One way to avoid the error is to prove that
+
+                you own (i.e. have the authority to modify files) www.host1.com. You can do this
+
+                by modifying the robots.txt file on www.host1.com to point to the Sitemap on www.sitemaphost.com.</p>
+
+            <p>
+
+                In this example, the robots.txt file at http://www.host1.com/robots.txt would contain
+
+                the line ""Sitemap: http://www.sitemaphost.com/sitemap-host1.xml"". By modifying the
+
+                robots.txt file on www.host1.com and having it point to the Sitemap on www.sitemaphost.com,
+
+                you have implicitly proven that you own www.host1.com. In other words, whoever controls
+
+                the robots.txt file on www.host1.com trusts the Sitemap at http://www.sitemaphost.com/sitemap-host1.xml
+
+                to contain URLs for www.host1.com. The same process can be repeated for the other
+
+                two hosts.</p>
+
+            <p>
+
+                Now you can submit the Sitemaps on www.sitemaphost.com.</p>
+
+            <p>
+
+                When a particular host's robots.txt, say http://www.host1.com/robots.txt, points
+
+                to a Sitemap or a Sitemap index on another host; it is expected that for each of
+
+                the target Sitemaps, such as http://www.sitemaphost.com/sitemap-host1.xml, all the
+
+                URLs belong to the host pointing to it. This is because, as noted earlier, a Sitemap
+
+                is expected to have URLs from a single host only.</p>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">Back to top</a></p>
+
+            <h2>
+
+                <a name=""validating"" id=""validating""></a>Validating your Sitemap</h2>
+
+            <p>
+
+                The following XML schemas define the elements and attributes that can appear in
+
+                your Sitemap file. You can download this schema from the links below:</p>
+
+            <p>
+
+                <b>For Sitemaps:</b> <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"">
+
+                    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd</a><br />
+
+                <b>For Sitemap index files:</b> <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"">
+
+                    http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd</a></p>
+
+            <p>
+
+                There are a number of tools available to help you validate the structure of your
+
+                Sitemap based on this schema. You can find a list of XML-related tools at each of
+
+                the following locations:<br />
+
+                <br />
+
+                <a href=""http://www.w3.org/XML/Schema#Tools"">http://www.w3.org/XML/Schema#Tools</a><br />
+
+                <a href=""http://www.xml.com/pub/a/2000/12/13/schematools.html"">http://www.xml.com/pub/a/2000/12/13/schematools.html</a></p>
+
+            <p>
+
+                In order to validate your Sitemap or Sitemap index file against a schema, the XML
+
+                file will need additional headers as shown below.</p>
+
+            <p>
+
+                <strong>Sitemap:</strong></p>
+
+            <pre>
+
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+
+&lt;urlset xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xsi:schemaLocation=""http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;url&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt;
+
+</pre>
+
+            <p>
+
+                <strong>Sitemap index file:</strong></p>
+
+            <pre>
+
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+
+&lt;sitemapindex xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xsi:schemaLocation=""http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;sitemap&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&lt;/sitemap&gt;
+
+&lt;/sitemapindex&gt;
+
+</pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">Back to top</a></p>
+
+            <h2>
+
+                <a name=""extending"" id=""extending""></a>Extending the Sitemaps protocol</h2>
+
+            <p>
+
+                You can extend the Sitemaps protocol using your own namespace. Simply specify this
+
+                namespace in the root element. For example:</p>
+
+            	<pre>
+
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+
+&lt;urlset xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xsi:schemaLocation=""http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns:example=&quot;http://www.example.com/schemas/example_schema&quot;&gt; &lt;!-- namespace extension --&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;url&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;example:example_tag&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/example:example_tag&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt;</pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">Back to top</a></p>
+
+            <h2>
+
+                <a name=""informing"" id=""informing""></a>Informing search engine crawlers</h2>
+
+            <p>
+
+                Once you have created the Sitemap file and placed it on your webserver, you need
+
+                to inform the search engines that support this protocol of its location. You can
+
+                do this by:</p>
+
+            <ul>
+
+                <li><a href=""#submit_engine"">submitting it to them via the search engine's submission
+
+                    interface</a></li>
+
+                <li><a href=""#submit_robots"">specifying the location in your site's robots.txt file</a></li>
+
+                <li><a href=""#submit_ping"">sending an HTTP reques</a>t<br />
+
+                </li>
+
+            </ul>
+
+            <p>
+
+                The search engines can then retrieve your Sitemap and make the URLs available to
+
+                their crawlers.</p>
+
+            <h3>
+
+                <a name=""submit_engine"" id=""submit_engine""></a>Submitting your Sitemap via the search
+
+                engine's submission interface<br />
+
+            </h3>
+
+            <p>
+
+                To submit your Sitemap directly to a search engine, which will enable you to receive
+
+                status information and any processing errors, refer to each search engine's documentation.</p>
+
+            <h3>
+
+                <a name=""submit_robots"" id=""submit_robots""></a>Specifying the Sitemap location in
+
+                your robots.txt file<br />
+
+            </h3>
+
+            <p>
+
+                You can specify the location of the Sitemap using a robots.txt file. To do this,
+
+                simply add the following line:</p>
+
+            <pre>Sitemap: http://www.example.com/sitemap.xml</pre>
+
+            <p>
+
+                This directive is independent of the user-agent line, so it doesn't matter where
+
+                you place it in your file. If you have a Sitemap index file, you can include the
+
+                location of just that file. You don't need to list each individual Sitemap listed
+
+                in the index file.</p>
+
+            <p>
+
+                You can specify more than one Sitemap file per robots.txt file.</p>
+
+            	<pre>Sitemap: http://www.example.com/sitemap-host1.xml
+
+Sitemap: http://www.example.com/sitemap-host2.xml</pre>
+
+            <h3>
+
+                <a name=""submit_ping"" id=""submit_ping""></a>Submitting your Sitemap via an HTTP request<br />
+
+            </h3>
+
+            <p>
+
+                To submit your Sitemap using an HTTP request (replace &lt;searchengine_URL&gt; with
+
+                the URL provided by the search engine), iIssue your request to the following URL:</p>
+
+            <pre>&lt;searchengine_URL&gt;/ping?sitemap=sitemap_url</pre>
+
+            <p>
+
+                For example, if your Sitemap is located at http://www.example.com/sitemap.gz, your
+
+                URL will become:</p>
+
+            <pre>&lt;searchengine_URL&gt;/ping?sitemap=http://www.example.com/sitemap.gz</pre>
+
+            <p>
+
+                URL encode everything after the /ping?sitemap=:</p>
+
+            <pre>&lt;searchengine_URL&gt;/ping?sitemap=http%3A%2F%2Fwww.yoursite.com%2Fsitemap.gz</pre>
+
+            <p>
+
+                You can issue the HTTP request using wget, curl, or another mechanism of your choosing.
+
+                A successful request will return an HTTP 200 response code; if you receive a different
+
+                response, you should resubmit your request. The HTTP 200 response code only indicates
+
+                that the search engine has received your Sitemap, not that the Sitemap itself or
+
+                the URLs contained in it were valid. An easy way to do this is to set up an automated
+
+                job to generate and submit Sitemaps on a regular basis.<br />
+
+                <strong>Note:</strong> If you are providing a Sitemap index file, you only need
+
+                to issue one HTTP request that includes the location of the Sitemap index file;
+
+                you do not need to issue individual requests for each Sitemap listed in the index.</p>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">Back to top</a></p>
+
+            <h2>
+
+                Excluding content</h2>
+
+            <p>
+
+                The Sitemaps protocol enables you to let search engines know what content you would
+
+                like indexed. To tell search engines the content you don't want indexed, use a robots.txt
+
+                file or robots meta tag. See <a href=""http://www.robotstxt.org"">robotstxt.org</a>
+
+                for more information on how to exclude content from search engines.</p>
+
+            <p>
+
+                &nbsp;</p>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">Back to top</a></p>
+
+            <p class=""date"">
+
+                Last Updated: 21 November 2016</p>
+
+        </div>
+
+        <!-- closes #maincontent -->
+
+    </div>
+
+    <!-- closes #container -->
+
+    <div id=""footer"">
+
+        <p>
+
+            <a href=""terms.html"">Terms and conditions</a></p>
+
+    </div>
+
+</body>
+
+</html>
+
+",sitemaps.org - Protocol,https://www.sitemaps.org/en_GB/protocol.html
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html lang=""zh-CN"" xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"">
+<head>
+    <title>sitemaps.org - 主页</title>
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">
+    <meta name=""description"" content=""The Sitemaps protocol enables webmasters to information earch engine about pages on their site that are available for crawling."" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"">
+<script type=""text/javascript"" src=""/lang.js""></script>
+    <style type=""text/css"">
+.style1
+        {
+            color: #FF0000;
+        }
+        </style>
+</head>
+<body>
+    <div id=""container"">
+        <div id=""intro"">
+            <div id=""pageHeader"">
+                <h1>
+                    sitemaps.org</h1>
+            </div>
+            <div id=""selectionbar"">
+                <ul>
+                    <li><a href=""faq.html"">常见问题解答</a></li>
+                    <li><a href=""protocol.html"">协议</a></li>
+                    <li><a href=""index.html"">主页</a></li>
+                </ul>
+            </div>
+            <!-- end selectionbar -->
+        </div>
+        <!-- end intro -->
+        <div id=""mainContent"">
+            <h1>
+                《服务条款》</h1>
+            <p>
+                这是您与 Sitemaps.org 所有赞助商之间的合约：Google, Inc.、Yahoo, Inc.和 Microsoft Corporation（在本协议中统称为“赞助商”或“我们”）。使用
+                Sitemaps.org 网站（“网站”）即表示您同意接受下述条款（《服务条款》）的约束。</p>
+            <h2>
+                《服务条款》的范围；许可</h2>
+            <p>
+                这些《服务条款》约束您对网站的使用。如网站发布内容（“规范”）所示，赞助商按照“创意公用授权-相同方式共享”(Creative Commons Attribution-ShareAlike
+                License)（2.5 版）的条款对 Sitemap 协议规范中的版权提供许可。在此《服务条款》范围内，或通过您对 Sitemap 的使用，除了“规范”内所述的版权，赞助商没有授予其他任何其他知识产权，无论是明示、暗示或以其他方式。</p>
+            <h2>
+                网站和条款的变更；规范变更</h2>
+            <p>
+                我们可能出于任何原因修改或终止网站，恕不另行通知。我们还保留随时修改这些《服务条款》的权利，恕不另行通知；您明确同意在网站上发帖时接受这些修改条款的约束。尽管有上述规定，赞助商仍然同意，对于发生在更改发布日期之前的规范使用和实施，《服务条款》的更改不会中断或修改上述第
+                1 段中授予您的许可。请经常查看《服务条款》，以便知晓所有更改。</p>
+            <p>
+                赞助商保留在通知或不通知您的前提下，随时对 Sitemaps 协议和/或规范进行更改的权利，包括但不限于修订后的协议造成您现有的 Sitemap 文件不符合规范的情况。赞助商对您或此类更改概不负责。所有赞助商都保留在其产品或服务中使用或不使用、部分使用或全部使用
+                Sitemap 协议的权利，所有赞助商均无责任一定将您发布的所有 Sitemap 都编入索引、阅读或以其他方式使用。在不限制上述条款总则的情况下，所有赞助商都保留随时在其部分或全部产品和服务中中断使用
+                Sitemap 协议的权利。</p>
+            <h2>
+                免责声明</h2>
+            <p>
+                对于网站上显示的任何信息或材料的准确性、满意度、完整性、可靠性、可操作性或可用性，赞助商概不负责。对于因使用规范或通过网站下载、访问互联网上的信息或材料而引起的任何损害，赞助商同样概不负责。</p>
+            <p>
+                网站、规范以及网站上包括的所有材料、信息和服务皆按“原样”提供，不作任何担保。在法律允许的最大范围内，赞助商及其许可方明确表示不作任何明示、暗示和强制性的担保，包括但不限于适销性、针对特定用途的适用性以及不侵犯所有权的担保。赞助商及其许可方对网站的安全性、可靠性、及时性及性能，概不提供任何担保。对于通过网站内链接得到的所有信息或建议，赞助商及其许可方也不提供任何担保。</p>
+            <p>
+                您理解并同意任何通过网站下载或获得的材料或数据均属您个人所为，您单方承担下载这类材料或数据可能会损坏您计算机系统或数据丢失的风险。</p>
+            <h2>
+                责任限制</h2>
+            <p>
+                在任何情况下，对于与本协议或此处相关所述主题相关的情况，因用户使用或误用以及依赖网站或规范而引发的索赔，赞助商及其许可方均不承担任何责任。此类责任限制适用于任何直接、间接、偶发、继发、特殊、惩戒和法定性损害的补偿，无论此类索赔是根据担保条款、契约、民事侵权行为（包括过失侵权）还是其他法规，即使赞助商及其许可方已被告知上述损失的可能性。无论损害由使用或误用以及依赖网站引起，或由无法使用网站或网站中断、暂停或终止（包括第三方造成的此类损害）引起，均适用此限制。同样适用此限制的情况还包括但不限于获取替代商品或服务的费用、盈利损失或数据损失。此类限制还适用于与网站性能或非性能方面相关的问题、网站上展示的信息、与网站之间存在链接或以其他方式与网站相关的情况。即使任何有限赔偿未达到其基本目的，在法律允许的最大范围内，上述限制仍然适用。</p>
+            <h2>
+                隐私权</h2>
+            <p>
+                我们不会试图识别网站用户的个人身份，也不会出于任何目的在网站上收集用户的身份数据或泄漏给第三方。我们收集与网站相关的非身份数据仅用于服务器的管理和网站的一般操作。上述情况不包括向网站上列出的联系电子邮件地址发送电子邮件，该地址中可能包含个人身份信息，我们仅在必要的情况下使用该地址回复相应的邮件。</p>
+            <p>
+                我们会记录向网站发出的 http 请求。因此，我们可以知道请求网址的计算机的原始 IP 地址。我们不会记录访问者的具体身份。我们可能会分析日志文件，以此判断网站的使用情况。我们会无限期地保留记录的信息，作为管理和研究材料，但我们绝不会泄漏给赞助商员工以外的其他人员。从日志中生成的汇总和非身份统计信息会作为研究之用。</p>
+            <h2>
+                其他条款</h2>
+            <p>
+                本《服务条款》受加利福尼亚州法律管制，依据加利福尼亚州法律解释，不影响加利福尼亚州法律冲突条款与您实际居住的州/省或国家/地区的法律冲突条款。如果因为某种原因，管辖法院认定本《服务条款》的任何部分无法执行，其他部分仍将完全有效。</p>
+            <p>
+                本《服务条款》是您与赞助商之间关于上述主题的全部协议，并取代所有以前或同期关于该主题的任何书面或口头的共识或协议。只有所有赞助商书面签署确认方构成对本《服务条款》中规定权利的放弃。</p>
+            <p class=""date"">
+                               上次更新日期：2008 年 3 月 21 日 
+            </p>
+        </div>
+        <!-- end maincontent -->
+    </div>
+    <!-- closes #container -->
+</body>
+</html>
+",sitemaps.org - 主页,https://www.sitemaps.org/zh_CN/terms.html
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+
+<html lang=""zh-CN"" xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"">
+
+<head>
+
+    <title>sitemaps.org - 协锟斤拷</title>
+
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=gb2312"" />
+
+    <meta name=""robots"" content=""all"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"" />
+
+</head>
+
+<body>
+
+    <a name=""top"" id=""top""></a>
+
+    <div id=""container"">
+
+        <div id=""intro"">
+
+            <div id=""pageHeader"">
+
+                <h1>
+
+                    <a href=""http://www.sitemaps.org/"">sitemaps.org</a></h1>
+
+            </div>
+
+            <div id=""selectionbar"">
+
+                <ul>
+
+                    <li><a href=""faq.html"">锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷</a></li>
+
+                    <li class=""activelink""><a href=""#"">协锟斤拷</a></li>
+
+                    <li><a href=""index.html"">锟斤拷页</a></li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div id=""mainContent"">
+
+            <h1>
+
+                <a name=""sitemaps_protocol"" id=""sitemaps_protocol""></a>Sitemap 锟斤拷 XML 锟斤拷式
+
+            </h1>
+
+            <blockquote>
+
+                <b>锟斤拷转锟斤拷锟斤拷</b><br />
+
+                <a href=""#xmlTagDefinitions"">XML 锟斤拷嵌锟斤拷锟�?/a><br />
+
+                <a href=""#escaping"">实锟斤拷转锟斤拷</a><br />
+
+                <a href=""#index"">使锟斤拷 Sitemap 锟斤拷锟斤拷锟侥硷拷</a><br />
+
+                <a href=""#otherformats"">锟斤拷锟斤拷 Sitemap 锟斤拷式</a><br />
+
+				<a href=""#location"">Sitemap 锟侥硷拷位锟斤拷</a><br />
+
+                <a href=""#validating"">锟斤拷证锟斤拷锟斤拷 Sitemap</a><br />
+
+                <a href=""#extending"">锟斤拷展 Sitemap 协锟斤拷</a><br />
+
+                <a href=""#informing"">通知锟斤拷锟斤拷锟斤拷锟斤拷抓取锟斤拷锟斤拷</a>
+
+            </blockquote>
+
+            <p>
+
+                锟斤拷锟侥碉拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷 Sitemap 协锟斤拷锟�?XML 锟杰癸拷锟斤拷</p>
+
+            <p>
+
+                Sitemaps 协锟斤拷锟绞斤拷锟�?XML 锟斤拷锟斤拷锟缴★拷Sitemap 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷值应为<a href=""#escaping"">实锟斤拷转锟斤拷锟斤拷锟�?/a>锟斤拷锟侥硷拷锟斤拷锟斤拷应为 UTF-8
+
+                锟斤拷锟诫。</p>
+
+            <p>
+
+                Sitemap 锟斤拷锟诫：</p>
+
+            <ul>
+
+                <li>锟斤拷 <code>&lt;<a href=""#urlsetdef"">urlset</a>&gt;</code> 锟斤拷始锟斤拷锟斤拷锟轿拷锟绞硷拷锟斤拷锟�?<code>&lt;/urlset&gt;</code>
+
+                    锟斤拷锟斤拷锟斤拷锟斤拷锟轿拷锟斤拷锟斤拷锟�?/li>
+
+                <li>锟斤拷 <code>&lt;urlset&gt;</code> 锟斤拷锟斤拷锟街革拷锟斤拷锟斤拷锟斤拷占洌ㄐ拷锟斤拷准锟斤拷锟斤拷 </li>
+
+                <li>每锟斤拷锟斤拷址锟斤拷锟斤拷一锟斤拷<code>&lt;<a href=""#urldef"">url</a>&gt;</code> 锟斤拷目锟斤拷为 XML 锟斤拷锟斤拷恰锟�?/li>
+
+                <li>锟斤拷每锟斤拷 <code>&lt;url&gt;</code> 锟斤拷锟斤拷锟斤拷邪锟斤拷锟揭伙拷锟�?<code>&lt;<a href=""#locdef"">loc</a>&gt;</code>
+
+                    锟接憋拷锟斤拷锟侥匡拷锟�?/li>
+
+            </ul>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷锟叫憋拷蔷锟轿拷锟窖★拷锟斤拷锟斤拷锟斤拷锟斤拷娌煌拷锟斤拷钥锟窖★拷锟角碉拷支锟斤拷也锟斤拷锟斤拷锟斤拷同锟斤拷锟叫癸拷锟斤拷锟介，锟斤拷锟斤拷母锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟侥碉拷锟斤拷</p>
+
+            <p>
+
+                锟斤拷锟揭ｏ拷Sitemap 锟叫碉拷锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷同一锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷 www.example.com 锟斤拷 store.example.com锟斤拷锟叫癸拷锟斤拷细锟斤拷息锟斤拷锟斤拷锟斤拷锟�?<a
+
+                    href=""#location"">Sitemap 锟侥硷拷位锟斤拷</a>锟斤拷</p>
+
+            <h3>
+
+                XML Sitemap 示锟斤拷</h3>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷示只锟斤拷锟斤拷一锟斤拷锟斤拷址锟斤拷使锟斤拷锟斤拷锟叫匡拷选锟斤拷堑锟�?Sitemap锟斤拷锟斤拷选锟斤拷锟轿憋拷锟�?/p>
+
+            <pre>
+
+&lt;?xml version=""1.0"" encoding=""UTF-8""?&gt;
+
+&lt;<a href=""#urlsetdef"">urlset</a> xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2005-01-01&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;monthly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#prioritydef"">priority</a>&gt;0.8&lt;/priority&gt;</em>
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt; 
+
+</pre>
+
+            <p>
+
+                锟斤拷锟斤拷榭达拷锟斤拷锟�?a href=""#sitemapXMLExample"">锟斤拷锟斤拷锟斤拷?/a>锟斤拷示锟斤拷锟斤拷</p>
+
+            <h2>
+
+                <a name=""xmlTagDefinitions"" id=""xmlTagDefinitions""></a>XML 锟斤拷嵌锟斤拷锟�?/h2>
+
+            <p>
+
+                锟斤拷锟铰对匡拷锟斤拷 XML 锟斤拷墙锟斤拷锟剿碉拷锟斤拷锟�?/p>
+
+            <table width=""80%"">
+
+                <th>
+
+                    锟斤拷锟斤拷
+
+                </th>
+
+                <th>
+
+                </th>
+
+                <th>
+
+                    说锟斤拷
+
+                </th>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""urlsetdef"" id=""urlsetdef""></a><code>&lt;urlset&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            压锟斤拷锟斤拷锟侥硷拷锟斤拷锟结供锟斤拷前协锟斤拷锟阶硷拷锟轿拷慰锟斤拷锟�?/p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""urldef"" id=""urldef""></a><code>&lt;url&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            每锟斤拷锟斤拷址锟斤拷目锟侥革拷锟斤拷恰锟绞ｏ拷锟斤拷锟轿拷吮锟角碉拷锟接憋拷恰锟�?/p>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""locdef"" id=""locdef""></a><code>&lt;loc&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            锟斤拷页锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷要锟斤拷址锟侥伙拷锟斤拷锟斤拷锟斤拷址应锟斤拷协锟介开始锟斤拷锟斤拷锟界：http锟斤拷锟斤拷锟斤拷斜锟杰斤拷尾锟斤拷锟斤拷值锟斤拷锟斤拷锟斤拷锟斤拷 2,048 锟斤拷锟街凤拷锟斤拷</p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""lastmoddef"" id=""lastmoddef""></a><code>&lt;lastmod&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷选
+
+                    </td>
+
+                    <td>
+
+                        <p>
+                            椤甸潰鐨勬渶鍚庝慨鏀规棩鏈熴�傛鏃ユ湡搴旈噰鐢�
+                            <a href=""http://www.w3.org/TR/NOTE-datetime"">W3C 鏃ユ湡鏃堕棿</a>鏍煎紡銆�
+                            濡傛灉闇�瑕侊紝姝ゆ牸寮忓厑璁告偍鐪佺暐鏃堕棿閮ㄥ垎锛屽苟浣跨敤 YYYY-MM-DD銆�
+                        </p>
+                        
+                        <p>
+                            璇锋敞鎰忥紝鏃ユ湡蹇呴』璁剧疆涓洪摼鎺ラ〉闈㈢殑鏈�鍚庝慨鏀规棩鏈燂紝鑰屼笉鏄珯鐐瑰湴鍥剧敓鎴愮殑鏃ユ湡銆�
+                        </p>
+                        
+                        <p>
+                            鍙﹁娉ㄦ剰锛屾鏍囪涓庢湇鍔″櫒鍙互杩斿洖鐨� If-Modified-Since (304) 鏍囧ご鏄垎寮�鐨勶紝鎼滅储寮曟搸鍙兘浼氫互涓嶅悓鏂瑰紡浣跨敤鏉ヨ嚜杩欎袱涓潵婧愮殑淇℃伅銆�
+                        </p>
+                        
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""changefreqdef"" id=""changefreqdef""></a><code>&lt;changefreq&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷选
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            页锟斤拷锟斤拷芊锟斤拷锟斤拷锟斤拷牡锟狡碉拷省锟斤拷锟街滴拷锟斤拷锟斤拷锟斤拷锟斤拷峁┮伙拷锟斤拷锟斤拷锟较拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟阶ト∫筹拷锟斤拷频锟绞诧拷锟斤拷全锟斤拷亍锟斤拷锟叫е滴拷锟�?/p>
+
+                        <ul>
+
+                            <li>always</li>
+
+                            <li>hourly</li>
+
+                            <li>daily</li>
+
+                            <li>weekly</li>
+
+                            <li>mothly</li>
+
+                            <li>yearly</li>
+
+                            <li>never</li>
+
+                        </ul>
+
+                        <p>
+
+                            锟斤拷always锟斤拷值应锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷每锟轿凤拷锟绞讹拷锟侥憋拷锟斤拷牡锟斤拷锟斤拷锟斤拷锟絥ever锟斤拷值锟斤拷应锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟芥档锟斤拷锟斤拷址锟斤拷</p>
+
+                        <p>
+
+                            锟斤拷注锟解，抓取锟斤拷锟竭会将锟剿憋拷堑锟街碉拷锟斤拷?i>锟斤拷示</i>锟斤拷锟斤拷锟斤拷锟斤拷锟筋。锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷抓取锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷时锟结考锟角达拷锟斤拷息锟斤拷锟斤拷锟斤拷锟节憋拷锟轿拷锟絟ourly锟斤拷页锟斤拷锟阶ト∑碉拷士锟斤拷艿锟斤拷锟矫啃∈币伙拷危锟斤拷锟斤拷锟斤拷诒锟斤拷为锟斤拷yearly锟斤拷页锟斤拷锟阶ト∑碉拷士锟斤拷芨锟斤拷锟矫匡拷锟揭伙拷巍锟阶ト★拷锟斤拷锟揭诧拷锟斤拷芑岫拷锟阶ト★拷锟斤拷为锟斤拷never锟斤拷锟斤拷锟斤拷页锟斤拷锟皆憋拷锟杰癸拷锟斤拷锟斤拷锟斤拷锟叫╋拷锟揭筹拷锟轿丛わ拷诟锟斤拷摹锟�?/p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""prioritydef"" id=""prioritydef""></a><code>&lt;priority&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷选
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            锟斤拷锟斤拷址锟斤拷锟斤拷锟饺硷拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟秸撅拷锟斤拷锟斤拷锟斤拷锟街凤拷锟斤拷锟斤拷燃锟斤拷锟斤拷缘摹锟斤拷锟叫е碉拷锟轿э拷锟�?0.0 锟斤拷 1.0锟斤拷锟斤拷值锟斤拷锟斤拷影锟斤拷锟斤拷锟斤拷锟斤拷页锟斤拷锟斤拷锟斤拷锟斤拷站锟斤拷锟斤拷页锟侥比较斤拷锟斤拷锟斤拷锟街伙拷歉锟街拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟轿拷锟叫╋拷锟揭筹拷锟阶ト★拷锟斤拷锟斤拷锟剿碉拷锟轿拷锟揭拷锟�?/p>
+
+                        <p>
+
+                            一锟斤拷锟斤拷页锟斤拷默锟斤拷锟斤拷锟饺硷拷为 0.5锟斤拷</p>
+
+                        <p>
+
+                            锟斤拷注锟解，为锟斤拷页指锟斤拷锟斤拷锟斤拷锟饺硷拷锟斤拷锟斤拷锟斤拷影锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷页锟较碉拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷同一锟斤拷站锟斤拷选锟斤拷同锟斤拷址时锟斤拷使锟矫达拷锟斤拷息锟斤拷锟斤拷耍锟斤拷锟斤拷锟斤拷锟绞癸拷么吮锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷要锟斤拷锟斤拷页锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷示锟侥匡拷锟斤拷锟皆★拷</p>
+
+                        <p>
+
+                            锟斤拷锟斤拷注锟解，为锟斤拷站锟叫碉拷锟斤拷锟斤拷锟斤拷址锟斤拷指锟斤拷锟斤拷锟斤拷锟饺硷拷锟斤拷锟斤拷锟斤拷锟斤拷锟绞裁达拷么锟斤拷锟斤拷锟轿拷锟斤拷燃锟斤拷锟斤拷锟皆的ｏ拷只锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷站锟斤拷锟斤拷址之锟斤拷锟斤拷锟窖★拷锟�?/p>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">锟斤拷锟斤拷页锟斤拷</a></p>
+
+            <h2>
+
+                <a name=""escaping"" id=""escaping""></a>实锟斤拷转锟斤拷</h2>
+
+            <p>
+
+                Sitemap 锟侥硷拷锟斤拷锟斤拷锟斤拷 UTF-8 锟斤拷锟诫（通锟斤拷锟节憋拷锟斤拷锟侥硷拷时锟斤拷锟斤拷锟斤拷么锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟叫碉拷 XML 锟侥硷拷锟斤拷锟轿猴拷锟斤拷锟斤拷锟斤拷值锟斤拷锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷应锟斤拷锟铰憋拷锟斤拷锟叫筹拷锟斤拷锟街凤拷使锟斤拷实锟斤拷转锟斤拷锟诫。</p>
+
+            <table>
+
+                <th colspan=""2"">
+
+                    锟街凤拷
+
+                </th>
+
+                <th>
+
+                    转锟斤拷锟斤拷
+
+                </th>
+
+                <tr>
+
+                    <td>
+
+                        & 锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        &amp;
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;amp;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        锟斤拷锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        '
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;apos;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        双锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        ""
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;quot;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        &gt;
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;gt;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        小锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        &lt;
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;lt;</code>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+            <p>
+
+                锟斤拷锟解，锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷 Sitemap 锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷锟诫经锟斤拷锟斤拷址转锟藉并锟斤拷锟诫，锟皆憋拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷越锟斤拷卸锟饺★拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷使锟斤拷锟轿猴拷锟斤拷锟酵的脚憋拷锟斤拷锟斤拷锟竭伙拷锟斤拷志锟侥硷拷锟斤拷锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷锟街讹拷锟斤拷锟斤拷之锟斤拷锟斤拷魏畏锟斤拷锟斤拷锟斤拷锟酵拷锟较低筹拷丫锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟解部锟街癸拷锟斤拷锟斤拷锟斤拷锟斤拷细锟斤拷椋凤拷锟斤拷锟街凤拷锟斤拷锟�?
+
+                <a href=""http://asg.web.cmu.edu/rfc/rfc3986.html"">RFC-3986</a> URI 锟斤拷准锟斤拷<a href=""http://www.ietf.org/rfc/rfc3987.txt"">RFC-3987</a>
+
+                IRI 锟斤拷准锟斤拷锟皆硷拷 <a href=""http://www.w3.org/TR/REC-xml/"">XML 锟斤拷准</a>锟斤拷</p>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷使锟矫凤拷 ASCII 锟街凤拷 (<code>&uuml;</code>) 锟皆硷拷要锟斤拷实锟斤拷转锟斤拷锟街凤拷 (<code>&amp;</code>) 锟斤拷锟斤拷址锟斤拷</p>
+
+            <pre>http://www.example.com/&uuml;mlat.html&amp;q=name</pre>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷 ISO-8859-1 锟斤拷锟诫（锟斤拷锟斤拷使锟矫该憋拷锟斤拷姆锟斤拷锟斤拷锟斤拷系锟斤拷泄埽锟斤拷锟斤拷锟街纷拷锟斤拷锟斤拷同一锟斤拷址锟斤拷</p>
+
+            <pre>http://www.example.com/%FCmlat.html&amp;q=name</pre>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷 UTF-8 锟斤拷锟斤拷模锟斤拷锟斤拷锟绞癸拷酶帽锟斤拷锟侥凤拷锟斤拷锟斤拷锟较碉拷锟叫管ｏ拷锟皆硷拷锟斤拷址转锟斤拷锟斤拷锟酵伙拷锟街凤拷锟�?/p>
+
+            <pre>http://www.example.com/%C3%BCmlat.html&amp;q=name</pre>
+
+            <p>
+
+                锟斤拷锟斤拷锟角撅拷锟斤拷实锟斤拷转锟斤拷锟酵伙拷锟街凤拷锟�?/p>
+
+            <pre>http://www.example.com/%C3%BCmlat.html&amp;amp;q=name</pre>
+
+            <h3>
+
+                <a name=""sitemapXMLExample"" id=""sitemapXMLExample""></a>XML Sitemap 示锟斤拷</h3>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷示锟斤拷一锟斤拷 XML 锟斤拷式锟斤拷 Sitemap锟斤拷示锟斤拷锟叫碉拷 Sitemap 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷址锟斤拷每锟斤拷锟斤拷址锟斤拷使锟矫诧拷同锟斤拷一锟斤拷锟窖★拷锟斤拷锟斤拷锟�?/p>
+
+            <pre>
+
+&lt;?xml version=""1.0"" encoding=""UTF-8""?&gt;
+
+&lt;<a href=""#urlsetdef"">urlset</a> xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2005-01-01&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;monthly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#prioritydef"">priority</a>&gt;0.8&lt;/priority&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=12&amp;amp;desc=vacation_hawaii&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;weekly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=73&amp;amp;desc=vacation_new_zealand&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2004-12-23&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;weekly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=74&amp;amp;desc=vacation_newfoundland&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2004-12-23T18:00:15+00:00&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#prioritydef"">priority</a>&gt;0.3&lt;/priority&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=83&amp;amp;desc=vacation_usa&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2004-11-23&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt;
+
+</pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">锟斤拷锟斤拷页锟斤拷</a></p>
+
+            <h2>
+
+                <a name=""index"" id=""index""></a>使锟斤拷 Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷锟皆讹拷锟�?Sitemap 锟侥硷拷锟斤拷锟叫凤拷锟介）</h2>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷锟结供锟斤拷锟�?Sitemap 锟侥硷拷锟斤拷锟斤拷每锟斤拷 Sitemap 锟侥硷拷锟斤拷锟斤拷锟斤拷锟斤拷址锟斤拷锟矫筹拷锟斤拷 50,000 锟斤拷锟斤拷锟斤拷锟斤拷锟侥硷拷锟斤拷锟矫筹拷锟斤拷 50MB锟斤拷52,428,800 锟街节ｏ拷锟斤拷锟斤拷锟斤拷锟皆革拷猓拷锟斤拷锟绞癸拷锟�?
+
+                gzip 压锟斤拷 Sitemap 锟侥硷拷锟斤拷锟皆硷拷锟劫达拷锟斤拷要锟襟；碉拷锟角斤拷压锟斤拷锟斤拷锟�?Sitemap 锟侥硷拷锟斤拷锟矫筹拷锟斤拷 50MB锟斤拷锟斤拷锟揭拷谐锟�?50,000 锟斤拷锟斤拷锟较碉拷锟斤拷址锟斤拷锟斤拷锟斤拷要锟斤拷锟斤拷锟斤拷锟�?
+
+                Sitemap 锟侥硷拷锟斤拷</p>
+
+            <p>
+
+                锟斤拷锟斤拷锟饺肥碉拷峁╋拷锟斤拷 Sitemap锟斤拷锟斤拷应锟斤拷锟斤拷 Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷锟叫筹拷每锟斤拷 Sitemap 锟侥硷拷锟斤拷Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷锟斤拷锟斤拷锟叫筹拷 50,000 锟斤拷 Sitemap锟斤拷锟侥硷拷锟斤拷锟矫筹拷锟斤拷
+
+                50MB锟斤拷52,428,800 锟街节ｏ拷锟斤拷锟斤拷锟斤拷锟角匡拷锟斤拷压锟斤拷锟侥★拷锟斤拷锟斤拷锟皆撅拷锟叫讹拷锟�?Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷 XML 锟斤拷式锟斤拷 Sitemap
+
+                锟侥硷拷锟斤拷 XML 锟斤拷式锟角筹拷锟斤拷锟狡★拷</p>
+
+            <p>
+
+                Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷锟诫：</p>
+
+            <ul>
+
+                <li>锟斤拷 <code>&lt;<a href=""#sitemapIndex_sitemapindex"">sitemapindex</a>&gt;</code> 锟斤拷始锟斤拷锟斤拷锟轿拷锟绞硷拷锟斤拷锟�?
+
+                    <code>&lt;/sitemapindex&gt;</code> 锟斤拷锟斤拷锟斤拷锟斤拷锟轿拷锟斤拷锟斤拷锟�?/li>
+
+                <li>每锟斤拷 Sitemap 锟斤拷锟斤拷一锟斤拷<code>&lt;<a href=""#sitemapIndex_sitemap"">sitemap</a>&gt;</code>
+
+                    锟斤拷目锟斤拷为 XML 锟斤拷锟斤拷恰锟�?/li>
+
+                <li>每锟斤拷 <code>&lt;sitemap&gt;</code> 锟斤拷锟斤拷前锟斤拷锟揭伙拷锟�?<code>&lt;<a href=""#sitemapIndex_loc"">loc</a>&gt;</code>
+
+                    锟接憋拷锟斤拷锟侥匡拷锟�?/li>
+
+            </ul>
+
+            <p>
+
+                锟斤拷选锟斤拷 <code>&lt;<a href=""#sitemapIndex_lastmod"">lastmod</a>&gt;</code> 锟斤拷锟酵拷锟斤拷锟斤拷锟斤拷锟�?Sitemap
+
+                锟斤拷锟斤拷锟侥硷拷锟斤拷</p>
+
+            <p>
+
+                <strong>注锟解：</strong>Sitemap 锟斤拷锟斤拷锟侥硷拷只锟斤拷指锟斤拷锟斤拷锟斤拷位锟斤拷同一锟斤拷站锟斤拷 Sitemap锟斤拷锟斤拷锟界，http://www.yoursite.com/sitemap_index.xml
+
+                锟缴帮拷锟斤拷 http://www.yoursite.com 锟较碉拷Sitemap锟斤拷锟斤拷锟斤拷锟杰帮拷锟斤拷 http://www.example.com 锟斤拷 http://yourhost.yoursite.com
+
+                锟较碉拷 Sitemap锟斤拷锟斤拷 Sitemap 一锟斤拷锟斤拷Sitemap 锟斤拷锟斤拷锟侥硷拷也锟斤拷锟斤拷为 UTF-8 锟斤拷锟诫。</p>
+
+            <h3>
+
+                <a name=""sitemapIndexXMLExample"" id=""sitemapIndexXMLExample""></a>XML Sitemap 锟斤拷锟斤拷示锟斤拷</h3>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷示锟斤拷锟斤拷锟斤拷锟斤拷 Sitemap 锟斤拷 Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷</p>
+
+            <pre>
+
+&lt;?xml version=""1.0"" encoding=""UTF-8""?&gt;
+
+&lt;<a href=""#sitemapIndex_sitemapindex"">sitemapindex</a> xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_sitemap"">sitemap</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_loc"">loc</a>&gt;http://www.example.com/sitemap1.xml.gz&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_lastmod"">lastmod</a>&gt;2004-10-01T18:23:17+00:00&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/sitemap&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_sitemap"">sitemap</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_loc"">loc</a>&gt;http://www.example.com/sitemap2.xml.gz&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_lastmod"">lastmod</a>&gt;2005-01-01&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/sitemap&gt;
+
+&lt;/sitemapindex&gt;
+
+</pre>
+
+            <p>
+
+                <strong>注锟解：</strong>锟斤拷 XML 锟侥硷拷锟叫碉拷锟斤拷锟斤拷值一锟斤拷锟斤拷Sitemap 锟斤拷址锟斤拷锟诫经锟斤拷<a href=""#escaping"">实锟斤拷转锟斤拷</a>锟斤拷</p>
+
+            <h3>
+
+                <a name=""sitemapIndexTagDefinitions"" id=""sitemapIndexTagDefinitions""></a>Sitemap
+
+                锟斤拷锟斤拷 XML 锟斤拷嵌锟斤拷锟�?/h3>
+
+            <table width=""80%"">
+
+                <tr>
+
+                    <th>
+
+                        锟斤拷锟斤拷
+
+                    </th>
+
+                    <th>
+
+                    </th>
+
+                    <th>
+
+                        说锟斤拷
+
+                    </th>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""sitemapIndex_sitemapindex"" id=""sitemapIndex_sitemapindex""></a><code>&lt;sitemapindex&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        压锟斤拷锟侥硷拷锟斤拷锟斤拷锟斤拷 Sitemap 锟斤拷锟斤拷锟斤拷锟较拷锟�?
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""sitemapIndex_sitemap"" id=""sitemapIndex_sitemap""></a><code>&lt;sitemap&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        压锟斤拷锟斤拷锟斤拷 Sitemap 锟斤拷锟斤拷锟斤拷锟较拷锟�?
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""sitemapIndex_loc"" id=""sitemapIndex_loc""></a><code>&lt;loc&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷锟斤拷
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            识锟斤拷 Sitemap 锟斤拷位锟矫★拷</p>
+
+                        <p>
+
+                            锟斤拷位锟矫匡拷锟斤拷为 Sitemap锟斤拷Atom 锟侥硷拷锟斤拷RSS 锟侥硷拷锟斤拷虻サ锟斤拷谋锟斤拷募锟斤拷锟�?/p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""sitemapIndex_lastmod"" id=""sitemapIndex_lastmod""></a><code>&lt;lastmod&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        锟斤拷选
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            识锟斤拷锟斤拷锟�?Sitemap 锟侥硷拷锟斤拷锟睫革拷时锟戒。锟斤拷锟斤拷锟�?Sitemap 锟斤拷锟叫筹拷锟斤拷锟斤拷一锟斤拷页锟侥革拷锟斤拷时锟戒不锟斤拷锟斤拷锟絣astmod 锟斤拷堑锟街涤︼拷锟斤拷锟�?<a href=""http://www.w3.org/TR/NOTE-datetime"">
+
+                                W3C 锟斤拷锟斤拷时锟斤拷</a> 锟斤拷式锟斤拷</p>
+
+                        <p>
+
+                            通锟斤拷锟结供锟斤拷锟斤拷薷牡锟绞憋拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷抓取锟斤拷锟斤拷只锟斤拷锟斤拷锟斤拷锟斤拷锟叫碉拷 Sitemap 锟接硷拷锟斤拷也锟斤拷锟斤拷说锟斤拷抓取锟斤拷锟斤拷只锟斤拷锟斤拷某锟斤拷锟截讹拷锟斤拷锟斤拷之锟斤拷锟睫改碉拷 Sitemap锟斤拷通锟斤拷锟斤拷一锟斤拷锟斤拷锟斤拷
+
+                            Sitemap 锟斤拷取锟斤拷锟狡ｏ拷锟斤拷锟皆匡拷锟劫凤拷锟街筹拷锟斤拷锟斤拷锟斤拷站锟较碉拷锟斤拷锟斤拷址锟斤拷</p>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">锟斤拷锟斤拷页锟斤拷</a></p>
+
+            <h2>
+
+                <a name=""otherformats"" id=""otherformats""></a>锟斤拷锟斤拷 Sitemap 锟斤拷式</h2>
+
+            <p>
+
+                Sitemap 协锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷峁╋拷泄锟斤拷锟斤拷锟揭筹拷锟斤拷锟较革拷锟较拷锟斤拷锟斤拷锟斤拷锟斤拷锟揭诧拷锟斤拷锟斤拷锟绞癸拷酶锟叫拷椋拷锟轿拷锟斤拷锟街分拷猓拷锟斤拷锟斤拷锟斤拷锟斤拷峁╋拷锟斤拷锟斤拷锟揭筹拷锟较拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟�?XML 协锟介，锟斤拷锟角伙拷支锟斤拷
+
+                RSS 锟斤拷锟斤拷锟斤拷谋锟斤拷募锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷峁╋拷锟斤拷锟较拷冉锟斤拷锟斤拷蕖锟�?/p>
+
+            <h3>
+
+                锟斤拷锟较癸拷锟斤拷</h3>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷锟结供 RSS锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟较癸拷锟斤拷系统锟斤拷2.0锟斤拷Atom 0.3 锟斤拷 1.0 锟斤拷锟藉。通锟斤拷锟斤拷只锟斤拷锟斤拷锟斤拷锟斤拷站锟斤拷锟斤拷锟斤拷锟较癸拷锟斤拷时锟斤拷锟斤拷使锟矫此革拷式锟斤拷锟斤拷注锟解，锟剿凤拷锟斤拷锟斤拷锟斤拷锟睫凤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟剿斤拷锟斤拷锟斤拷站锟叫碉拷锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷为锟斤拷锟斤拷锟斤拷锟街伙拷峁╋拷锟斤拷锟斤拷锟绞碉拷锟斤拷址锟斤拷锟斤拷息锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷然锟斤拷锟斤拷锟斤拷锟斤拷抓取锟斤拷锟斤拷锟斤拷使锟矫革拷锟斤拷息通锟斤拷锟斤拷锟劫癸拷锟斤拷锟叫碉拷锟斤拷页锟节诧拷锟斤拷锟斤拷锟揭碉拷锟斤拷锟斤拷站锟斤拷锟斤拷锟斤拷锟斤拷页锟斤拷锟斤拷确锟斤拷锟矫癸拷锟斤拷位锟斤拷锟斤拷希锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷抓取锟斤拷锟斤拷锟揭伙拷锟侥柯硷拷锟斤拷锟斤拷锟斤拷锟斤拷锟接癸拷锟斤拷锟叫筹拷取锟斤拷锟斤拷息锟斤拷锟铰ｏ拷</p>
+
+            <ul>
+
+                <li><strong>&lt;link&gt; 锟街讹拷</strong> 锟紺 锟斤拷示锟斤拷址</li>
+
+                <li><strong>锟睫革拷锟斤拷锟斤拷锟街段ｏ拷RSS 锟斤拷锟斤拷源锟斤拷 &lt;pubDate&gt; 锟街段猴拷 Atom 锟斤拷锟斤拷源锟斤拷 &lt;updated&gt; 锟斤拷锟节ｏ拷</strong>锟紺
+
+                    锟斤拷示每锟斤拷锟斤拷址锟较达拷锟睫改碉拷时锟戒。锟斤拷锟皆革拷锟斤拷锟斤拷要使锟斤拷锟睫革拷锟斤拷锟斤拷锟街段★拷 </li>
+
+            </ul>
+
+            <h3>
+
+                锟侥憋拷锟侥硷拷</h3>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷锟结供锟斤拷锟侥憋拷锟侥硷拷锟斤拷锟斤拷锟斤拷每锟叫帮拷锟斤拷一锟斤拷锟斤拷址锟斤拷锟斤拷锟侥憋拷锟侥硷拷锟斤拷要锟斤拷循锟斤拷锟斤拷指锟较ｏ拷</p>
+
+            <ul>
+
+                <li>锟侥憋拷锟侥硷拷每锟叫讹拷锟斤拷锟斤拷锟斤拷一锟斤拷锟斤拷址锟斤拷锟斤拷址锟叫诧拷锟斤拷锟叫伙拷锟叫★拷</li>
+
+                <li>锟斤拷锟斤拷锟斤拷指锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷 http锟斤拷</li>
+
+                <li>每锟斤拷锟侥憋拷锟侥硷拷锟斤拷锟缴帮拷锟斤拷 50,000 锟斤拷锟斤拷址锟斤拷锟斤拷锟揭诧拷锟矫筹拷锟斤拷 50MB锟斤拷52,428,800 锟街节ｏ拷锟斤拷锟斤拷锟斤拷锟秸撅拷锟斤拷锟斤拷锟斤拷锟斤拷锟街凤拷锟斤拷锟�?50,000 锟斤拷锟斤拷锟斤拷锟斤拷越锟斤拷斜锟街革拷啥锟斤拷锟侥憋拷锟侥硷拷锟斤拷然锟斤拷直锟斤拷锟斤拷每锟斤拷锟侥硷拷锟斤拷</li>
+
+                <li>锟侥憋拷锟侥硷拷锟斤拷使锟斤拷 UTF-8 锟斤拷锟诫。锟节憋拷锟斤拷锟侥硷拷时锟斤拷锟斤拷指锟斤拷锟斤拷锟筋（锟斤拷锟界，锟节硷拷锟铰憋拷锟叫ｏ拷锟斤拷锟斤拷锟斤拷凇锟斤拷锟斤拷为锟斤拷锟皆伙拷锟斤拷锟叫的憋拷锟斤拷说锟斤拷锟斤拷谐锟斤拷锟斤拷锟�?/li>
+
+                <li>锟侥憋拷锟侥硷拷锟斤拷应锟斤拷锟斤拷锟斤拷址锟叫憋拷锟斤拷锟斤拷锟斤拷魏锟斤拷锟较拷锟�?/li>
+
+                <li>锟斤拷锟侥憋拷锟侥硷拷锟斤拷应锟斤拷锟斤拷锟轿何憋拷锟斤拷锟阶拷锟斤拷锟较拷锟�?/li>
+
+                <li>锟斤拷锟皆革拷猓拷锟斤拷锟斤拷锟绞癸拷锟�?gzip 压锟斤拷 Sitemap 锟侥憋拷锟侥硷拷锟斤拷锟皆硷拷锟劫达拷锟斤拷要锟斤拷</li>
+
+                <li>锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷为锟斤拷锟侥憋拷锟侥硷拷锟斤拷锟斤拷锟斤拷锟斤拷锟介并确锟斤拷锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷 <a href=""http://www.ietf.org/rfc/rfc3986.txt"">RFC-3986</a>
+
+                    锟斤拷准锟叫碉拷 URI 锟芥定锟斤拷 <a href=""http://www.ietf.org/rfc/rfc3987.txt"">RFC-3987</a> 锟斤拷准锟叫碉拷 IRI
+
+                    锟芥定锟斤拷</li>
+
+                <li>锟斤拷应锟矫斤拷锟侥憋拷锟侥硷拷锟较达拷锟斤拷锟斤拷希锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷抓取锟斤拷锟斤拷呒锟斤拷锟斤拷目录锟斤拷锟斤拷确锟斤拷锟斤拷锟侥憋拷锟侥硷拷锟斤拷未锟叫筹拷位锟节革拷锟竭硷拷锟斤拷目录锟斤拷锟斤拷址锟斤拷 </li>
+
+            </ul>
+
+            <p>
+
+                锟侥憋拷锟侥硷拷锟斤拷示锟斤拷锟斤拷目锟斤拷锟斤拷锟斤拷示锟斤拷</p>
+
+            <pre>http://www.example.com/catalog?item=1
+
+<br />http://www.example.com/catalog?item=11
+
+<br /></pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">锟斤拷锟斤拷页锟斤拷</a></p>
+
+            <h2>
+
+                <a name=""location"" id=""location""></a>Sitemap 锟侥硷拷位锟斤拷</h2>
+
+            <p>
+
+                Sitemap 锟侥硷拷锟斤拷位锟矫撅拷锟斤拷锟斤拷 Sitemap 锟叫匡拷锟皆帮拷锟斤拷锟斤拷锟斤拷址锟介。位锟斤拷 http://example.com/catalog/sitemap.xml 锟斤拷 Sitemap
+
+                锟侥硷拷锟斤拷锟皆帮拷锟斤拷锟轿猴拷锟斤拷 http://example.com/catalog/ 锟斤拷头锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷锟杰帮拷锟斤拷锟斤拷 http://example.com/images/ 锟斤拷头锟斤拷锟斤拷址锟斤拷</p>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷懈锟斤拷锟�?http://example.org/path/sitemap.xml 锟斤拷权锟睫ｏ拷锟斤拷么应锟斤拷也锟斤拷锟斤拷锟结供前缀为 http://example.org/path/
+
+                锟斤拷锟斤拷址锟斤拷息锟斤拷锟斤拷 http://example.com/catalog/sitemap.xml 锟叫ｏ拷锟斤拷为锟斤拷效锟斤拷锟斤拷址示锟斤拷锟斤拷锟斤拷锟斤拷</p>
+
+            <pre>
+
+http://example.com/catalog/show?item=23
+
+http://example.com/catalog/show?item=233&amp;user=3453
+
+</pre>
+
+            <p>
+
+                http://example.com/catalog/sitemap.xml 锟斤拷锟斤拷效锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷</p>
+
+            <pre>
+
+http://example.com/image/show?item=23
+
+http://example.com/image/show?item=233&amp;user=3453
+
+https://example.com/catalog/page1.html
+
+</pre>
+
+            <p>
+
+                注锟解，锟斤拷锟斤拷?Sitemap 锟斤拷锟叫筹拷锟斤拷锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷使锟斤拷锟斤拷同锟斤拷协锟介（锟节憋拷锟斤拷锟斤拷为 http锟斤拷锟斤拷位锟斤拷锟斤拷 Sitemap 锟斤拷锟节碉拷锟斤拷锟斤拷锟较★拷锟斤拷锟界，锟斤拷锟�?Sitemap 位锟斤拷
+
+                http://www.example.com/sitemap.xml锟斤拷锟斤拷锟杰帮拷锟斤拷 http://subdomain.example.com 锟较碉拷锟斤拷址锟斤拷</p>
+
+            <p>
+
+                锟斤拷锟较讹拷为锟斤拷效锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷一锟斤拷锟斤拷锟角★拷强锟揭斤拷锟介将 Sitemap 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷母锟侥柯硷拷锟斤拷锟斤拷锟斤拷纾拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟轿伙拷锟�?example.com锟斤拷锟斤拷 Sitemap
+
+                锟斤拷锟斤拷锟侥硷拷应位锟斤拷 http://example.com/sitemap.xml锟斤拷锟斤拷某些锟斤拷锟斤拷拢锟斤拷锟斤拷锟揭拷锟皆诧拷同锟斤拷路锟斤拷锟斤拷锟斤拷锟斤拷同锟斤拷 Sitemap锟斤拷锟斤拷锟界，锟斤拷锟斤拷锟斤拷司锟侥帮拷全锟斤拷啥锟接︼拷锟酵拷锟侥柯硷拷锟斤拷锟叫达拷锟饺拷锟绞憋拷锟�?/p>
+
+            <p>
+
+                锟斤拷锟斤拷锟绞癸拷么锟斤拷丝诤诺锟铰凤拷锟斤拷锟�?Sitemap锟斤拷锟斤拷么 Sitemap 锟侥硷拷锟斤拷锟叫筹拷锟斤拷每锟斤拷锟斤拷址锟叫讹拷应锟斤拷锟斤拷锟矫端口号ｏ拷锟斤拷为路锟斤拷锟斤拷一锟斤拷锟街★拷锟斤拷锟界，锟斤拷锟�?Sitemap 位锟斤拷
+
+                http://www.example.com:100/sitemap.xml锟斤拷锟斤拷么 Sitemap 锟斤拷锟叫筹拷锟斤拷每锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷 http://www.example.com:100
+
+                锟斤拷头锟斤拷</p>
+
+            <h3>
+
+                Sitemap & 锟斤拷锟斤拷锟结交</h3>
+
+            <p>
+
+                锟斤拷要锟斤拷一锟斤拷锟斤拷锟斤拷为锟斤拷锟斤拷锟斤拷锟斤拷锟�?Sitemap锟斤拷锟斤拷锟斤拷要锟斤拷 Sitemap 锟斤拷锟结交锟斤拷址锟斤拷锟斤拷些锟斤拷锟斤拷锟斤拷锟斤拷要证锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷权锟斤拷锟诫看锟斤拷锟斤拷锟绞撅拷锟斤拷锟斤拷锟斤拷羌俣锟斤拷锟揭拷?3 锟斤拷锟斤拷锟斤拷锟结交
+
+                Sitemap锟斤拷
+
+                <pre>
+
+www.host1.com锟斤拷Sitemap 锟侥硷拷 sitemap-host1.xml
+
+www.host2.com锟斤拷Sitemap 锟侥硷拷 file sitemap-host2.xml
+
+www.host3.com锟斤拷Sitemap 锟侥硷拷 file sitemap-host3.xml
+
+</pre>
+
+            </p>
+
+            <p>
+
+                锟斤拷锟揭ｏ拷锟斤拷锟诫将锟斤拷锟斤拷 Sitemap 全锟斤拷锟斤拷锟斤拷一锟斤拷锟斤拷锟斤拷锟较ｏ拷www.sitemaphost.com锟斤拷锟斤拷耍锟絊itemap 锟斤拷锟斤拷址锟斤拷锟角ｏ拷
+
+                <pre>
+
+http://www.sitemaphost.com/sitemap-host1.xml
+
+http://www.sitemaphost.com/sitemap-host2.xml
+
+http://www.sitemaphost.com/sitemap-host3.xml
+
+</pre>
+
+            </p>
+
+            <p>
+
+                默锟斤拷锟斤拷锟斤拷拢锟斤拷锟斤拷锟斤拷锟斤拷锟街★拷锟斤拷锟斤拷锟结交锟斤拷锟侥达拷锟斤拷锟斤拷为锟斤拷锟斤拷锟斤拷图使锟斤拷 www.sitemaphost.com 锟较达拷诺锟�?Sitemap 锟结交 www.host1.com
+
+                锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟酵拷锟斤拷锟斤拷锟斤拷锟剿达拷锟斤拷姆锟斤拷锟街伙拷锟街わ拷锟斤拷锟斤拷锟斤拷锟�?www.host1.com 锟斤拷锟斤拷锟斤拷权锟斤拷锟斤拷锟斤拷权锟睫革拷锟侥硷拷锟斤拷锟斤拷锟斤拷一锟街凤拷锟斤拷锟斤拷锟斤拷 www.host1.com
+
+                锟斤拷锟睫革拷 robots.txt 锟侥硷拷锟斤拷使锟斤拷指锟斤拷 www.sitemaphost.com 锟叫碉拷 Sitemap锟斤拷</p>
+
+            <p>
+
+                锟节达拷示锟斤拷锟叫ｏ拷http://www.host1.com/robots.txt 锟叫碉拷 robots.txt 锟侥硷拷应锟斤拷锟斤拷一锟叫★拷Sitemap: http://www.sitemaphost.com/sitemap-host1.xml锟斤拷锟斤拷通锟斤拷锟睫革拷
+
+                www.host1.com 锟较碉拷 robots.txt 锟侥硷拷锟斤拷锟斤拷锟斤拷锟斤拷指锟斤拷 www.sitemaphost.com 锟叫碉拷 Sitemap锟斤拷锟缴硷拷锟街わ拷锟斤拷锟斤拷锟斤拷锟�?www.host1.com
+
+                锟斤拷锟斤拷锟斤拷权锟斤拷锟斤拷锟斤拷之锟斤拷锟斤拷锟斤拷 www.host1.com 锟斤拷 robots.txt 锟侥硷拷锟斤拷锟斤拷锟斤拷为 http://www.sitemaphost.com/sitemap-host1.xml
+
+                锟较碉拷 Sitemap 锟叫帮拷锟斤拷 www.host1.com 锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷台锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟截革拷锟斤拷同锟侥诧拷锟借。</p>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷 www.sitemaphost.com 锟斤拷锟结交 Sitemap 锟剿★拷</p>
+
+            <p>
+
+                锟斤拷某锟斤拷锟斤拷锟斤拷 robots.txt锟斤拷锟斤拷 http://www.host1.com/robots.txt锟斤拷指锟斤拷锟斤拷一锟斤拷锟斤拷锟较碉拷 Sitemap 锟斤拷 Sitemap 锟斤拷锟斤拷时锟斤拷锟斤拷锟斤拷每锟斤拷目锟斤拷
+
+                Sitemap锟斤拷锟斤拷 http://www.sitemaphost.com/sitemap-host1.xml锟斤拷锟斤拷锟斤拷锟叫碉拷锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷锟斤拷指锟斤拷锟�?Sitemap 锟斤拷锟斤拷锟斤拷锟斤拷原锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷Sitemap
+
+                锟叫碉拷锟斤拷址只锟斤拷锟斤拷锟斤拷锟斤拷同一锟斤拷锟斤拷锟斤拷锟斤拷</p>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">锟斤拷锟斤拷页锟斤拷</a></p>
+
+            <h2>
+
+                <a name=""validating"" id=""validating""></a>锟斤拷证锟斤拷锟斤拷 Sitemap</h2>
+
+            <p>
+
+                锟斤拷锟斤拷 XML 锟杰癸拷锟斤拷锟斤拷锟斤拷猿锟斤拷锟斤拷锟�?Sitemap 锟侥硷拷锟叫碉拷元锟截猴拷锟斤拷锟皆★拷锟缴达拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟截此架癸拷锟斤拷</p>
+
+            <p>
+
+                <b>锟斤拷锟斤拷 Sitemap锟斤拷</b> <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"">
+
+                    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd</a><br />
+
+                <b>锟斤拷锟斤拷 Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷</b> <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"">
+
+                    http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd</a></p>
+
+            <p>
+
+                锟叫讹拷锟街癸拷锟竭可帮拷锟斤拷锟斤拷锟斤拷锟捷此架癸拷锟斤拷锟斤拷证锟斤拷锟斤拷 Sitemap 锟结构锟斤拷锟斤拷锟斤拷锟斤拷锟矫恳伙拷锟轿伙拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷业锟�?XML 锟斤拷氐墓锟斤拷锟斤拷斜锟斤拷<br />
+
+                <br />
+
+                <a href=""http://www.w3.org/XML/Schema#Tools"">http://www.w3.org/XML/Schema#Tools</a><br />
+
+                <a href=""http://www.xml.com/pub/a/2000/12/13/schematools.html"">http://www.xml.com/pub/a/2000/12/13/schematools.html</a></p>
+
+            <p>
+
+                要锟斤拷锟侥筹拷锟斤拷芄锟斤拷锟斤拷?Sitemap 锟斤拷 Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷XML 锟侥硷拷锟斤拷要锟斤拷锟接憋拷头锟斤拷锟斤拷锟斤拷锟斤拷示锟斤拷</p>
+
+            <p>
+
+                <strong>Sitemap锟斤拷</strong></p>
+
+            	<pre>
+
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+
+&lt;urlset xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xsi:schemaLocation=""http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;url&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt;
+
+</pre>
+
+            <p>
+
+                <strong>Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷</strong></p>
+
+           	<pre>
+
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+
+&lt;sitemapindex xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xsi:schemaLocation=""http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;sitemap&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&lt;/sitemap&gt;
+
+&lt;/sitemapindex&gt;
+
+</pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">锟斤拷锟斤拷页锟斤拷</a></p>
+
+            <h2>
+
+                <a name=""extending"" id=""extending""></a>锟斤拷展 Sitemap 协锟斤拷</h2>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷使锟斤拷锟皆硷拷锟斤拷锟斤拷锟斤拷锟秸硷拷锟斤拷锟斤拷展 Sitemap 协锟介。只锟斤拷锟节革拷元锟斤拷指锟斤拷锟斤拷锟斤拷锟斤拷锟秸间即锟缴★拷锟斤拷锟界：</p>
+
+            	<pre>
+
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+
+&lt;urlset xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xsi:schemaLocation=""http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns:example=&quot;http://www.example.com/schemas/example_schema&quot;&gt; &lt;!-- namespace extension --&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;url&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;example:example_tag&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/example:example_tag&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt;</pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">锟斤拷锟斤拷页锟斤拷</a></p>
+
+            <h2>
+
+                <a name=""informing"" id=""informing""></a>通知锟斤拷锟斤拷锟斤拷锟斤拷抓取锟斤拷锟斤拷</h2>
+
+            <p>
+
+                锟斤拷锟斤拷 Sitemap 锟侥硷拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷之锟斤拷锟斤拷锟斤拷要锟斤拷锟斤拷 Sitemap 锟斤拷位锟矫革拷知支锟街达拷协锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷妗Ｎ拷耍锟斤拷氚达拷锟斤拷虏锟斤拷锟斤拷锟斤拷锟斤拷</p>
+
+            <ul>
+
+                <li><a href=""#submit_engine"">通锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷峤伙拷锟斤拷锟斤拷锟�?/a></li>
+
+                <li><a href=""#submit_robots"">锟斤拷锟斤拷站 robots.txt 锟侥硷拷锟斤拷指锟斤拷位锟斤拷</a></li>
+
+                <li><a href=""#submit_ping"">锟斤拷锟斤拷 HTTP 锟斤拷锟斤拷</a><br />
+
+                </li>
+
+            </ul>
+
+            <p>
+
+                然锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷涂锟斤拷约锟斤拷锟斤拷锟斤拷锟�?Sitemap 锟斤拷锟斤拷锟斤拷址锟结供锟斤拷抓取锟斤拷锟斤拷抓取锟斤拷</p>
+
+            <h3>
+
+                <a name=""submit_engine"" id=""submit_engine""></a>通锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷峤伙拷锟斤拷锟斤拷锟�?Sitemap<br />
+
+            </h3>
+
+            <p>
+
+                要直锟接斤拷 Sitemap 锟结交锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟皆憋拷锟斤拷锟阶刺拷锟较拷锟斤拷魏未锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟矫匡拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟侥碉拷锟斤拷</p>
+
+            <h3>
+
+                <a name=""submit_robots"" id=""submit_robots""></a>锟斤拷 robots.txt 锟侥硷拷锟斤拷指锟斤拷 Sitemap 锟斤拷位锟矫★拷<br />
+
+            </h3>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷使锟斤拷 robots.txt 锟侥硷拷指锟斤拷 Sitemap 锟斤拷位锟矫★拷为锟剿ｏ拷只锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷校锟�?/p>
+
+            <pre>Sitemap: http://www.example.com/sitemap.xml</pre>
+
+            <p>
+
+                锟斤拷指锟筋不锟斤拷 user-agent 锟叫碉拷影锟届，锟斤拷丝煞锟斤拷锟斤拷募锟斤拷械锟斤拷锟斤拷锟轿伙拷谩锟斤拷锟斤拷锟斤拷锟斤拷 Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷锟斤拷锟斤拷锟斤拷锟叫硷拷锟斤拷锟斤拷募锟斤拷锟轿伙拷谩锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷募锟斤拷锟斤拷谐锟矫匡拷锟斤拷锟斤拷锟斤拷锟�?
+
+                Sitemap锟斤拷</p>
+
+            <p>
+
+                锟斤拷每锟斤拷 robots.txt 锟侥硷拷锟叫匡拷锟斤拷指锟斤拷锟斤拷锟�?Sitemap 锟侥硷拷锟斤拷</p>
+
+            	<pre>Sitemap: http://www.example.com/sitemap-host1.xml
+
+Sitemap: http://www.example.com/sitemap-host2.xml</pre>
+
+            <h3>
+
+                <a name=""submit_ping"" id=""submit_ping""></a>通锟斤拷 HTTP 锟斤拷锟斤拷锟结交 Sitemap<br />
+
+            </h3>
+
+            <p>
+
+                要使锟斤拷 HTTP 锟斤拷锟斤拷锟结交 Sitemap锟斤拷使锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟结供锟斤拷锟斤拷址锟芥换 &lt;searchengine_URL&gt;锟斤拷锟斤拷锟诫将锟斤拷锟斤拷锟酵碉拷锟斤拷锟斤拷锟斤拷址锟斤拷</p>
+
+            <pre>&lt;searchengine_URL&gt;/ping?sitemap=sitemap_url</pre>
+
+            <p>
+
+                锟斤拷锟界，锟斤拷锟�?Sitemap 位锟斤拷http://www.example.com/sitemap.gz锟斤拷锟斤拷锟斤拷址锟斤拷锟斤拷为锟斤拷</p>
+
+            <pre>&lt;searchengine_URL&gt;/ping?sitemap=http://www.example.com/sitemap.gz</pre>
+
+            <p>
+
+                锟斤拷址锟斤拷锟斤拷 /ping?sitemap=: 之锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟�?/p>
+
+            <pre>&lt;searchengine_URL&gt;/ping?sitemap=http%3A%2F%2Fwww.yoursite.com%2Fsitemap.gz</pre>
+
+            <p>
+
+                锟斤拷锟斤拷锟斤拷使锟斤拷 wget锟斤拷curl 锟斤拷锟斤拷锟斤拷锟斤拷选锟斤拷幕锟斤拷品锟斤拷锟�?HTTP 锟斤拷锟斤拷锟斤拷锟斤拷晒锟斤拷幕锟斤拷岱碉拷锟�?HTTP 200 锟斤拷应锟斤拷锟诫；锟斤拷锟斤拷盏锟斤拷锟斤拷锟斤拷锟接︼拷锟斤拷锟接︼拷锟斤拷锟斤拷峤伙拷锟斤拷锟紿TTP
+
+                200 锟斤拷应锟斤拷锟斤拷锟斤拷锟绞撅拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷盏锟斤拷锟斤拷锟�?Sitemap锟斤拷锟斤拷锟斤拷锟斤拷示 Sitemap 锟斤拷锟斤拷锟斤拷锟斤拷邪锟斤拷锟斤拷锟斤拷锟街凤拷锟叫э拷锟斤拷锟缴此诧拷锟斤拷锟侥简单凤拷锟斤拷锟斤拷锟斤拷锟斤拷锟皆讹拷执锟叫碉拷锟斤拷锟今，讹拷锟斤拷锟斤拷锟缴诧拷锟结交
+
+                Sitemap锟斤拷<br />
+
+                <strong>注锟解：</strong>锟斤拷锟揭拷锟�?Sitemap 锟斤拷锟斤拷锟侥硷拷锟斤拷锟斤拷只锟借发锟斤拷一锟斤拷锟斤拷锟斤拷 Sitemap 锟斤拷锟斤拷锟侥硷拷位锟矫碉拷 HTTP 锟斤拷锟襟即可ｏ拷锟斤拷锟斤拷锟斤拷为锟斤拷锟斤拷锟斤拷锟叫筹拷锟斤拷每锟斤拷
+
+                Sitemap 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷</p>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">锟斤拷锟斤拷页锟斤拷</a></p>
+
+            <h2>
+
+                锟脚筹拷锟斤拷锟斤拷</h2>
+
+            <p>
+
+                Sitemap 协锟斤拷锟斤拷锟斤拷锟斤拷锟街拷锟斤拷锟斤拷锟斤拷锟斤拷锟较ｏ拷锟斤拷锟斤拷锟叫╋拷锟斤拷荼锟斤拷锟斤拷锟斤拷锟斤拷锟揭拷锟街拷锟斤拷锟斤拷锟斤拷锟斤拷锟揭拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷荩锟斤拷锟绞癸拷锟�?robots.txt 锟侥硷拷锟斤拷 robots 元锟斤拷恰锟斤拷泄锟斤拷锟轿达拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟脚筹拷锟斤拷锟捷碉拷锟斤拷锟介，锟斤拷锟斤拷锟�?
+
+                <a href=""http://www.robotstxt.org"">robotstxt.org</a>锟斤拷</p>
+
+            <p>
+
+                &nbsp;</p>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">锟斤拷锟斤拷页锟斤拷</a></p>
+
+            <p class=""date"">
+
+                锟较次革拷锟斤拷锟斤拷锟节ｏ拷2016 锟斤拷 11 锟斤拷 21 锟斤拷
+
+            </p>
+
+        </div>
+
+        <!-- closes #maincontent -->
+
+    </div>
+
+    <!-- closes #container -->
+
+    <div id=""footer"">
+
+        <p>
+
+            <a href=""terms.html"">锟斤拷锟斤拷</a></p>
+
+    </div>
+
+</body>
+
+</html>
+
+",sitemaps.org - 协锟斤拷,https://www.sitemaps.org/zh_CN/protocol.html
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html lang=""zh-CN"" xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"">
+<head>
+    <title>sitemaps.org - 主页</title>
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">
+    <meta name=""description"" content=""The Sitemaps protocol enables webmasters to information earch engine about pages on their site that are available for crawling."" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"">
+<script type=""text/javascript"" src=""/lang.js""></script>
+    <style type=""text/css"">
+.style1
+        {
+            color: #FF0000;
+        }
+        </style>
+</head>
+<body>
+    <div id=""container"">
+        <div id=""intro"">
+            <div id=""pageHeader"">
+                <h1>
+                    sitemaps.org</h1>
+            </div>
+            <div id=""selectionbar"">
+                <ul>
+                    <li><a href=""faq.html"">常见问题解答</a></li>
+                    <li><a href=""protocol.html"">协议</a></li>
+                    <li class=""activelink""><a href=""#"">主页</a></li>
+                </ul>
+            </div>
+            <!-- end selectionbar -->
+        </div>
+        <!-- end intro -->
+        <!-- language bar -->
+        <div style=""float: right; padding: 14px"" id=""languagebox"">
+            Language: <span id=""langContainer""></span>
+        </div>
+        <div id=""mainContent"">
+            <h1>
+                什么是 Sitemap？</h1>
+            <p>
+                Sitemap 可方便管理员通知搜索引擎他们网站上有哪些可供抓取的网页。最简单的 Sitepmap 形式，就是 XML 文件，在其中列出网站中的网址以及关于每个网址的其他元数据（上次更新的时间、更改的频率以及相对于网站上其他网址的重要程度为何等），以便搜索引擎可以更加智能地抓取网站。</p>
+            <p>
+                网络抓取工具通常会通过网站内部和其他网站上的链接查找网页。Sitemap 会提供此数据以便允许支持 Sitemap 的抓取工具抓取 Sitemap 提供的所有网址，并了解使用相关元数据的网址。使用
+                Sitemap <a href=""protocol.html"">协议</a>并不能保证网页会包含在搜索引擎中，但可向网络抓取工具提供一些提示以便它们更有效地抓取网站。</p>
+            <p>
+                Sitemap 0.90 是依据<a href=""http://creativecommons.org/licenses/by-sa/2.5/"">创意公用授权-相同方式共享</a>
+                (Attribution-ShareAlike Creative Commons License) 的条款提供的，并被广泛采用，受 Google、Yahoo!
+                和 Microsoft 在内的众多厂商的支持。</p>
+            <p class=""date"">
+               上次更新日期：2008 年 3 月 21 日 
+            </p>
+        </div>
+        <!-- end maincontent -->
+    </div>
+    <!-- closes #container -->
+    <div id=""footer"">
+        <p>
+            <a href=""terms.html"">条款</a></p>
+    </div>
+</body>
+</html>
+",sitemaps.org - 主页,https://www.sitemaps.org/zh_CN/
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html lang=""zh-CN"" xmlns=""http://www.w3.org/1999/xhtml"" id=""sitemaps_org"" xml:lang=""en"">
+<head>
+    <title>sitemaps.org – 常见问题解答</title>
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">
+    <meta name=""robots"" content=""all"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"">
+<script type=""text/javascript"" src=""/lang.js""></script>
+    <style type=""text/css"">
+.style2
+        {
+            font-family: ""Courier New"" , Courier, mono;
+        }
+        </style>
+</head>
+<body class=""faq"">
+    <a name=""top"" id=""top""></a>
+    <div id=""container"">
+        <div id=""intro"">
+            <div id=""pageHeader"">
+                <h1>
+                    <a href=""http://www.sitemaps.org/"">sitemaps.org</a></h1>
+            </div>
+            <div id=""selectionbar"">
+                <ul>
+                    <li class=""activelink""><a href=""#"">常见问题解答</a></li>
+                    <li><a href=""protocol.html"">协议</a></li>
+                    <li><a href=""index.html"">主页</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id=""mainContent"">
+            <h1>
+                常见问题解答</h1>
+            <p>
+                <a href=""#faq_xml_encoding"">在 Sitemaps 中如何表示网址？</a></p>
+            <p>
+                <a href=""#faq_output_encoding"">我使用哪种字符编码方法生成 Sitemap 文件有关系吗？</a></p>
+            <p>
+                <a href=""#faq_specifying_time"">我如何指定时间？</a></p>
+            <p>
+                <a href=""#faq_computing_lastmod"">如何计算 lastmod 日期？</a></p>
+            <p>
+                <a href=""#faq_sitemap_location"">应该将 Sitemap 文件放在哪里？</a></p>
+            <p>
+                <a href=""#faq_sitemap_size"">我的 Sitemap 可以有多大？</a></p>
+            <p>
+                <a href=""#faq_submitting_changes"">我的网站拥有几千万个网址；我可以只提交最近更改过的网址吗？</a></p>
+            <p>
+                <a href=""#faq_after_submission"">创建 Sitemap 后该作些什么？</a></p>
+            <p>
+                <a href=""#faq_url_format"">Sitemap 中的网址需要完整地指定吗？</a></p>
+            <p>
+                <a href=""#faq_http_vs_https"">我的网站同时具有“http”和“https”格式的网址。需要把它们都列出来吗？</a></p>
+            <p>
+                <a href=""#faq_url_encoding"">我网站的网址中包含会话 ID。我需要将它们删除吗？</a></p>
+            <p>
+                <a href=""#faq_url_position"">网址在 Sitemap 中的位置是否会影响它的使用？</a></p>
+            <p>
+                <a href=""#faq_frames"">我网站上的一些网页使用框架。应该提供框架组网址或框架内容的网址吗？</a></p>
+            <p>
+                <a href=""#faq_compression"">我可以压缩我的 Sitemap 吗？它们是否需要用 gzip 压缩？</a></p>
+            <p>
+                <a href=""#faq_priority_and_page_rank"">XML Sitemap 中的“priority”提示会影响我的网页在搜索结果中的排名吗？</a></p>
+            <p>
+                <a href=""#faq_xml_schema"">有可以用作 XML Sitemap 验证依据的 XML 架构吗？</a></p>
+            <p>
+                <a href=""#more"">如果我在使用协议或提交 Sitemap 时遇到其他问题怎么办？</a></p>
+            <hr />
+            <p class=""question"">
+                问题：<a name=""faq_xml_encoding"" id=""faq_xml_encoding""></a>在 Sitemap 中如何表示网址？</p>
+            <p>
+                就像所有 XML 文件一样，任何数据值（包括网址）都应使用以下字符的<a href=""#escaped"">实体转义码</a>：& 符号 (&amp;)、单引号
+                (')、双引号 ("")、小于号 (&lt;) 和大于号 (&gt;)。还应确保所有网址遵循 <a href=""http://www.ietf.org/rfc/rfc3986.txt"">
+                    RFC-3986</a> URI 标准、<a href=""http://www.ietf.org/rfc/rfc3987.txt"">RFC-3987</a>
+                IRI 标准以及 <a href=""http://www.w3.org/TR/REC-xml/"">XML 标准</a>。如果您要使用脚本来生成网址，通常可以使用网址转义的方式将其转义为该脚本的一部分，并且您仍然需要对它们进行实体转义。例如，以下
+                Python 脚本实体转义 http://www.example.com/view?widget=3&amp;count&gt;2</p>
+            <pre>
+$ python
+Python 2.2.2 (#1, Feb 24 2003, 19:13:11)  
+&gt;&gt;&gt; import xml.sax.saxutils
+&gt;&gt;&gt; xml.sax.saxutils.escape(""http://www.example.com/view?widget=3&amp;count&gt;2"")
+</pre>
+            <p>
+                以上示例所得网址为：</p>
+            <pre>
+http://www.example.com/view?widget=3&amp;amp;count&amp;gt;2
+</pre>
+            <p class=""question"">
+                问题：<a name=""faq_output_encoding"" id=""faq_output_encoding""></a>我使用哪种字符编码方法生成 Sitemap
+                文件有关系吗？</p>
+            <p>
+                是的。您的 Sitemap 文件必须使用 UTF-8 编码。</p>
+            <p class=""question"">
+                问题：<a name=""faq_specifying_time"" id=""faq_specifying_time""></a>我如何指定时间？</p>
+            <p>
+                对本协议中的 lastmod 时间戳以及所有其他日期和时间，请使用 <a href=""http://www.w3.org/TR/NOTE-datetime"">W3C Datetime
+                    编码</a>。例如，2004-09-22T14:12:14+00:00。</p>
+            <p>
+                此编码允许您省略 ISO8601 格式的时间部分，例如，2004-09-22 也是有效的。然而，如果您的网站频繁更改，则建议您使用时间部分，以便抓取工具可获取关于您网站的更全面的信息。</p>
+            <p class=""question"">
+                问题：<a name=""faq_computing_lastmod"" id=""faq_computing_lastmod""></a>如何计算 lastmod 日期？</p>
+            <p>
+                对于静态文件，这是实际的文件更新日期。可以使用 UNIX 日期命令获取此日期：</p>
+            <pre>
+$ date --iso-8601=seconds -u -r /home/foo/www/bar.html
+&gt;&gt; 2004-10-26T08:56:39+00:00
+</pre>
+            <p>
+                对于许多动态网址，您可以根据基本数据的更改时间或使用一些定期更新（如果适用的话）的近似值，轻松推算出 lastmod 日期。使用一个近似日期或时间戳就可以帮助抓取工具避免抓取还未更改的网址。这将降低网络服务器的带宽和
+                CPU 要求。</p>
+            <p class=""question"">
+                问题：<a name=""faq_sitemap_location"" id=""faq_sitemap_location""></a>应该将 Sitemap 文件放在哪里？</p>
+            <p>
+                强烈建议将 Sitemap 放在 HTML 服务器的根目录中，即 http://example.com/sitemap.xml。</p>
+            <p>
+                在某些情况下，您或许希望在网站上针对不同的路径创建不同的 Sitemap，例如，如果您公司的安全许可对应不同的目录划分写入权限。</p>
+            <p>
+                我们认为，如果您有上传 http://example.com/path/sitemap.xml 的权限，那么您也可以通过 http://example.com/path/
+                报告元数据。</p>
+            <p>
+                Sitemap 列出的所有网址必须和 Sitemap 位于同一个主机上。例如，如果 Sitemap 位于 http://www.example.com/sitemap.xml，就不能包含
+                http://subdomain.example.com 中的网址。如果 Sitemap 位于 http://www.example.com/myfolder/sitemap.xml，就不能包含
+                http://www.example.com 中的网址。</p>
+            <p class=""backtotop"">
+                <a href=""#top"">返回页首</a></p>
+            <p class=""question"">
+                问题：<a name=""faq_sitemap_size"" id=""faq_sitemap_size""></a>我的 Sitemap 可以有多大？</p>
+            <p>
+                Sitemap 不得超过 50MB（52,428,800 字节），所包含的网址数最多为 50,000 个。这些限制条件有助于确保网络服务器不会因传输非常大的文件而遇到麻烦。这表示如果您网站包含的网址超过
+                50,000 个或您的 Sitemap 超过 50MB，则需要创建多个 Sitemap 文件，并且需要使用 <a href=""protocol.html#index"">Sitemap
+                    索引文件</a>。即使您的网站较小，但计划增长到网址数量超出 50,000 个的大网站或文件大小超过 50MB，也应使用 Sitemap 索引文件。Sitemap
+                索引文件最多可包含 50,000 个 Sitemap，并且不得超过 50MB（52,428,800 字节）。您也可以使用 gzip 压缩 Sitemap。</p>
+            <p class=""question"">
+                问题：<a name=""faq_submitting_changes"" id=""faq_submitting_changes""></a>我的网站拥有几千万个网址；我可以只提交最近更改过的网址吗？</p>
+            <p>
+                您可以在少数频繁更改的 Sitemap 中列出已更新的网址，然后使用 <a href=""protocol.html#index"">Sitemap 索引文件</a>中的
+                <a href=""protocol.html#lastmoddef"">lastmod</a> 标记识别这些 Sitemap 文件。随后，搜索引擎即可逐步抓取（只抓取）这些已更改的
+                Sitemap。</p>
+            <p class=""question"">
+                问题：<a name=""faq_after_submission"" id=""faq_after_submission""></a>创建 Sitemap 后该作些什么？</p>
+            <p>
+                Once you have created your Sitemap, <a href=""http://www.sitemaps.org/protocol.html#informing"">
+                    let search engines know</a> about it by submitting directly to them, pinging
+                them, or adding the Sitemap location to your robots.txt file.</p>
+            <p class=""question"">
+                问题：<a name=""faq_url_format"" id=""faq_url_format""></a>需要在 Sitemap 中指定完整的网址吗？</p>
+            <p>
+                是的。您需要在网址中提供协议（例如，http）。如果网络服务器有要求，您还需要在网址中加入尾随斜杠。例如，http://www.example.com/ 对 Sitemap
+                来说是有效网址，而 www.example.com 则不是。</p>
+            <p class=""question"">
+                问题：<a name=""faq_http_vs_https"" id=""faq_http_vs_https""></a>我网站上同时有“http”和“https”格式的网址。需要把它们都列出来吗？</p>
+            <p class=""answers"">
+                否。请在 Sitemap 中只列出一种格式的网址。包含多种格式的网址可能会导致抓取工具无法完整地抓取网站。</p>
+            <p class=""question"">
+                问题：<a name=""faq_url_encoding"" id=""faq_url_encoding""></a>我网站的网址中包含会话 ID。我需要将它们删除吗？</p>
+            <p>
+                是的。在网址中包含会话 ID 号可能会导致网站抓取不完整以及重复抓取。</p>
+            <p class=""question"">
+                问题：<a name=""faq_url_position"" id=""faq_url_position""></a>网址在 Sitemap 中的位置是否会影响它的使用？</p>
+            <p>
+                否。网址在 Sitemap 中的位置并不会影响搜索引擎对它的使用或识别方式。</p>
+            <p class=""question"">
+                问题：<a name=""faq_frames"" id=""faq_frames""></a>我网站上的一些网页使用框架。我应该加入框架组网址或框架内容的网址吗？</p>
+            <p>
+                请将两种网址都包括进来。</p>
+            <p class=""question"">
+                问题：<a name=""faq_compression"" id=""faq_compression""></a>我可以压缩我的 Sitemap 吗？它们是否需要用
+                gzip 压缩？</p>
+            <p>
+                请使用 gzip 压缩 Sitemap。请记住，无论压缩与否，Sitemap 均不得超过 50MB（52,428,800 字节）。</p>
+            <p class=""question"">
+                问题：<a name=""faq_priority_and_page_rank"" id=""faq_priority_and_page_rank""></a>XML
+                Sitemap 中的“priority”提示会影响我的网页在搜索结果中的排名吗？</p>
+            <p>
+                Sitemap 中的“优先级”提示只是说明特定网址相对于<i>您自己网站上</i>其他网址的重要性，并不会影响网页在搜索结果中的排名。</p>
+            <p class=""question"">
+                问题：<a name=""faq_xml_schema"" id=""faq_xml_schema""></a>有可以用作 XML Sitemap 验证依据的 XML
+                架构吗？</p>
+            <p>
+                是的。在 <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"">http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd</a>
+                上可以找到适用于 Sitemap 文件的 XML 架构；在 <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"">
+                    http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd</a> 上则可以找到适用于 Sitemap
+                索引文件的架构。您也可以进一步了解有关<a href=""protocol.html#validating"">验证 Sitemap</a> 的详情。</p>
+            <p class=""question"">
+                问题：<a name=""more"" id=""more""></a>如果我在使用协议或提交 Sitemap 时遇到其他问题该怎么办？</p>
+            <p>
+                有关提交和使用 Sitemap 的详情，请参阅各个搜索引擎提供的文档。</p>
+            <p class=""backtotop"">
+                <a href=""#top"">返回页首</a></p>
+            <p class=""date"">
+               上次更新日期：2016 年 11 月 21 日 
+            </p>
+        </div>
+        <!-- closes #maincontent -->
+    </div>
+    <!-- closes #container -->
+    <div id=""footer"">
+        <p>
+            <a href=""terms.html"">条款</a></p>
+    </div>
+</body>
+</html>
+",sitemaps.org – 常见问题解答,https://www.sitemaps.org/zh_CN/faq.html
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html lang=""en-GB"" xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"">
+<head>
+    <title>sitemaps.org - Home</title>
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">
+    <meta name=""description"" content=""The Sitemaps protocol enables webmasters to information earch engine about pages on their site that are available for crawling."" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"">
+<script type=""text/javascript"" src=""/lang.js""></script>
+    <style type=""text/css"">
+.style1
+        {
+            color: #FF0000;
+        }
+        </style>
+</head>
+<body>
+    <div id=""container"">
+        <div id=""intro"">
+            <div id=""pageHeader"">
+                <h1>
+                    sitemaps.org</h1>
+            </div>
+            <div id=""selectionbar"">
+                <ul>
+                    <li><a href=""faq.html"">FAQ</a></li>
+                    <li><a href=""protocol.html"">Protocol</a></li>
+                    <li class=""activelink""><a href=""#"">Home</a></li>
+                </ul>
+            </div>
+            <!-- end selectionbar -->
+        </div>
+        <!-- end intro -->
+        <!-- language bar -->
+        <div style=""float: right; padding: 14px"" id=""languagebox"">
+            Language: <span id=""langContainer""></span>
+        </div>
+        <div id=""mainContent"">
+            <h1>
+                What are Sitemaps?</h1>
+            <p>
+                Sitemaps are an easy way for webmasters to inform search engines about pages on
+                their sites that are available for crawling. In its simplest form, a Sitemap is
+                an XML file that lists URLs for a site along with additional metadata about each
+                URL (when it was last updated, how often it usually changes, and how important it
+                is, relative to other URLs in the site) so that search engines can more intelligently
+                crawl the site.</p>
+            <p>
+                Web crawlers usually discover pages from links within the site and from other sites.
+                Sitemaps supplement this data to allow crawlers that support Sitemaps to pick up
+                all URLs in the Sitemap and learn about those URLs using the associated metadata.
+                Using the Sitemap <a href=""protocol.html"">protocol</a> does not guarantee that web
+                pages are included in search engines, but provides hints for web crawlers to do
+                a better job of crawling your site.</p>
+            <p>
+                Sitemap 0.90 is offered under the terms of the <a href=""http://creativecommons.org/licenses/by-sa/2.5/"">
+                    Attribution-ShareAlike Creative Commons License</a> and has wide adoption, including
+                support from Google, Yahoo! and Microsoft.</p>
+            <p class=""date"">
+                Last Updated: 27 February 2008</p>
+        </div>
+        <!-- end maincontent -->
+    </div>
+    <!-- closes #container -->
+    <div id=""footer"">
+        <p>
+            <a href=""terms.html"">Terms and conditions</a></p>
+    </div>
+</body>
+</html>
+",sitemaps.org - Home,https://www.sitemaps.org/en_GB/
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html lang=""zh-HK"" xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"">
+<head>
+    <title>sitemaps.org - 首頁</title>
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">
+    <meta name=""description"" content=""The Sitemaps protocol enables webmasters to information earch engine about pages on their site that are available for crawling."" />
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"">
+<script type=""text/javascript"" src=""/lang.js""></script>
+    <style type=""text/css"">
+.style1
+        {
+            color: #FF0000;
+        }
+        </style>
+</head>
+<body>
+    <div id=""container"">
+        <div id=""intro"">
+            <div id=""pageHeader"">
+                <h1>
+                    sitemaps.org</h1>
+            </div>
+            <div id=""selectionbar"">
+                <ul>
+                    <li><a href=""faq.html"">常見問題</a></li>
+                    <li><a href=""protocol.html"">通訊協定</a></li>
+                    <li class=""activelink""><a href=""#"">首頁</a></li>
+                </ul>
+            </div>
+            <!-- end selectionbar -->
+        </div>
+        <!-- end intro -->
+        <!-- language bar -->
+        <div style=""float: right; padding: 14px"" id=""languagebox"">
+            Language: <span id=""langContainer""></span>
+        </div>
+        <div id=""mainContent"">
+            <h1>
+                什麼是 Sitemap?</h1>
+            <p>
+                Sitemap 可讓網站管理員易於通知搜尋引擎關於網站中有哪些可供檢索的網頁。最簡單的 Sitemap 形式就是將網站 URL 及與各 URL 相關的其他中繼資料
+                (上次更新日期、變更頻率，以及相對於網站中其他 URL 的重要性) 列在 XML 檔中，讓搜尋引擎能夠更有效地檢索該網站。</p>
+            <p>
+                網頁檢索器通常會發現來自網站內的連結與來自其他網站之網頁。Sitemaps 會補充此資料，讓支援 Sitemaps 的檢索器擷取 Sitemap 中的所有 URL，並使用相關的中繼資料來取得關於這些
+                URL 的資訊。使用 Sitemap <a href=""protocol.html"">通訊協定</a>並不保證網頁會出現在搜尋引擎中，但能夠協助網頁檢索器更完整地檢索您的網站。</p>
+            <p>
+                Sitemap 0.90 是根據 <a href=""http://creativecommons.org/licenses/by-sa/2.5/"">Attribution-ShareAlike
+                    Creative Commons License</a> 的條款提供；它的支援範圍極廣，包含來自 Google、Yahoo! 和 Microsoft 的支援。</p>
+            <p class=""date"">
+                上次更新日期：2016 年 11 月 21 日
+            </p>
+        </div>
+        <!-- end maincontent -->
+    </div>
+    <!-- closes #container -->
+    <div id=""footer"">
+        <p>
+            <a href=""terms.html"">條款及細則</a></p>
+    </div>
+</body>
+</html>
+",sitemaps.org - 首頁,https://www.sitemaps.org/zh_HK/
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html lang=""zh-HK"" xmlns=""http://www.w3.org/1999/xhtml"" id=""sitemaps_org"" xml:lang=""en"">
+<head>
+    <title>sitemaps.org - 常見問題</title>
+    <meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type"">
+    <meta name=""robots"" content=""all"">
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"">
+<script type=""text/javascript"" src=""/lang.js""></script>
+    <style type=""text/css"">
+.style2
+        {
+            font-family: ""Courier New"" , Courier, mono;
+        }
+        </style>
+</head>
+<body class=""faq"">
+    <a name=""top"" id=""top""></a>
+    <div id=""container"">
+        <div id=""intro"">
+            <div id=""pageHeader"">
+                <h1>
+                    <a href=""http://www.sitemaps.org/"">sitemaps.org</a></h1>
+            </div>
+            <div id=""selectionbar"">
+                <ul>
+                    <li class=""activelink""><a href=""#"">常見問題</a></li>
+                    <li><a href=""protocol.html"">通訊協定</a></li>
+                    <li><a href=""index.html"">首頁</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id=""mainContent"">
+            <h1>
+                常見問題</h1>
+            <p>
+                <a href=""#faq_xml_encoding"">如何表示在 Sitemap 中的 URL？</a></p>
+            <p>
+                <a href=""#faq_output_encoding"">使用不同的字元編碼方式來產生 Sitemap 檔案，會有什麼影響嗎？</a></p>
+            <p>
+                <a href=""#faq_specifying_time"">如何指定時間？</a></p>
+            <p>
+                <a href=""#faq_computing_lastmod"">如何推算 lastmod 日期？</a></p>
+            <p>
+                <a href=""#faq_sitemap_location"">要在哪裡放置我的 Sitemap？</a></p>
+            <p>
+                <a href=""#faq_sitemap_size"">Sitemap 的檔案大小上限為何？</a></p>
+            <p>
+                <a href=""#faq_submitting_changes"">我的網站中有成千上萬個 URL，我可以只提交最近變更過的部分嗎？</a></p>
+            <p>
+                <a href=""#faq_after_submission"">在我建立 Sitemap 之後，下一步該做什麼？</a></p>
+            <p>
+                <a href=""#faq_url_format"">我必須完整指定 Sitemap 中的 URL 嗎？</a></p>
+            <p>
+                <a href=""#faq_http_vs_https"">我的網站有 http 和 https 兩種版本的 URL，我該將兩者都列出嗎？</a></p>
+            <p>
+                <a href=""#faq_url_encoding"">我網站中的 URL 含有工作階段 ID。我需要將它們移除嗎？</a></p>
+            <p>
+                <a href=""#faq_url_position"">URL 在 Sitemap 中的位置會不會影響其用途？</a></p>
+            <p>
+                <a href=""#faq_frames"">我的網站中有某些網頁使用頁框，我是否應該將頁框組的 URL 或頁框內容的 URL 也包含在內？</a></p>
+            <p>
+                <a href=""#faq_compression"">我可以自行壓縮我的 Sitemap 嗎？還是一定要使用 gzip 來壓縮？</a></p>
+            <p>
+                <a href=""#faq_priority_and_page_rank"">XML Sitemap 中的 priority 提示是否會變更我的網頁在搜尋結果中的排名？</a></p>
+            <p>
+                <a href=""#faq_xml_schema"">有沒有可用來驗證 XML Sitemap 的 XML 配置？</a></p>
+            <p>
+                <a href=""#more"">如果我有其他關於使用通訊協定或提交 Sitemap 的問題該怎麼辦？</a></p>
+            <hr />
+            <p class=""question"">
+                問：<a name=""faq_xml_encoding"" id=""faq_xml_encoding""></a>如何表示在 Sitemap 中的 URL？</p>
+            <p>
+                如同所有的 XML 檔案一樣，下列字元的任何資料值 (包括 URL)，都必須使用<a href=""#escaped"">實體逸出碼</a>：AND 符號 (&amp;)、單引號
+                (')、雙引號 ("")、小於 (&lt;) 以及大於 (&gt;)。同時您也應該確認所有的 URL 都遵循 <a href=""http://www.ietf.org/rfc/rfc3986.txt"">
+                    RFC-3986</a> URI 標準、<a href=""http://www.ietf.org/rfc/rfc3987.txt"">RFC-3987</a>
+                IRI 標準，以及 <a href=""http://www.w3.org/TR/REC-xml/"">XML 標準</a>。如果您使用指令碼來產生 URL，通常可以在該指令碼中加入
+                URL 逸出的指令。您還是必須將它們實體逸出。例如，以下 python 指令碼會將實體逸出 http://www.example.com/view?widget=3&amp;count&gt;2</p>
+            <pre>
+$ python
+Python 2.2.2 (#1, Feb 24 2003, 19:13:11)  
+&gt;&gt;&gt; import xml.sax.saxutils
+&gt;&gt;&gt; xml.sax.saxutils.escape(""http://www.example.com/view?widget=3&amp;count&gt;2"")
+</pre>
+            <p>
+                上述範例的結果 URL 為：</p>
+            <pre>
+http://www.example.com/view?widget=3&amp;amp;count&amp;gt;2
+</pre>
+            <p class=""question"">
+                問：<a name=""faq_output_encoding"" id=""faq_output_encoding""></a>使用不同的字元編碼方式來產生 Sitemap
+                檔案，會有什麼影響嗎？</p>
+            <p>
+                是的。您的 Sitemap 檔案必須使用 UTF-8 編碼。</p>
+            <p class=""question"">
+                問：<a name=""faq_specifying_time"" id=""faq_specifying_time""></a>如何指定時間？</p>
+            <p>
+                此通訊協定中的 lastmod 時間戳記以及其他日期與時間，請使用 <a href=""http://www.w3.org/TR/NOTE-datetime"">W3C 日期時間編碼</a>。例如，2004-09-22T14:12:14+00:00。</p>
+            <p>
+                此編碼允許您略過 ISO8601 格式中時間的部分，例如，2004-09-22 也是有效的。不過，如果您的網站經常變更，建議您將時間部分包含在內，以便讓搜尋器得到更多關於您網站的完整資訊。</p>
+            <p class=""question"">
+                問：<a name=""faq_computing_lastmod"" id=""faq_computing_lastmod""></a>如何推算 lastmod 日期？</p>
+            <p>
+                對靜態檔案而言，這是指實際的檔案更新日期。您可以使用 UNIX 的 date 指令來取得這個日期：</p>
+            <pre>
+$ date --iso-8601=seconds -u -r /home/foo/www/bar.html
+&gt;&gt; 2004-10-26T08:56:39+00:00
+</pre>
+            <p>
+                對於大部分的動態 URL，您或許可以根據基本資料何時變更，或者根據定期的更新大概日期 (若適用的話)，來輕易地推斷出 lastmod 日期。您甚至可以使用大約的日期或時間戳記，以避免搜尋器檢索尚未變更的
+                URL。這樣可以降低您網頁伺服器對頻寬和 CPU 的需求。</p>
+            <p class=""question"">
+                問：<a name=""faq_sitemap_location"" id=""faq_sitemap_location""></a>我的 Sitemap 要放在哪裡？</p>
+            <p>
+                我們強烈建議您將 Sitemap 放在您 HTML 伺服器的根目錄中，也就是位於 http://example.com/sitemap.xml。</p>
+            <p>
+                在某些情況下，您可能想要針對您網站上不同的路徑來產生不同的 Sitemap，例如，當您組織的安全性權限會針對不同目錄劃分不同的使用權限時。</p>
+            <p>
+                我們假定您有權限上載 http://example.com/path/sitemap.xml，則您也有報告 http://example.com/path/ 下之中繼資料的權限。</p>
+            <p>
+                列在 Sitemap 中的所有 URL 必須和 Sitemap 位於同一個主機。例如，如果 Sitemap 位於 http://www.example.com/sitemap.xml，就不可包含來自
+                http://subdomain.example.com 的 URL。如果 Sitemap 位於 http://www.example.com/myfolder/sitemap.xml，就不可包含來自
+                http://www.example.com 的 URL。</p>
+            <p class=""backtotop"">
+                <a href=""#top"">回到頁首</a></p>
+            <p class=""question"">
+                問：<a name=""faq_sitemap_size"" id=""faq_sitemap_size""></a>Sitemap 的檔案大小上限為何？</p>
+            <p>
+                Sitemaps 不得大於 50MB (52,428,800 位元組)，且最多能包含 50,000 個 URL。這些限制是為了確保您的網頁伺服器不會因為傳送的檔案過大而當機。表示如果您的網站包含
+                50,000 個以上的 URL，或您的 Sitemap 大於 50MB,，您必須建立多個 Sitemap 檔案，並且使用 <a href=""protocol.html#index"">
+                    Sitemap 索引檔</a>。即使您擁有的是一個小型網站，但如果您計劃將網站成長至含 50,000 個 URL 或 50MB. 大小的檔案的規模，則仍應使用
+                Sitemap 索引檔。Sitemap 索引檔至多可包含 50,000 個 Sitemap，且不可超過 50MB (52,428,800 位元組)。您也可以使用
+                gzip 來壓縮您的 Sitemap。</p>
+            <p class=""question"">
+                問：<a name=""faq_submitting_changes"" id=""faq_submitting_changes""></a>我的網站中有成千上萬個 URL，我可以只提交最近變更過的部分嗎？</p>
+            <p>
+                您可以將經常更新的 URL 列在少數的 Sitemap 中，然後在您的 <a href=""protocol.html#index"">Sitemap 索引檔</a>中使用
+                <a href=""protocol.html#lastmoddef"">lastmod</a> 標記來辨識這些 Sitemap 檔案。這樣一來搜尋引擎只會額外檢索已變更的
+                Sitemap。</p>
+            <p class=""question"">
+                問：<a name=""faq_after_submission"" id=""faq_after_submission""></a>在我建立 Sitemap 之後，下一步該做什麼？</p>
+            <p>
+                Once you have created your Sitemap, <a href=""http://www.sitemaps.org/protocol.html#informing"">
+                    let search engines know</a> about it by submitting directly to them, pinging
+                them, or adding the Sitemap location to your robots.txt file.</p>
+            <p class=""question"">
+                問：<a name=""faq_url_format"" id=""faq_url_format""></a>我必須完整指定 Sitemap 中的 URL 嗎？</p>
+            <p>
+                是的。您需要在 URL 中加入通訊協定 (例如 http)。如果您的網頁伺服器有要求尾端斜線的話，您也必須在 URL 的尾端加入斜線。例如，http://www.example.com/
+                對於 Sitemap 而言是有效的 URL，而 www.example.com 則不是。</p>
+            <p class=""question"">
+                問：<a name=""faq_http_vs_https"" id=""faq_http_vs_https""></a>我的網站有 http 和 https 兩種版本的
+                URL，我該將兩者都列出嗎？</p>
+            <p class=""answers"">
+                不是，請列出您 Sitemaps 中的一種 URL 版本即可。包含多個版本的 URL，可能會讓搜尋器無法完整檢索您的網站。</p>
+            <p class=""question"">
+                問：<a name=""faq_url_encoding"" id=""faq_url_encoding""></a>我網站中的 URL 含有工作階段 ID。我需要移除它們嗎？</p>
+            <p>
+                是的。在 URL 中包含工作階段 ID，可能會造成網站檢索不完整與多餘的檢索。</p>
+            <p class=""question"">
+                問：<a name=""faq_url_position"" id=""faq_url_position""></a>URL 在 Sitemap 中的位置會不會影響其用途？</p>
+            <p>
+                否，URL 在 Sitemap 中的位置並不會影響搜尋引擎使用或辨識該 URL 的方式。</p>
+            <p class=""question"">
+                問：<a name=""faq_frames"" id=""faq_frames""></a>我的網站中有某些網頁使用頁框，我是否應該將頁框組的 URL 或頁框內容的
+                URL 也包含在內？</p>
+            <p>
+                請附上這兩個 URL。</p>
+            <p class=""question"">
+                問：<a name=""faq_compression"" id=""faq_compression""></a>我可以自行壓縮我的 Sitemap 嗎？還是一定要使用
+                gzip 來壓縮？</p>
+            <p>
+                請使用 gzip 來壓縮 Sitemap。請記住，無論是否有壓縮，您的 Sitemap 均不可大於 50MB (52,428,800 位元組)。</p>
+            <p class=""question"">
+                問：<a name=""faq_priority_and_page_rank"" id=""faq_priority_and_page_rank""></a>XML Sitemap
+                中的 ""priority"" 提示是否會變更我的網頁在搜尋結果中的排名？</p>
+            <p>
+                Sitemap 中的「優先順序」提示只是用來表示<i></i>您自己網站中的某特定 URL 在和其餘 URL 相較之下的重要性，而這對您網頁在搜尋結果中的排名並不會有任何影響。</p>
+            <p class=""question"">
+                問：<a name=""faq_xml_schema"" id=""faq_xml_schema""></a>有沒有可用來驗證 XML Sitemap 的 XML 配置？</p>
+            <p>
+                是的。您可以在 <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"">http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd</a>
+                取得 Sitemap 檔案的 XML 配置，也可以在 <a href=""http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"">
+                    http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd</a> 取得 Sitemap 索引檔的配置。您也可以參閱更多關於<a
+                        href=""protocol.html#validating"">驗證 Sitemap</a> 的詳細資訊。</p>
+            <p class=""question"">
+                問：<a name=""more"" id=""more""></a>如果我有其他關於使用通訊協定或提交 Sitemap 的問題該怎麼辦？</p>
+            <p>
+                請參閱各搜尋引擎的說明文件，以瞭解更多關於 Sitemap 的提交方式和用法。</p>
+            <p class=""backtotop"">
+                <a href=""#top"">回到頁首</a></p>
+            <p class=""date"">
+                上次更新日期：2016 年 11 月 21 日
+            </p>
+        </div>
+        <!-- closes #maincontent -->
+    </div>
+    <!-- closes #container -->
+    <div id=""footer"">
+        <p>
+            <a href=""terms.html"">條款及細則</a></p>
+    </div>
+</body>
+</html>
+",sitemaps.org - 常見問題,https://www.sitemaps.org/zh_HK/faq.html
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"" xml:lang=""en"">
+
+<head>
+
+    <title>sitemaps.org - 通訊協定</title>
+
+    <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+
+    <meta name=""robots"" content=""all"" />
+
+    <link rel=""stylesheet"" type=""text/css"" href=""/sitemaps.css"" media=""screen, projection"" />
+
+</head>
+
+<body>
+
+    <a name=""top"" id=""top""></a>
+
+    <div id=""container"">
+
+        <div id=""intro"">
+
+            <div id=""pageHeader"">
+
+                <h1>
+
+                    <a href=""http://www.sitemaps.org/"">sitemaps.org</a></h1>
+
+            </div>
+
+            <div id=""selectionbar"">
+
+                <ul>
+
+                    <li><a href=""faq.html"">常見問題</a></li>
+
+                    <li class=""activelink""><a href=""#"">通訊協定</a></li>
+
+                    <li><a href=""index.html"">首頁</a></li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div id=""mainContent"">
+
+            <h1>
+
+                <a name=""sitemaps_protocol"" id=""sitemaps_protocol""></a>Sitemaps XML 格式
+
+            </h1>
+
+            <blockquote>
+
+                <b>跳至：</b><br />
+
+                <a href=""#xmlTagDefinitions"">XML 標記定義</a><br />
+
+                <a href=""#escaping"">實體逸出</a><br />
+
+                <a href=""#index"">使用 Sitemap 索引檔</a><br />
+
+				<a href=""#otherformats""> 其他 Sitemap 格式</a><br />
+
+                <a href=""#location"">Sitemap 檔案位置</a><br />
+
+                <a href=""#validating"">驗證 Sitemap</a><br />
+
+                <a href=""#extending"">擴充 Sitemap 通訊協定</a><br />
+
+                <a href=""#informing"">通知搜尋引擎檢索器</a>
+
+            </blockquote>
+
+            <p>
+
+                本文件說明 Sitemap 通訊協定的 XML 配置。</p>
+
+            <p>
+
+                Sitemap 通訊協定格式是由 XML 標記所組成。Sitemap 中的所有資料值都必須是<a href=""#escaping"">實體逸出</a>。檔案本身必須使用
+
+                UTF-8 編碼。</p>
+
+            <p>
+
+                Sitemap 必須：</p>
+
+            <ul>
+
+                <li>以起始 <code>&lt;<a href=""#urlsetdef"">urlset</a>&gt;</code> 標記做為開頭，並以結束 <code>&lt;/urlset&gt;</code>
+
+                    標記做為結尾。</li>
+
+                <li>指定 <code>&lt;urlset&gt;</code> 內的名稱領域 (通訊協定標準)。 </li>
+
+                <li>讓每個 URL 中包含一個<code>&lt;<a href=""#urldef"">url</a>&gt;</code> 項目做為母層 XML 標記。</li>
+
+                <li>在每個 <code>&lt;url&gt;</code> 母層標記包含一個 <code>&lt;<a href=""#locdef"">loc</a>&gt;</code>
+
+                    子層項目。</li>
+
+            </ul>
+
+            <p>
+
+                其他所有標記均為選用的。是否支援這些選用的標記須視搜尋引擎而定。詳細資訊請參閱各搜尋引擎的說明文件。</p>
+
+            <p>
+
+                另外，Sitemap 中所有的 URL 必須來自單一主機，例如 www.example.com 或 store.example.com。如需更多資訊，請參考 <a
+
+                    href=""#location"">Sitemap 檔案位置</a>。</p>
+
+            <h3>
+
+                XML Sitemap 範例</h3>
+
+            <p>
+
+                下列範例顯示僅包含一個 URL 並使用所有選用標記的 Sitemap。選用標記以斜體表示。</p>
+
+            <pre>
+
+&lt;?xml version=""1.0"" encoding=""UTF-8""?&gt;
+
+&lt;<a href=""#urlsetdef"">urlset</a> xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2005-01-01&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;monthly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#prioritydef"">priority</a>&gt;0.8&lt;/priority&gt;</em>
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt; 
+
+</pre>
+
+            <p>
+
+                同時請參閱使用<a href=""#sitemapXMLExample"">多個 URL</a> 的範例。</p>
+
+            <h2>
+
+                <a name=""xmlTagDefinitions"" id=""xmlTagDefinitions""></a>XML 標記定義</h2>
+
+            <p>
+
+                可用的 XML 標記如下所述。</p>
+
+            <table width=""80%"">
+
+                <th>
+
+                    屬性
+
+                </th>
+
+                <th>
+
+                </th>
+
+                <th>
+
+                    說明
+
+                </th>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""urlsetdef"" id=""urlsetdef""></a><code>&lt;urlset&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        需求條件
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            壓縮檔案與參照最新的通訊協定標準。</p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""urldef"" id=""urldef""></a><code>&lt;url&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        需求條件
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            每個 URL 項目的母層標記。剩餘的標記是此標記的子階層。</p>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""locdef"" id=""locdef""></a><code>&lt;loc&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        需求條件
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            網頁的 URL。這個 URL 必須以通訊協定開頭 (例如 http) 並以尾端的斜線結束 (如果您的網頁伺服器有此需求)。此值必須少於 2,048 個字元。</p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""lastmoddef"" id=""lastmoddef""></a><code>&lt;lastmod&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        選用
+
+                    </td>
+
+                    <td>
+
+                        <p>
+                            檔案的最後修改日期。此日期應該採用
+                            <a href=""http://www.w3.org/TR/NOTE-datetime"">W3C 日期時間</a>格式。 
+                            必要的話，此格式允許您略過時間的部分，並使用 YYYY-MM-DD。
+                        </p>
+                        <p>
+                            請注意，日期必須設置為鏈接頁面的最後修改日期，而不是站點地圖生成的日期。
+                        </p>
+                        
+                        <p>
+                            請注意，此標記與伺服器可傳回的 If-Modified-Since (304) 標頭不同，且搜尋引擎可能會以不同的方式使用這兩種來源的資訊。 
+                        </p>
+                        
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""changefreqdef"" id=""changefreqdef""></a><code>&lt;changefreq&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        選用
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            網頁可能變更的頻率。此值會提供一般的資訊給搜尋引擎，而且與它們檢索網頁的頻率不完全相關。有效值如下：</p>
+
+                        <ul>
+
+                            <li>always</li>
+
+                            <li>hourly</li>
+
+                            <li>daily</li>
+
+                            <li>weekly</li>
+
+                            <li>monthly</li>
+
+                            <li>yearly</li>
+
+                            <li>never</li>
+
+                        </ul>
+
+                        <p>
+
+                            ""always"" 值應該用來描述會隨著每次存取而變更的文件。""never"" 值應該用來描述已封存的 URL。</p>
+
+                        <p>
+
+                            請注意，此標記的值會當做<i>提示</i>而非指令。即使搜尋引擎的搜尋器在做決定時可能會參考此資訊，但它們檢索標記為 ""hourly"" 網頁的頻率相較之下會偏低，而它們檢索標記為
+
+                            ""yearly"" 網頁的頻率則可能較高。搜尋器可能會定期檢索標記為 ""never"" 的網頁，以便處理這些網頁的臨時變更。</p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""prioritydef"" id=""prioritydef""></a><code>&lt;priority&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        選用
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            此 URL 的優先順序是相對於您網站上的其他 URL。有效值的範圍為 0.0 到 1.0。此值不會影響您的網頁與其他網站網頁的比較，而只是讓搜尋引擎知道您認為哪些網頁對檢索器來說最為重要。</p>
+
+                        <p>
+
+                            網頁的預設優先順序為 0.5。</p>
+
+                        <p>
+
+                            請注意，您指定給網頁的優先順序，並不會影響您的 URL 在搜尋引擎之結果網頁上的排名。搜尋引擎可能會使用此資訊在同一個網站上的 URL 間做選擇，因此您可以使用此標記來提高最重要的網頁出現在搜尋索引中的可能性。</p>
+
+                        <p>
+
+                            同時請注意，將您網站中所有的 URL 都指定為高優先順序並沒有任何助益。因為優先順序是相對性的，只會用來在您網站上的 URL 之間做選取。</p>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">回到頁首</a></p>
+
+            <h2>
+
+                <a name=""escaping"" id=""escaping""></a>實體逸出</h2>
+
+            <p>
+
+                您的 Sitemap 檔案必須以 UTF-8 編碼 (您通常可以在儲存檔案時這麼做)。如同所有的 XML 檔案一樣，下表所列字元的任何資料值 (包括 URL)，都必須使用實體逸出碼。</p>
+
+            <table>
+
+                <th colspan=""2"">
+
+                    字元
+
+                </th>
+
+                <th>
+
+                    逸出碼
+
+                </th>
+
+                <tr>
+
+                    <td>
+
+                        & 符號
+
+                    </td>
+
+                    <td>
+
+                        &amp;
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;amp;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        單引號
+
+                    </td>
+
+                    <td>
+
+                        '
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;apos;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        雙引號
+
+                    </td>
+
+                    <td>
+
+                        ""
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;quot;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        大於
+
+                    </td>
+
+                    <td>
+
+                        &gt;
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;gt;</code>
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        小於
+
+                    </td>
+
+                    <td>
+
+                        &lt;
+
+                    </td>
+
+                    <td>
+
+                        <code>&amp;lt;</code>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+            <p>
+
+                此外，所有 URL (包含您 Sitemap 的 URL 在內) 都必須以 URL 逸出，並使用其所在網頁伺服器可解讀的方式編碼。不過，如果您使用任何類型的指令碼、工具或記錄檔來產生
+
+                URL (除了手動輸入外的任何方式)，那麼通常這些方式都已經執行此動作。請確認所有的 URL 都遵循 <a href=""http://asg.web.cmu.edu/rfc/rfc3986.html"">
+
+                    RFC-3986</a> URI 標準、<a href=""http://www.ietf.org/rfc/rfc3987.txt"">RFC-3987</a>
+
+                IRI 標準，以及 <a href=""http://www.w3.org/TR/REC-xml/"">XML 標準</a>。</p>
+
+            <p>
+
+                下列範例顯示使用一個非 ASCII 字元 (<code>&uuml;</code>)，以及一個需要實體逸出之字元 (<code>&amp;</code>) 的
+
+                URL：</p>
+
+            <pre>http://www.example.com/&uuml;mlat.html&amp;q=name</pre>
+
+            <p>
+
+                以下是以 ISO-8859-1 編碼 (用於使用該編碼的主機伺服器) 和 URL 逸出的相同 URL：</p>
+
+            <pre>http://www.example.com/%FCmlat.html&amp;q=name</pre>
+
+            <p>
+
+                以下是以 UTF-8 編碼 (用於使用該編碼的主機伺服器) 和 URL 逸出的相同 URL：</p>
+
+            <pre>http://www.example.com/%C3%BCmlat.html&amp;q=name</pre>
+
+            <p>
+
+                以下是同一個 URL 的實體逸出：</p>
+
+            <pre>http://www.example.com/%C3%BCmlat.html&amp;amp;q=name</pre>
+
+            <h3>
+
+                <a name=""sitemapXMLExample"" id=""sitemapXMLExample""></a>XML Sitemap 範例</h3>
+
+            <p>
+
+                以下顯示一個 XML 格式的 Sitemap 範例。範例中的 Sitemap 包含少數的 URL，每個 URL 都使用不同的選用參數。</p>
+
+            <pre>
+
+&lt;?xml version=""1.0"" encoding=""UTF-8""?&gt;
+
+&lt;<a href=""#urlsetdef"">urlset</a> xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2005-01-01&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;monthly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#prioritydef"">priority</a>&gt;0.8&lt;/priority&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=12&amp;amp;desc=vacation_hawaii&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;weekly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=73&amp;amp;desc=vacation_new_zealand&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2004-12-23&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#changefreqdef"">changefreq</a>&gt;weekly&lt;/changefreq&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=74&amp;amp;desc=vacation_newfoundland&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2004-12-23T18:00:15+00:00&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#prioritydef"">priority</a>&gt;0.3&lt;/priority&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#urldef"">url</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#locdef"">loc</a>&gt;http://www.example.com/catalog?item=83&amp;amp;desc=vacation_usa&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#lastmoddef"">lastmod</a>&gt;2004-11-23&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt;
+
+</pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">回到頁首</a></p>
+
+            <h2>
+
+                <a name=""index"" id=""index""></a>使用 Sitemap 索引檔案 (來群組多個 Sitemap 檔案)</h2>
+
+            <p>
+
+                您可以提供多個 Sitemap 檔案，但每個 Sitemap 檔案不得超過 50,000 個 URL，且不得大於 50MB (52,428,800 位元組)。您可以視需要使用
+
+                gzip 壓縮 Sitemap 檔案以減少頻寬需求，但是解壓縮之後的 Sitemap 檔案不可超過 50MB。如果您想列出 50,000 個以上的 URL，您必須建立多個
+
+                Sitemap 檔案。</p>
+
+            <p>
+
+                如果您提供多個 Sitemap，請將每一個 Sitemap 檔案列於 Sitemap 索引檔中。Sitemap 索引檔所列出的 Sitemap 不可超過 50,000
+
+                個，且不可大於 50MB (52,428,800 位元組)，但可以被壓縮。您可以擁有一個以上的 Sitemap 索引檔。Sitemap 索引檔的 XML 格式與
+
+                Sitemap 檔案的 XML 格式類似。</p>
+
+            <p>
+
+                Sitemap 索引檔必須：</p>
+
+            <ul>
+
+                <li>以起始 <code>&lt;<a href=""#sitemapIndex_sitemapindex"">sitemapindex</a>&gt;</code> 標記做為開頭，並以結束
+
+                    <code>&lt;/sitemapindex&gt;</code> 標記做為結尾。</li>
+
+                <li>讓每個 Sitemap 中包含一個 <code>&lt;<a href=""#sitemapIndex_sitemap"">sitemap</a>&gt;</code>
+
+                    項目做為母層 XML 標記。</li>
+
+                <li>在每個 <code>&lt;sitemap&gt;</code> 母層標記包含一個 <code>&lt;<a href=""#sitemapIndex_loc"">loc</a>&gt;</code>
+
+                    子層項目。</li>
+
+            </ul>
+
+            <p>
+
+                Sitemap 索引檔也可使用選用的 <code>&lt;<a href=""#sitemapIndex_lastmod"">lastmod</a>&gt;</code>
+
+                標記。</p>
+
+            <p>
+
+                <strong>注意：</strong>Sitemap 索引檔只可用來指定它本身所在網站中的 Sitemap。例如，http://www.yoursite.com/sitemap_index.xml
+
+                可以包含 http://www.yoursite.com 中的 Sitemap，但不能包含 http://www.example.com 或 http://yourhost.yoursite.com
+
+                中的 Sitemap。如同 Sitemaps 一般，您的 Sitemap 索引檔必須以 UTF-8 進行編碼。</p>
+
+            <h3>
+
+                <a name=""sitemapIndexXMLExample"" id=""sitemapIndexXMLExample""></a>XML Sitemap 索引範例</h3>
+
+            <p>
+
+                以下範例顯示列出兩個 Sitemap 的 Sitemap 索引。</p>
+
+            <pre>
+
+&lt;?xml version=""1.0"" encoding=""UTF-8""?&gt;
+
+&lt;<a href=""#sitemapIndex_sitemapindex"">sitemapindex</a> xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_sitemap"">sitemap</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_loc"">loc</a>&gt;http://www.example.com/sitemap1.xml.gz&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_lastmod"">lastmod</a>&gt;2004-10-01T18:23:17+00:00&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/sitemap&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_sitemap"">sitemap</a>&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_loc"">loc</a>&gt;http://www.example.com/sitemap2.xml.gz&lt;/loc&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;<a href=""#sitemapIndex_lastmod"">lastmod</a>&gt;2005-01-01&lt;/lastmod&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;/sitemap&gt;
+
+&lt;/sitemapindex&gt;
+
+</pre>
+
+            <p>
+
+                <strong>注意：</strong>Sitemap 中的 URL 就像您 XML 檔案中所有的值一樣，都必須是<a href=""#escaping"">實體逸出</a>。</p>
+
+            <h3>
+
+                <a name=""sitemapIndexTagDefinitions"" id=""sitemapIndexTagDefinitions""></a>Sitemap
+
+                索引 XML 標記的定義</h3>
+
+            <table width=""80%"">
+
+                <tr>
+
+                    <th>
+
+                        屬性
+
+                    </th>
+
+                    <th>
+
+                    </th>
+
+                    <th>
+
+                        說明
+
+                    </th>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""sitemapIndex_sitemapindex"" id=""sitemapIndex_sitemapindex""></a><code>&lt;sitemapindex&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        需求條件
+
+                    </td>
+
+                    <td>
+
+                        壓縮檔案中關於所有 Sitemap 的資訊。
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""sitemapIndex_sitemap"" id=""sitemapIndex_sitemap""></a><code>&lt;sitemap&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        需求條件
+
+                    </td>
+
+                    <td>
+
+                        壓縮關於個別 Sitemap 的資訊。
+
+                    </td>
+
+                </tr>
+
+                <tr>
+
+                    <td>
+
+                        <a name=""sitemapIndex_loc"" id=""sitemapIndex_loc""></a><code>&lt;loc&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        需求條件
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            識別 Sitemap 的位置。</p>
+
+                        <p>
+
+                            此位置可以是 Sitemap、Atom 檔案、RSS 檔案或純文字檔。</p>
+
+                    </td>
+
+                </tr>
+
+                <tr class=""alt"">
+
+                    <td>
+
+                        <a name=""sitemapIndex_lastmod"" id=""sitemapIndex_lastmod""></a><code>&lt;lastmod&gt;</code>
+
+                    </td>
+
+                    <td>
+
+                        選用
+
+                    </td>
+
+                    <td>
+
+                        <p>
+
+                            識別相對應 Sitemap 檔案的修改時間，而不是該 Sitemap 中所列出的任何網頁之變更時間。Lastmod 標記的值需採用 <a href=""http://www.w3.org/TR/NOTE-datetime"">
+
+                                W3C 日期時間</a>格式。</p>
+
+                        <p>
+
+                            您可以藉由提供最後修改的時間戳記，讓搜尋引擎的搜尋器只擷取索引中的一個 Sitemap 子集，例如，搜尋器只能擷取於特定日期之後修改的 Sitemap。這個額外的
+
+                            Sitemap 擷取機制可讓您在大型網站上迅速找到新的 URL。</p>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">回到頁首</a></p>
+
+            <h2>
+
+               <a name=""otherformats"" id=""otherformats""></a> 其他 Sitemap 格式</h2>
+
+            <p>
+
+                Sitemap 通訊協定可讓您將您網頁的相關詳細資料提供給搜尋引擎，而且我們也鼓勵您使用這種方法，因為除了 URL 以外，您還可以提供更多網頁相關資訊。 不過，除了
+
+                XML 通訊協定外，我們也支援 RSS 資訊提供和文字檔，這兩種方式所能提供的資訊較有限。</p>
+
+            <h3>
+
+                聯合供稿資訊提供</h3>
+
+            <p>
+
+                您可以提供 RSS (聯合供稿資訊提供) 2.0，也可以提供 Atom 0.3 或 1.0 資訊提供。 一般而言，只有當您的網站已使用聯合供稿資訊提供時，才會使用此格式。
+
+                請注意，這種方式不會讓搜尋引擎找到您網站中所有的 URL，因為資訊提供只會提供最新 URL的相關資訊，不過搜尋引擎仍能在一般的檢索程序中依照資訊提供裡的網頁連結，使用前述的
+
+                URL 資訊找出您網站的其他網頁。 請確認資訊提供是位在您想要搜尋引擎進行搜尋的最高層目錄。 搜尋引擎會從資訊提供擷取資訊，如下所示：</p>
+
+            <ul>
+
+                <li><strong>>&lt;link&gt;</strong> 欄位：代表 URL</li>
+
+                <li><strong>修改日期 (RSS 資訊提供的 &lt;pubDate&gt; 欄位和 Atom 資訊提供的 [updated] 日期)</strong>：代表上一次修改各
+
+                    URL 的時間。 [修改日期] 欄位是選擇性的。 </li>
+
+            </ul>
+
+            <h3>
+
+                文字檔</h3>
+
+            <p>
+
+                您可以提供純文字檔，其中每行包含一個 URL。 文字檔必須遵循下列指南：</p>
+
+            <ul>
+
+                <li>文字檔每行必須有一個 URL。 URL 不能包含嵌入的新行。</li>
+
+                <li>您必須指定完整的 URL，包括 http。</li>
+
+                <li>每個文字檔最多可以包含 50,000 個 URL，且不可大於 50MB (52,428,800 位元組)。 如果您的網站有 50,000 個以上的 URL，您可以將清單分成多個文字檔，然後分別新增每個檔案。</li>
+
+                <li>文字檔必須使用 UTF-8 編碼。 您可以在儲存檔案時指定這個設定 (例如，在「記事本」中，此設定是列在 [另存新檔] 對話方塊的 [編碼] 功能表中)。</li>
+
+                <li>文字檔的內容應該僅包含 URL 清單。</li>
+
+                <li>文字檔不應該包含頁首或頁尾的資訊。</li>
+
+                <li>您可以視情況使用 gzip 壓縮 Sitemap 文字檔以減少頻寬需求。</li>
+
+                <li>您可以將文字檔命名為任何您希望的名稱。請檢查並確認 URL 遵循 <a href=""http://www.ietf.org/rfc/rfc3986.txt"">RFC-3986</a>
+
+                    URI 標準及 <a href=""http://www.ietf.org/rfc/rfc3987.txt"">RFC-3987</a> IRI 標準</li>
+
+                <li>您應該將文字檔上載至您想要搜尋引擎檢索的最高層目錄，並確認文字檔中所列出的 URL 都不是位於較高層目錄。 </li>
+
+            </ul>
+
+            <p>
+
+                以下顯示文字檔的範例項目。</p>
+
+            <pre>http://www.example.com/catalog?item=1
+
+<br />http://www.example.com/catalog?item=11
+
+<br /></pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">回到頁首</a></p>
+
+            <h2>
+
+                <a name=""location"" id=""location""></a>Sitemap 檔案位置</h2>
+
+            <p>
+
+                Sitemap 檔案的位置會決定可納入該 Sitemap 中的一組 URL。位於 http://example.com/catalog/sitemap.xml
+
+                的 Sitemap 檔案可以包含任何以 http://example.com/catalog/ 開頭的 URL，但不可包含以 http://example.com/images/
+
+                開頭的 URL。</p>
+
+            <p>
+
+                如果您有權限變更 http://example.org/path/sitemap.xml，您也應該有權限提供前置網址為 http://example.org/path/
+
+                之 URL 的資訊。在 http://example.com/catalog/sitemap.xml 中被歸類為有效的 URL 包括以下範例：</p>
+
+            <pre>
+
+http://example.com/catalog/show?item=23
+
+http://example.com/catalog/show?item=233&amp;user=3453
+
+</pre>
+
+            <p>
+
+                http://example.com/catalog/sitemap.xml 中歸類為無效的 URL 包括：</p>
+
+            <pre>
+
+http://example.com/image/show?item=23
+
+http://example.com/image/show?item=233&amp;user=3453
+
+https://example.com/catalog/page1.html
+
+</pre>
+
+            <p>
+
+                請注意，這表示列於 Sitemap 中的所有 URL 必須使用相同的通訊協定 (範例中使用的是 http)，且須和 Sitemap 位於同一個主機上。例如，如果
+
+                Sitemap 位於 http://www.example.com/sitemap.xml，就不可包含來自 http://subdomain.example.com
+
+                的 URL。</p>
+
+            <p>
+
+                已歸類為無效的 URL 會在之後的程序中被捨棄。我們強烈建議您將 Sitemap 放在您網頁伺服器的根目錄中。例如，如果您的網頁伺服器位於 example.com，那麼您的
+
+                Sitemap 索引檔將位於 http://example.com/sitemap.xml。在某些情況下，您需要不同的路徑產生不同的 Sitemap (例如當您組織的安全性權限會針對不同目錄劃分不同的使用權限時)。</p>
+
+            <p>
+
+                如果您使用具有通訊埠號碼的路徑來提交 Sitemap，則必須將該通訊埠號碼做為路徑的一部分，包含在 Sitemap 檔案所列的各個 URL 中。例如，如果您的
+
+                Sitemap 位於 http://www.example.com:100/sitemap.xml，則 Sitemap 中所列的各個 URL 都必須以 http://www.example.com:100
+
+                為開頭。</p>
+
+            <h3>
+
+                Sitemap 與交叉提交</h3>
+
+            <p>
+
+                若要從單一主機提交多個主機的 Sitemap，您必須證明您擁有該主機的所有權，才能在 Sitemap 中提交其 URL。這裡提供一個範例。假設您要提交 3 部主機的
+
+                Sitemap：
+
+                <pre>
+
+www.host1.com with Sitemap file sitemap-host1.xml
+
+www.host2.com with Sitemap file sitemap-host2.xml
+
+www.host3.com with Sitemap file sitemap-host3.xml
+
+</pre>
+
+            </p>
+
+            <p>
+
+                另外，您想要將這三個 Sitemap 全部放置在單一主機上：www.sitemaphost.com。所以 Sitemap URL 將會變成：
+
+                <pre>
+
+http://www.sitemaphost.com/sitemap-host1.xml
+
+http://www.sitemaphost.com/sitemap-host2.xml
+
+http://www.sitemaphost.com/sitemap-host3.xml
+
+</pre>
+
+            </p>
+
+            <p>
+
+                依照預設，這樣會導致「交叉提交」錯誤，因為您正嘗試透過 www.sitemaphost.com 主控的 Sitemap 提交 www.host1.com 的 URL
+
+                (其他兩部主機的情況也是如此)。避免發生此錯誤的辦法就是證明您擁有 (也就是擁有修改檔案的權限) www.host1.com。您可以藉由修改 www.host1.com
+
+                上的 robots.txt 檔案，使其指向 www.sitemaphost.com 上的 Sitemap。</p>
+
+            <p>
+
+                此範例中，位於 http://www.host1.com/robots.txt 的 robots.txt 檔案會包含 ""Sitemap: http://www.sitemaphost.com/sitemap-host1.xml""。透過修改
+
+                www.host1.com 上的 robots.txt 檔案，並將其指向 www.sitemaphost.com 上的 Sitemap，您就可以間接證明您擁有
+
+                www.host1.com。換句話說，不論是誰控制 www.host1.com 上的 robots.txt 檔案皆會信任 http://www.sitemaphost.com/sitemap-host1.xml
+
+                上的 Sitemap，納入 www.host1.com 的 URL。以上相同程序適用於其他兩部主機。</p>
+
+            <p>
+
+                現在您可以提交 www.sitemaphost.com 上的 Sitemap。</p>
+
+            <p>
+
+                當其中一部特定主機的 robots.txt，假設是 http://www.host1.com/robots.txt，指向其他主機上的 Sitemap 或 Sitemap
+
+                索引時，robots.txt 預期每一個目標 Sitemap，例如 http://www.sitemaphost.com/sitemap-host1.xml，屬於該主機的所有
+
+                URL 會指向它。如同先前所述，這是因為 Sitemap 只會預期擁有來自單一主機的 URL。</p>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">回到頁首</a></p>
+
+            <h2>
+
+                <a name=""validating"" id=""validating""></a>驗證 Sitemap</h2>
+
+            <p>
+
+                下列 XML 配置定義可出現在您的 Sitemap 檔之元素和屬性。您可以在以下連結下載這個配置：</p>
+
+            <p>
+
+                <b>關於 Sitemap：</b><a href=""http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"">http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd</a><br />
+
+                <b>關於 Sitemap 索引檔：</b><a href=""http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"">http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd</a></p>
+
+            <p>
+
+                有許多工具可以協助您根據此配置，來驗證您 Sitemap 的結構。在以下每個位置您都可以找到 XML 相關工具的清單：<br />
+
+                <br />
+
+                <a href=""http://www.w3.org/XML/Schema#Tools"">http://www.w3.org/XML/Schema#Tools</a><br />
+
+                <a href=""http://www.xml.com/pub/a/2000/12/13/schematools.html"">http://www.xml.com/pub/a/2000/12/13/schematools.html</a></p>
+
+            <p>
+
+                為了根據配置來驗證您的 Sitemap 或 Sitemap 索引檔，XML 檔案會需要額外的標題，如下所示。</p>
+
+            <p>
+
+                <strong>Sitemap:</strong></p>
+
+            	<pre>
+
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+
+&lt;urlset xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xsi:schemaLocation=""http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;url&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt;
+
+</pre>
+
+            <p>
+
+                <strong>Sitemap 索引檔：</strong></p>
+
+            	<pre>
+
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+
+&lt;sitemapindex xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xsi:schemaLocation=""http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;sitemap&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&lt;/sitemap&gt;
+
+&lt;/sitemapindex&gt;
+
+</pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">回到頁首</a></p>
+
+            <h2>
+
+                <a name=""extending"" id=""extending""></a>擴充 Sitemap 通訊協定</h2>
+
+            <p>
+
+                您可以使用自己的名稱領域來擴充 Sitemaps 通訊協定，只要在根元素指定此名稱領域即可。例如：</p>
+
+            	<pre>
+
+&lt;?xml version='1.0' encoding='UTF-8'?&gt;
+
+&lt;urlset xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xsi:schemaLocation=""http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9""
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xmlns:example=&quot;http://www.example.com/schemas/example_schema&quot;&gt; &lt;!-- namespace extension --&gt;
+
+&nbsp;&nbsp;&nbsp;&lt;url&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;example:example_tag&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/example:example_tag&gt;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...
+
+&nbsp;&nbsp;&nbsp;&lt;/url&gt;
+
+&lt;/urlset&gt;</pre>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">回到頁首</a></p>
+
+            <h2>
+
+                <a name=""informing"" id=""informing""></a>通知搜尋引擎檢索器</h2>
+
+            <p>
+
+                在您建立 Sitemap 檔案並將其放置在您的網頁伺服器上後，您需要將此 Sitemap 檔案的位置告知支援此通訊協定的搜尋引擎。 您可以透過下列方式完成：</p>
+
+            <ul>
+
+                <li><a href=""#submit_engine"">透過搜尋引擎的提交介面進行提交</a></li>
+
+                <li><a href=""#submit_robots"">在您網站的 robots.txt 檔案中指定位置</a></li>
+
+                <li><a href=""#submit_ping"">傳送 HTTP 要求</a><br />
+
+                </li>
+
+            </ul>
+
+            <p>
+
+                搜尋引擎接著就可以擷取您的 Sitemap，並提供 URL 給檢索程式。</p>
+
+            <h3>
+
+                <a name=""submit_engine"" id=""submit_engine""></a>透過搜尋引擎的提交介面提交您的 Sitemap<br />
+
+            </h3>
+
+            <p>
+
+                若要直接向搜尋引擎提交您的 Sitemap，以便接收狀態資訊和處理錯誤，請參閱各搜尋引擎的說明文件。</p>
+
+            <h3>
+
+                <a name=""submit_robots"" id=""submit_robots""></a>在您的 robots.txt 檔案中指定 Sitemap 位置<br />
+
+            </h3>
+
+            <p>
+
+                您可以使用 robots.txt 檔案指定 Sitemap 的位置。 若要這麼做，只要新增以下這行即可：</p>
+
+            <pre>Sitemap: http://www.example.com/sitemap.xml</pre>
+
+            <p>
+
+                這個指令獨立於 user-agent 行，因此可以放在檔案中的任何位置。 如果您有 Sitemap 索引檔，可以只加入該檔案的位置。 您不需要列出索引檔中所列的每一個個別
+
+                Sitemap。</p>
+
+            <p>
+
+                您可以為每個 robots.txt 檔案指定一個以上的 Sitemap。</p>
+
+            	<pre>Sitemap: http://www.example.com/sitemap-host1.xml
+
+Sitemap: http://www.example.com/sitemap-host2.xml</pre>
+
+            <h3>
+
+                <a name=""submit_ping"" id=""submit_ping""></a>透過 HTTP 要求提交您的 Sitemap<br />
+
+            </h3>
+
+            <p>
+
+                若要使用 HTTP 要求來提交您的 Sitemap (將 ""searchengine URL"" 改為搜尋引擎提供的 URL)，請在下列 URL 提交您的要求：</p>
+
+            <pre>&lt;searchengine_URL&gt;/ping?sitemap=sitemap_url</pre>
+
+            <p>
+
+                例如，如果您的 Sitemap 位於 http://www.example.com/sitemap.gz，您的 URL 將會變成：</p>
+
+            <pre>&lt;searchengine_URL&gt;/ping?sitemap=http://www.example.com/sitemap.gz</pre>
+
+            <p>
+
+                URL 將 /ping?sitemap= 之後的所有內容編碼：</p>
+
+            <pre>&lt;searchengine_URL&gt;/ping?sitemap=http%3A%2F%2Fwww.yoursite.com%2Fsitemap.gz</pre>
+
+            <p>
+
+                您可以使用 wget、curl，或您選擇的其他機制來發出 HTTP 要求。成功的要求將會傳回 HTTP 200 的回應碼；如果您收到不同的回應，則請重新提交您的要求。HTTP
+
+                200 回應碼僅表示搜尋引擎已收到您的 Sitemap，並不表示 Sitemap 本身或其所包含的 URL 是有效的。有一個執行此動作的簡單方法，就是設定一個自動化工作來定期產生並提交
+
+                Sitemap。<br />
+
+                <strong>注意：</strong> 如果您所提供的是 Sitemap 索引檔，您只需要發佈一個包含 Sitemap 索引檔位置的 HTTP 要求，而不需要為列於索引中的每一個
+
+                Sitemap 發佈個別要求。</p>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">回到頁首</a></p>
+
+            <h2>
+
+                排除內容</h2>
+
+            <p>
+
+                Sitemaps 通訊協定可讓您告知搜尋引擎您要它為哪些內容建立索引。 若要告知搜尋引擎您不想要建立索引的內容，請使用 robots.txt 檔案或漫遊器中繼標記。
+
+                若需更多關於如何從搜尋引擎排除內容的詳細資訊，請參閱 <a href=""http://www.robotstxt.org"">robotstxt.org</a>
+
+                。</p>
+
+            <p>
+
+                &nbsp;</p>
+
+            <p class=""backtotop"">
+
+                <a href=""#top"">回到頁首</a></p>
+
+            <p class=""date"">
+
+                上次更新日期：2008 年 3 月 21 日
+
+            </p>
+
+        </div>
+
+        <!-- closes #maincontent -->
+
+    </div>
+
+    <!-- closes #container -->
+
+    <div id=""footer"">
+
+        <p>
+
+            <a href=""terms.html"">條款及細則</a></p>
+
+    </div>
+
+</body>
+
+</html>
+
+",sitemaps.org - 通訊協定,https://www.sitemaps.org/zh_HK/protocol.html

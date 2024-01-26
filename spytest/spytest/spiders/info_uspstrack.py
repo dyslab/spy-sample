@@ -1,4 +1,6 @@
 '''
+    [!!! DEPRECATED !!!]
+
     Spider name: uspstrack
 
     Crawl tracking information from usps.com by tracking number.
@@ -9,6 +11,8 @@
     Usage:
         $ scrapy crawl uspstrack --nolog -a num=9274890983116178146826
         $ scrapy crawl uspstrack --nolog -o uspstrack.csv -a num=9261290983116176669147   # Output csv file.
+
+    Last verified date: 27 Nov, 2019
 '''
 # -*- coding: utf-8 -*-
 import scrapy

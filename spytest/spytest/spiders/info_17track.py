@@ -1,16 +1,16 @@
 '''
-    [TEST]
+    [FAILED SPIDER, JUST FOR TEST]
     
     Spider name: 17track
 
     Crawl tracking information from www.17track.net by tracking number.
 
-    Arguments:
-        ! num: Tracking Number.
+    Arguments:  
+        num: Tracking Number.
 
     Usage:
-        scrapy crawl --nolog 17track -a num=LO091851994CN
-        ! scrapy crawl 17track -a num=LO091851994CN -o 17track.json
+    scrapy crawl --nolog 17track -a num=3A5V902493255
+    scrapy crawl 17track -a num=3A5V902493255 -o 17track.json
 '''
 # -*- coding: utf-8 -*-
 import scrapy
@@ -33,7 +33,6 @@ class Test17TrackSpider(scrapy.Spider):
     }
 
     def start_requests(self):
-        print('>>> post request.')
         return [JsonRequest(
             url = "https://t.17track.net/restapi/track",
             method='POST',
@@ -43,7 +42,7 @@ class Test17TrackSpider(scrapy.Spider):
         )]
 
     def after_post(self, response):
-        print('********************** after_post. BEGIN')
+        print('Start after_post...')
         print(response.url)
         print(response.headers)
         # print(bytes.decode(response.body))  #  as same as the line below
@@ -65,4 +64,4 @@ class Test17TrackSpider(scrapy.Spider):
             fbjson.write(response.body)
             fbjson.close()
         
-        print('********************** after_post. END')
+        print('End of after_post')

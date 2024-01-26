@@ -90,8 +90,8 @@ ROBOTSTXT_OBEY = False
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # Download Setting
-DOWNLOAD_DELAY = 1
-DOWNLOAD_TIMEOUT = 30
+DOWNLOAD_DELAY = 5
+DOWNLOAD_TIMEOUT = 50
 RANDOMIZE_DOWNLOAD_DELAY = True
 
 # Feed exports setting

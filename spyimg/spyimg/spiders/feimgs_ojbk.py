@@ -1,7 +1,9 @@
 '''
+    [!!! DEPRECATED !!!]
+
     Spider name: feimgs_ojbk
 
-   Fetch images by pages from website 'ojbk.cc'.
+    Fetch images by pages from website 'ojbk.cc'.
 
     Target site link examples:
         http://www.ojbk.cc/metcn/
@@ -16,6 +18,8 @@
 
     Usage:
         $ scrapy crawl --nolog feimgs_ojbk -a url=http://www.ojbk.cc/metcn/6890.html
+
+    Last verified date: 27 Nov, 2019
 '''
 # -*- coding: utf-8 -*-
 import scrapy
