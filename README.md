@@ -2,7 +2,7 @@
 
 [![Powered by Scrapy](./assets/powered-by-scrapy.svg)](https://scrapy.org/) &nbsp;&nbsp;[![Github license](./assets/license-MIT.svg)](./LICENSE)
 
-***NOTE: The project is ONLY FOR LEARNING, TEST and EDUCATIONAL PURPOSE. It is NOT dedicated to be used as a practised part for certain specific purpose.***
+***NOTE: The project is ONLY FOR LEARNING, TEST and EDUCATIONAL PURPOSE. It is NOT dedicated to be used as a practical part for certain specific purpose.***
 
 ## Development framework: 
 
